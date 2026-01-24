@@ -1,0 +1,37 @@
+name: Update Daily Movie
+
+on:
+  schedule:
+    # 每天北京时间早上 8 点运行 (UTC 时间 0 点)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动点击运行
+
+jobs:
+  update-content:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Fetch Data and Images
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python fetch_daily.py
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          # 如果有变化才提交，没变化则跳过
+          git commit -m "Update daily movie content [skip ci]" || exit 0
+          git push
