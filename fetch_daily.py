@@ -2,108 +2,197 @@ import requests
 import json
 import os
 import sys
+import shutil
+from datetime import datetime
 
-# 1. 从 GitHub Secrets 获取那个长长的 Token
-# 注意：GitHub Secret 里的 TMDB_API_KEY 的值，必须改成你刚才发的那个长字符串(eyJ...)
+# ---------------- 配置区域 ----------------
 TOKEN = os.environ.get("TMDB_API_KEY")
-
 if not TOKEN:
     print("❌ 错误: 环境变量 TMDB_API_KEY 未找到！")
     sys.exit(1)
 
-# 2. 配置 Headers (这是关键修改)
 HEADERS = {
     "accept": "application/json",
-    "Authorization": f"Bearer {TOKEN}"  # 注意这里拼装了 Bearer
+    "Authorization": f"Bearer {TOKEN}"
 }
 
 BASE_URL = "https://api.themoviedb.org/3"
 IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500"
 BACKDROP_BASE_URL = "https://image.tmdb.org/t/p/original"
-OUTPUT_DIR = "data"
-IMAGES_DIR = os.path.join(OUTPUT_DIR, "images")
 
-# 确保目录存在
-os.makedirs(IMAGES_DIR, exist_ok=True)
+DATA_DIR = "data"
+IMAGES_DIR = os.path.join(DATA_DIR, "images")
+JSON_FILE = os.path.join(DATA_DIR, "weekly_updates.json")
+
+# ---------------- 辅助功能 ----------------
+
+def setup_directories(reset=False):
+    if reset:
+        print("🔄 周一重置: 清理旧数据...")
+        if os.path.exists(DATA_DIR):
+            shutil.rmtree(DATA_DIR)
+    
+    os.makedirs(IMAGES_DIR, exist_ok=True)
+    if not os.path.exists(JSON_FILE):
+        with open(JSON_FILE, 'w', encoding='utf-8') as f:
+            json.dump([], f)
+
+def load_existing_ids():
+    if os.path.exists(JSON_FILE):
+        with open(JSON_FILE, 'r', encoding='utf-8') as f:
+            try:
+                data = json.load(f)
+                return [item["id"] for item in data]
+            except:
+                return []
+    return []
 
 def download_image(url, filename):
     if not url: return None
-    print(f"⬇️ 正在下载图片: {url}")
     try:
-        # 下载图片不需要带 Authorization header，直接下即可
-        response = requests.get(url, timeout=15)
-        if response.status_code == 200:
+        resp = requests.get(url, timeout=15)
+        if resp.status_code == 200:
             file_path = os.path.join(IMAGES_DIR, filename)
             with open(file_path, "wb") as f:
-                f.write(response.content)
+                f.write(resp.content)
             return f"images/{filename}"
-        else:
-            print(f"⚠️ 图片下载失败: {response.status_code}")
-    except Exception as e:
-        print(f"⚠️ 图片下载出错: {e}")
+    except:
+        pass
     return None
 
-def main():
-    print("🚀 开始请求 TMDB API (使用 Bearer Token 模式)...")
-    
-    # 获取 Trending (今日热门)
-    url = f"{BASE_URL}/trending/movie/day"
-    # 参数里只放语言，不放 api_key 了
-    params = {"language": "zh-CN"} 
+# ---------------- 核心获取逻辑 ----------------
+
+def get_credits(media_type, media_id):
+    """获取导演和主演"""
+    url = f"{BASE_URL}/{media_type}/{media_id}/credits"
+    try:
+        resp = requests.get(url, headers=HEADERS, params={"language": "zh-CN"}, timeout=10)
+        data = resp.json()
+        
+        # 提取导演 (仅电影有导演，剧集通常是创作者)
+        directors = [c["name"] for c in data.get("crew", []) if c["job"] == "Director"]
+        # 提取前 5 名演员
+        actors = [c["name"] for c in data.get("cast", [])[:5]]
+        
+        return {
+            "directors": directors,
+            "actors": actors
+        }
+    except:
+        return {"directors": [], "actors": []}
+
+def get_reviews(media_type, media_id):
+    """获取热门长评 (通常是英文)"""
+    url = f"{BASE_URL}/{media_type}/{media_id}/reviews"
+    try:
+        # Reviews 接口不一定有中文，所以不强制 zh-CN，否则可能为空
+        resp = requests.get(url, headers=HEADERS, timeout=10)
+        data = resp.json()
+        results = data.get("results", [])
+        
+        # 按内容长度排序，取前 3 条长评 (长评通常信息量大)
+        # 或者按 verify_users 排序
+        sorted_reviews = sorted(results, key=lambda x: len(x["content"]), reverse=True)[:3]
+        
+        reviews_text = []
+        for r in sorted_reviews:
+            clean_content = r["content"].strip()[:1000] # 截取前1000字防止太长
+            reviews_text.append(f"【评论人: {r['author']}】\n{clean_content}...")
+            
+        return reviews_text
+    except:
+        return []
+
+def fetch_content(media_type, existing_ids):
+    url = f"{BASE_URL}/trending/{media_type}/day"
+    params = {"language": "zh-CN"}
     
     try:
-        # ⚠️ 关键点：这里传入 headers=HEADERS
         resp = requests.get(url, headers=HEADERS, params=params, timeout=15)
+        if resp.status_code != 200: return None
         
-        if resp.status_code != 200:
-            print(f"❌ API 请求失败! 状态码: {resp.status_code}")
-            print(f"错误信息: {resp.text}")
-            sys.exit(1)
+        results = resp.json().get("results", [])
+        target_item = None
+        
+        # 去重逻辑
+        for item in results:
+            if item["id"] not in existing_ids:
+                target_item = item
+                break
+        
+        if not target_item: return None
 
-        data = resp.json()
-        if not data.get("results"):
-            print("❌ 结果为空")
-            sys.exit(1)
-
-        top_movie = data["results"][0]
-        movie_id = top_movie["id"]
-        print(f"⭐ 获取到今日热门电影: {top_movie.get('title')} (ID: {movie_id})")
-
-        # 获取详情 (同样带上 headers)
-        detail_url = f"{BASE_URL}/movie/{movie_id}"
+        # --- 获取详情 ---
+        detail_url = f"{BASE_URL}/{media_type}/{target_item['id']}"
         detail_resp = requests.get(detail_url, headers=HEADERS, params=params, timeout=15)
         detail = detail_resp.json()
+        
+        # --- 获取 影评 & 卡司 (新增功能) ---
+        credits = get_credits(media_type, detail["id"])
+        reviews = get_reviews(media_type, detail["id"])
 
-        # 图片处理
-        poster_src = f"{IMAGE_BASE_URL}{detail.get('poster_path')}" if detail.get('poster_path') else None
-        backdrop_src = f"{BACKDROP_BASE_URL}{detail.get('backdrop_path')}" if detail.get('backdrop_path') else None
+        # --- 下载图片 ---
+        poster = download_image(f"{IMAGE_BASE_URL}{detail.get('poster_path')}", f"{media_type}_{detail['id']}_p.jpg")
+        backdrop = download_image(f"{BACKDROP_BASE_URL}{detail.get('backdrop_path')}", f"{media_type}_{detail['id']}_b.jpg")
 
-        local_poster = download_image(poster_src, "poster_daily.jpg")
-        local_backdrop = download_image(backdrop_src, "backdrop_daily.jpg")
-
-        final_data = {
-            "id": detail.get("id"),
-            "title": detail.get("title"),
-            "tagline": detail.get("tagline"),
-            "overview": detail.get("overview"),
-            "vote_average": round(detail.get("vote_average", 0), 1),
-            "release_date": detail.get("release_date"),
-            "runtime": f"{detail.get('runtime')}分钟",
-            "poster_path": local_poster, 
-            "backdrop_path": local_backdrop,
-            "update_time": os.popen('date -u +"%Y-%m-%dT%H:%M:%SZ"').read().strip()
+        return {
+            "update_date": datetime.now().strftime("%Y-%m-%d"),
+            "id": detail["id"],
+            "type": "电影" if media_type == "movie" else "剧集",
+            "title": detail.get("title") or detail.get("name"),
+            "original_title": detail.get("original_title") or detail.get("original_name"),
+            "rating": round(detail.get("vote_average", 0), 1),
+            "date": detail.get("release_date") or detail.get("first_air_date"),
+            "genres": [g["name"] for g in detail.get("genres", [])],
+            "director": credits["directors"],  # 导演
+            "actors": credits["actors"],       # 主演
+            "overview": detail.get("overview", ""), # 官方简介
+            "reviews": reviews,                # 抓取到的长评列表
+            "poster_path": poster,
+            "backdrop_path": backdrop
         }
 
-        # 写入文件
-        json_path = os.path.join(OUTPUT_DIR, "latest.json")
-        with open(json_path, "w", encoding="utf-8") as f:
-            json.dump(final_data, f, ensure_ascii=False, indent=2)
-        
-        print(f"✅ 成功！数据已保存到: {json_path}")
-
     except Exception as e:
-        print(f"❌ 发生未知错误: {e}")
-        sys.exit(1)
+        print(f"❌ Error fetching {media_type}: {e}")
+        return None
+
+# ---------------- 主程序 ----------------
+
+def main():
+    print("🚀 任务开始...")
+    is_monday = datetime.today().weekday() == 0
+    setup_directories(reset=is_monday)
+    
+    existing_ids = load_existing_ids()
+    new_items = []
+
+    # 获取电影
+    print("🎬 获取电影...")
+    movie = fetch_content("movie", existing_ids)
+    if movie: 
+        new_items.append(movie)
+        existing_ids.append(movie["id"])
+
+    # 获取剧集
+    print("📺 获取剧集...")
+    tv = fetch_content("tv", existing_ids)
+    if tv: 
+        new_items.append(tv)
+
+    # 保存
+    if new_items:
+        current_data = []
+        if os.path.exists(JSON_FILE):
+            with open(JSON_FILE, 'r', encoding='utf-8') as f:
+                current_data = json.load(f)
+        
+        current_data.extend(new_items)
+        
+        with open(JSON_FILE, 'w', encoding='utf-8') as f:
+            json.dump(current_data, f, ensure_ascii=False, indent=2)
+        print(f"✅ 更新完成，新增 {len(new_items)} 条。")
+    else:
+        print("⚠️ 无新内容更新。")
 
 if __name__ == "__main__":
     main()
