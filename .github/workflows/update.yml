@@ -3,7 +3,7 @@ name: Update Daily Movie
 on:
   schedule:
     # 每天 UTC 时间 00:00 运行 (对应北京时间 08:00)
-    - cron: '0 0 * * *'
+    - cron: '0 12 * * *'
   workflow_dispatch: # 允许手动点击 "Run workflow" 按钮立即运行
 
 # 赋予 GITHUB_TOKEN 写入仓库内容的权限，防止 Push 失败
