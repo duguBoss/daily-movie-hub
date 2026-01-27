@@ -122,5 +122,66 @@
     "reviews": [],
     "poster_path": "images/tv_224372_p.jpg",
     "backdrop_path": "images/tv_224372_b.jpg"
+  },
+  {
+    "update_date": "2026-01-27",
+    "id": 1234731,
+    "imdb_id": "tt33244668",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt33244668",
+    "type": "电影",
+    "title": "新狂蟒之灾",
+    "original_title": "Anaconda",
+    "rating": 6.0,
+    "date": "2025-12-24",
+    "genres": [
+      "冒险",
+      "喜剧",
+      "恐怖"
+    ],
+    "director": [
+      "汤姆·戈米肯"
+    ],
+    "actors": [
+      "杰克·布莱克",
+      "保罗·路德",
+      "斯蒂夫·扎恩",
+      "坦迪·牛顿",
+      "丹妮拉·曼希沃",
+      "赛尔顿·梅罗"
+    ],
+    "description": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
+    "reviews": [
+      "👤 Manuel São Bento: I headed into this 2025 reimagining of ANACONDA - not a remake! - with a mix of cautious optimism and a heavy dose of nostalgia for the 1997 original. Having followed Tom Gormican's knack for meta-humor, I was curious to see if he could successfully transplant that self-aware energy into a creature feature. What I found was a film that thrives when it leans into its own absurdity, particularly thr...",
+      "👤 CinemaSerf: Perhaps if they’d screened the first version of this story from 1997 followed by the whole of “Quatch” then I might have better appreciated this Sony reboot of the story? Then again, maybe not. Right from the start, we know that there is a giant snake at large and so when recently fired bit-part actor “Griff” (Paul Rudd) suggests to his “Quatch” co-star, wedding video director “Doug” (Jack Black) ..."
+    ],
+    "poster_path": "images/movie_1234731_p.jpg",
+    "backdrop_path": "images/movie_1234731_b.jpg"
+  },
+  {
+    "update_date": "2026-01-27",
+    "id": 291339,
+    "imdb_id": "tt35707374",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt35707374",
+    "type": "剧集",
+    "title": "杀手记忆",
+    "original_title": "Memory of a Killer",
+    "rating": 8.2,
+    "date": "2026-01-25",
+    "genres": [
+      "犯罪"
+    ],
+    "director": [],
+    "actors": [
+      "帕特里克·登普西",
+      "詹姆斯·因佩里奥利",
+      "奥德娅·拉什",
+      "理查德·哈蒙",
+      "Daniel David Stewart",
+      "Peter Gadiot"
+    ],
+    "description": "安杰罗过着双重生活，既是杀手又是顾家男人——这一切原本相安无事，直到他被早发性阿尔茨海默病击中。如今他的两个世界正发生碰撞，将家人置于危险之中。",
+    "reviews": [],
+    "poster_path": "images/tv_291339_p.jpg",
+    "backdrop_path": "images/tv_291339_b.jpg"
   }
 ]
