@@ -2,9 +2,13 @@ name: Update Daily Movie
 
 on:
   schedule:
-    # 每天北京时间早上 8 点运行 (UTC 时间 0 点)
+    # 每天 UTC 时间 00:00 运行 (对应北京时间 08:00)
     - cron: '0 0 * * *'
-  workflow_dispatch: # 允许手动点击运行
+  workflow_dispatch: # 允许手动点击 "Run workflow" 按钮立即运行
+
+# 赋予 GITHUB_TOKEN 写入仓库内容的权限，防止 Push 失败
+permissions:
+  contents: write
 
 jobs:
   update-content:
@@ -20,10 +24,14 @@ jobs:
           python-version: '3.9'
           
       - name: Install Dependencies
-        run: pip install requests
+        # 这里必须安装 python 脚本中用到的所有第三方库
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests wikipedia beautifulsoup4
 
       - name: Fetch Data and Images
         env:
+          # 请确保在 GitHub 仓库 Settings -> Secrets and variables -> Actions 中添加了 TMDB_API_KEY
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python fetch_daily.py
 
@@ -31,7 +39,11 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+          # 添加 data 文件夹下的所有变动 (包含 json 和 images)
           git add data/
-          # 如果有变化才提交，没变化则跳过
-          git commit -m "Update daily movie content [skip ci]" || exit 0
+          
+          # 检查是否有变动，如果有则提交，没有则退出且不报错
+          git commit -m "Update daily movie content: $(date +'%Y-%m-%d') [skip ci]" || echo "No changes to commit"
+          
           git push
