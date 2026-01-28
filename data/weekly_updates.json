@@ -183,5 +183,64 @@
     "reviews": [],
     "poster_path": "images/tv_291339_p.jpg",
     "backdrop_path": "images/tv_291339_b.jpg"
+  },
+  {
+    "update_date": "2026-01-28",
+    "id": 840464,
+    "imdb_id": "tt14850054",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt14850054",
+    "type": "电影",
+    "title": "末日逃生2：迁移",
+    "original_title": "Greenland 2: Migration",
+    "rating": 6.7,
+    "date": "2026-01-07",
+    "genres": [
+      "冒险",
+      "惊悚",
+      "科幻"
+    ],
+    "director": [
+      "里克·罗曼·沃夫"
+    ],
+    "actors": [
+      "杰拉德·巴特勒",
+      "莫雷纳·巴卡林",
+      "罗曼·格里芬·戴维斯",
+      "托米·厄尔·詹金斯",
+      "斯荣德·福斯·奥瓦格",
+      "Amber Rose Revah"
+    ],
+    "description": "　　由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
+    "reviews": [
+      "👤 Manuel São Bento: Full review: https://movieswetextedabout.com/greenland-2-migration-movie-review-gerard-butler-shines-in-a-superior-sequel/\r\n\r\nRating: B-\r\n\r\n\"Greenland 2: Migration is the first surprise of the year, standing out as a remarkable evolution of the original by swapping repetitive melodrama for a more tactical and emotionally engaging survival narrative. While not free of visual hiccups or script conve...",
+      "👤 MovieGuys: There's no keeping a good disaster movie down, with \"Greenland 2\" rounding out a family tale of survival, against the odds. \r\n\r\nWhilst the second outing wont win any awards, there's enough on offer here by way of over the top action, thrills and a compellingly heartfelt, back story, to make this film an entertaining watch.\r\n\r\nIn summary, formulaic, action packed and entertaining. Worth a look...."
+    ],
+    "poster_path": "images/movie_840464_p.jpg",
+    "backdrop_path": "images/movie_840464_b.jpg"
+  },
+  {
+    "update_date": "2026-01-28",
+    "id": 198178,
+    "imdb_id": "tt21066182",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt21066182",
+    "type": "剧集",
+    "title": "奇迹人",
+    "original_title": "Wonder Man",
+    "rating": 6.3,
+    "date": "2026-01-27",
+    "genres": [
+      "喜剧"
+    ],
+    "director": [],
+    "actors": [
+      "叶海亚·阿卜杜勒-迈丁",
+      "阿里安·莫耶德",
+      "X·梅奥",
+      "本·金斯利"
+    ],
+    "description": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
+    "reviews": [],
+    "poster_path": "images/tv_198178_p.jpg",
+    "backdrop_path": "images/tv_198178_b.jpg"
   }
 ]
