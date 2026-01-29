@@ -242,5 +242,70 @@
     "reviews": [],
     "poster_path": "images/tv_198178_p.jpg",
     "backdrop_path": "images/tv_198178_b.jpg"
+  },
+  {
+    "update_date": "2026-01-29",
+    "id": 1168190,
+    "imdb_id": "tt33046197",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt33046197",
+    "type": "电影",
+    "title": "特工迷阵",
+    "original_title": "The Wrecking Crew",
+    "rating": 7.0,
+    "date": "2026-01-28",
+    "genres": [
+      "动作",
+      "喜剧",
+      "犯罪",
+      "悬疑"
+    ],
+    "director": [
+      "安赫尔·曼努埃尔·索托"
+    ],
+    "actors": [
+      "戴夫·巴蒂斯塔",
+      "杰森·莫玛",
+      "特穆拉·莫里森",
+      "莫雷纳·巴卡林",
+      "Roimata Fox",
+      "弗兰基·亚当斯"
+    ],
+    "description": "　　讲述一对性格迥异的同父异母兄弟——哥哥是行事冲动的侦探，弟弟是纪律严明的海军海豹突击队员——因父亲在夏威夷遇害而被迫联手，踏上一场危机四伏的追寻之路，誓要揭开背后隐藏的惊天阴谋。",
+    "reviews": [
+      "👤 Manuel São Bento: Full review: https://fandomwire.com/the-wrecking-crew-review/\r\n\r\nRating: B-\r\n\r\n\"The Wrecking Crew is a competent action experience that survives thanks to that contagious energy and Ángel Manuel Soto's direction, which knows how to value physical spectacle, resulting in a film that, even if it doesn't reinvent the wheel, offers two hours of honest and amusing escapism. The technical execution of t..."
+    ],
+    "poster_path": "images/movie_1168190_p.jpg",
+    "backdrop_path": "images/movie_1168190_b.jpg"
+  },
+  {
+    "update_date": "2026-01-29",
+    "id": 106379,
+    "imdb_id": "tt12637874",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt12637874",
+    "type": "剧集",
+    "title": "辐射",
+    "original_title": "Fallout",
+    "rating": 8.1,
+    "date": "2024-04-10",
+    "genres": [
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [],
+    "actors": [
+      "艾拉·珀内尔",
+      "阿伦·莫滕",
+      "莫伊塞斯·阿里亚斯",
+      "Frances Turner",
+      "凯尔·麦克拉克兰",
+      "沃尔顿·戈金斯"
+    ],
+    "description": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
+    "reviews": [
+      "👤 dumasori: **Extremely Bad**\r\n\r\nI was recommended by a friend to watch this as a \"must-watch,\" and boy, I fell for his prank.\r\n\r\nEight episodes of lengthy, boring, disjointed torture, which leads nowhere.\r\n\r\nI have never played the game or read the lore; therefore, I am not an OG fan. My view is purely based on these eight episodes of mess.\r\n\r\nWhere to begin? Well, the first episode was boring, but I stayed ...",
+      "👤 ineffable_tmdb: Genuinely great video game adaption that manages to walk the narrow path of capturing the feel of the games (the dark humor), while telling a brand new story that works as a television show and expanding that existing universe.\r\n\r\nWalton Goggins is perfectly cast as the worldly ghoul, he is really the star of the show.  The other two protagonists are well cast as naives sent out in to the wild, un..."
+    ],
+    "poster_path": "images/tv_106379_p.jpg",
+    "backdrop_path": "images/tv_106379_b.jpg"
   }
 ]
