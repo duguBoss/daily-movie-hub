@@ -307,5 +307,67 @@
     ],
     "poster_path": "images/tv_106379_p.jpg",
     "backdrop_path": "images/tv_106379_b.jpg"
+  },
+  {
+    "update_date": "2026-01-30",
+    "id": 1198994,
+    "imdb_id": "tt8036976",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt8036976",
+    "type": "电影",
+    "title": "荒岛求救",
+    "original_title": "Send Help",
+    "rating": 7.0,
+    "date": "2026-01-22",
+    "genres": [
+      "恐怖",
+      "惊悚",
+      "喜剧"
+    ],
+    "director": [
+      "萨姆·莱米"
+    ],
+    "actors": [
+      "瑞秋·麦克亚当斯",
+      "迪伦·奥布莱恩",
+      "Edyll Ismail",
+      "丹尼斯·海斯伯特",
+      "沙维尔·塞缪尔",
+      "吴育刚"
+    ],
+    "description": "　　当求生变成猎杀，谁会是最终的幸存者？ 一架飞机失事后，作为同事的两名幸存者被困在荒岛上。他们必须放下过往恩怨、共同求生，但最终演变成一场不安又黑色幽默的意志与智慧对决……",
+    "reviews": [
+      "👤 JPV852: Pretty fun dark comedy-horror that features two solid performances from Rachel McAdams and Dylan O'Brien. Some decent enough gore and a whole a good way to spend two hours. Not sure I'll revisit even on home video but still entertaining, nevertheless. **3.5/5**..."
+    ],
+    "poster_path": "images/movie_1198994_p.jpg",
+    "backdrop_path": "images/movie_1198994_b.jpg"
+  },
+  {
+    "update_date": "2026-01-30",
+    "id": 91239,
+    "imdb_id": "tt8740790",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt8740790",
+    "type": "剧集",
+    "title": "布里杰顿家族",
+    "original_title": "Bridgerton",
+    "rating": 8.1,
+    "date": "2020-12-25",
+    "genres": [
+      "剧情"
+    ],
+    "director": [],
+    "actors": [
+      "鲁丝·吉梅尔",
+      "卢克·汤普森",
+      "叶林·韩",
+      "卢克·牛顿",
+      "妮可拉·考夫兰",
+      "汉娜·多德"
+    ],
+    "description": "布里杰顿家族的八名关系亲密的兄弟姐妹在伦敦上流社会寻找爱情和幸福。",
+    "reviews": [
+      "👤 Peter89Spencer: Bridgerton is a period drama that surprisingly featured sex scenes, but most importantly it also featured a diverse cast as well as modern music.\r\nMy only regret though is that the couple could've continued the rues until the last two episodes, and them getting married would've been in the second series.\r\nBut I suppose it is uncertain if there would be a second series, despite high praises from vi..."
+    ],
+    "poster_path": "images/tv_91239_p.jpg",
+    "backdrop_path": "images/tv_91239_b.jpg"
   }
 ]
