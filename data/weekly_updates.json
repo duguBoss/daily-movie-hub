@@ -369,5 +369,59 @@
     ],
     "poster_path": "images/tv_91239_p.jpg",
     "backdrop_path": "images/tv_91239_b.jpg"
+  },
+  {
+    "update_date": "2026-01-31",
+    "id": 1291608,
+    "imdb_id": "tt33014583",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt33014583",
+    "type": "电影",
+    "title": "征服者",
+    "original_title": "धुरंधर",
+    "rating": 6.8,
+    "date": "2025-12-05",
+    "genres": [
+      "动作",
+      "惊悚"
+    ],
+    "director": [
+      "Aditya Dhar"
+    ],
+    "actors": [
+      "兰维尔·辛格",
+      "阿克夏·卡納",
+      "马达范 R",
+      "Arjun Rampal",
+      "桑杰·达特",
+      "Sara Arjun"
+    ],
+    "description": "2000年代初，一名卧底特务潜入喀拉蚩的黑社会，打进权力核心，只为从内部瓦解暴力网络。",
+    "reviews": [
+      "👤 solstafir7: I liked Dhurandhar.\r\n\r\nIt's not phenomenal or so, but definitely not a lot to complain about. It is a testosterone trip to an extent, but I'm not complaining. Those who are complaining are not really the target audience, it seems.\r\n\r\nTowards the end, there are some risky bets and plot armour, but it's a film, not a documentary. It could have benefited from a somewhat better runtime. 3.5 hrs is lon..."
+    ],
+    "poster_path": "images/movie_1291608_p.jpg",
+    "backdrop_path": "images/movie_1291608_b.jpg"
+  },
+  {
+    "update_date": "2026-01-31",
+    "id": 95479,
+    "imdb_id": "tt12343534",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt12343534",
+    "type": "剧集",
+    "title": "咒术回战",
+    "original_title": "呪術廻戦",
+    "rating": 8.6,
+    "date": "2020-10-03",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [],
+    "actors": [],
+    "description": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
+    "reviews": [],
+    "poster_path": "images/tv_95479_p.jpg",
+    "backdrop_path": "images/tv_95479_b.jpg"
   }
 ]
