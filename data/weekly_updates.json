@@ -423,5 +423,68 @@
     "reviews": [],
     "poster_path": "images/tv_95479_p.jpg",
     "backdrop_path": "images/tv_95479_b.jpg"
+  },
+  {
+    "update_date": "2026-02-01",
+    "id": 1271895,
+    "imdb_id": "tt34381460",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt34381460",
+    "type": "电影",
+    "title": "96分钟：列车爆炸案",
+    "original_title": "96分鐘",
+    "rating": 7.8,
+    "date": "2025-09-05",
+    "genres": [
+      "动作",
+      "犯罪",
+      "爱情"
+    ],
+    "director": [
+      "洪子烜"
+    ],
+    "actors": [
+      "林柏宏",
+      "宋芸桦",
+      "王柏杰",
+      "李李仁",
+      "姚以缇",
+      "蔡凡熙"
+    ],
+    "description": "前拆弹专家和他的未婚妻登上装有炸弹的高铁，卷入外遇丑闻的物理老师，也为了挽回乘坐高铁的妻子，登上了这趟列车。",
+    "reviews": [],
+    "poster_path": "images/movie_1271895_p.jpg",
+    "backdrop_path": "images/movie_1271895_b.jpg"
+  },
+  {
+    "update_date": "2026-02-01",
+    "id": 278882,
+    "imdb_id": "tt34903451",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt34903451",
+    "type": "剧集",
+    "title": "年少有为",
+    "original_title": "年少有为",
+    "rating": 9.0,
+    "date": "2026-01-31",
+    "genres": [
+      "喜剧",
+      "剧情",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [
+      "刘闻洋",
+      "赵启辰"
+    ],
+    "actors": [
+      "彭昱畅",
+      "林允",
+      "刘冠麟",
+      "王天放",
+      "何瑞贤",
+      "吴俊霆"
+    ],
+    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
+    "reviews": [],
+    "poster_path": "images/tv_278882_p.jpg",
+    "backdrop_path": "images/tv_278882_b.jpg"
   }
 ]
