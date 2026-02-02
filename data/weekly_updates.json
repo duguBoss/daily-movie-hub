@@ -1,322 +1,13 @@
 [
   {
-    "update_date": "2026-01-24",
-    "id": 1443762,
-    "type": "电影",
-    "title": "伪术奇才",
-    "original_title": "Il falsario",
-    "rating": 5.9,
-    "date": "2026-01-22",
-    "genres": [
-      "惊悚",
-      "犯罪",
-      "剧情"
-    ],
-    "director": [
-      "Stefano Lodovichi"
-    ],
-    "actors": [
-      "彼得罗·卡斯特利托",
-      "Giulia Michelini",
-      "Andrea Arcangeli",
-      "Pierluigi Gigante",
-      "Aurora Giovinazzo"
-    ],
-    "overview": "1970年代，托尼来到罗马，他身无长物，只有一身绘画才华，以及成为伟大艺术家的梦想。对生活、命运甚至历史的渴望，最终让他成为史上最伟大的伪造大师，更是牵动意大利最难解谜团的核心人物。",
-    "reviews": [],
-    "poster_path": "images/movie_1443762_p.jpg",
-    "backdrop_path": "images/movie_1443762_b.jpg"
-  },
-  {
-    "update_date": "2026-01-24",
-    "id": 209867,
-    "type": "剧集",
-    "title": "葬送的芙莉莲",
-    "original_title": "葬送のフリーレン",
-    "rating": 8.7,
-    "date": "2023-09-29",
-    "genres": [
-      "动画",
-      "动作冒险",
-      "剧情",
-      "Sci-Fi & Fantasy"
-    ],
-    "director": [],
-    "actors": [
-      "种崎敦美",
-      "市之濑加那",
-      "小林千晃",
-      "冈本信彦",
-      "东地宏树"
-    ],
-    "overview": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
-    "reviews": [
-      "【评论人: Zak_Jaggs】\nThis is a special, special show, it affected me in ways I never have been affected before, it made me nostalgic for memories that aren't mine and experiences that aren't real, it drew me in 100%. I'm not as taken in by the Himmel stuff as others but everything else hit the mark, Frieren is a wonderful character that does immortality right, the fern and stark romance works well, and the side-characters are all memorable in their own way. And by God, it looks amazing and has great direction. It is also a very feminine show, addressing traditionally feminine emotional themes and not focusing on masculine coded behaviours like strength, violence and glory, it's pretty cool to see an anime approaching fantasy from that mature untypical angle. A modern classic that will deservedly be in the top 10 anime of the 2020s....",
-      "【评论人: Khoa】\nAbsolute Cinema!..."
-    ],
-    "poster_path": "images/tv_209867_p.jpg",
-    "backdrop_path": "images/tv_209867_b.jpg"
-  },
-  {
-    "update_date": "2026-01-27",
-    "id": 1084242,
-    "imdb_id": "tt26443597",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt26443597",
-    "type": "电影",
-    "title": "疯狂动物城2",
-    "original_title": "Zootopia 2",
-    "rating": 7.6,
-    "date": "2025-11-26",
-    "genres": [
-      "动画",
-      "喜剧",
-      "冒险",
-      "家庭",
-      "悬疑"
-    ],
-    "director": [
-      "贾里德·布什",
-      "拜恩·霍华德"
-    ],
-    "actors": [
-      "詹妮弗·古德温",
-      "杰森·贝特曼",
-      "关继威",
-      "福琼·费姆斯特",
-      "安迪·萨姆伯格",
-      "大卫·斯特雷泽恩"
-    ],
-    "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
-    "reviews": [
-      "👤 RealZero: Very short: Zootopia 2 is lovely and has as many little details about the world and everyone within it as the first one. If you enjoyed the first one, you'll enjoy this one.\r\n\r\nLonger:\r\nZootopia 2 basically does what the first one already did: Using the story of a police case to teach people, inside and outside of the movie, that prejudice and stereotypes we learned to believe are often wrong and ...",
-      "👤 CinemaSerf: Things are not looking so hot for this animal equivalent of “Dempsey and Makepeace” after one of their clandestine operation goes especially pear-shaped and the boss threatens to split up “Hopps” and “Wilde”. The former is probably the more professional of the two and after discovering something distinctly scaly at a grand civic reception that goes wrong, allies with her foxy partner to get to the..."
-    ],
-    "poster_path": "images/movie_1084242_p.jpg",
-    "backdrop_path": "images/movie_1084242_b.jpg"
-  },
-  {
-    "update_date": "2026-01-27",
-    "id": 224372,
-    "imdb_id": "tt27497448",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt27497448",
-    "type": "剧集",
-    "title": "七王国的骑士",
-    "original_title": "A Knight of the Seven Kingdoms",
-    "rating": 8.1,
-    "date": "2026-01-18",
-    "genres": [
-      "剧情",
-      "Sci-Fi & Fantasy",
-      "动作冒险"
-    ],
-    "director": [],
-    "actors": [
-      "彼得·克拉菲",
-      "德克斯特·索尔·安塞尔",
-      "丹尼尔·艾格斯",
-      "Henry Ashton",
-      "Edward Ashley",
-      "Shaun Thomas"
-    ],
-    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
-    "reviews": [],
-    "poster_path": "images/tv_224372_p.jpg",
-    "backdrop_path": "images/tv_224372_b.jpg"
-  },
-  {
-    "update_date": "2026-01-27",
-    "id": 1234731,
-    "imdb_id": "tt33244668",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt33244668",
-    "type": "电影",
-    "title": "新狂蟒之灾",
-    "original_title": "Anaconda",
-    "rating": 6.0,
-    "date": "2025-12-24",
-    "genres": [
-      "冒险",
-      "喜剧",
-      "恐怖"
-    ],
-    "director": [
-      "汤姆·戈米肯"
-    ],
-    "actors": [
-      "杰克·布莱克",
-      "保罗·路德",
-      "斯蒂夫·扎恩",
-      "坦迪·牛顿",
-      "丹妮拉·曼希沃",
-      "赛尔顿·梅罗"
-    ],
-    "description": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
-    "reviews": [
-      "👤 Manuel São Bento: I headed into this 2025 reimagining of ANACONDA - not a remake! - with a mix of cautious optimism and a heavy dose of nostalgia for the 1997 original. Having followed Tom Gormican's knack for meta-humor, I was curious to see if he could successfully transplant that self-aware energy into a creature feature. What I found was a film that thrives when it leans into its own absurdity, particularly thr...",
-      "👤 CinemaSerf: Perhaps if they’d screened the first version of this story from 1997 followed by the whole of “Quatch” then I might have better appreciated this Sony reboot of the story? Then again, maybe not. Right from the start, we know that there is a giant snake at large and so when recently fired bit-part actor “Griff” (Paul Rudd) suggests to his “Quatch” co-star, wedding video director “Doug” (Jack Black) ..."
-    ],
-    "poster_path": "images/movie_1234731_p.jpg",
-    "backdrop_path": "images/movie_1234731_b.jpg"
-  },
-  {
-    "update_date": "2026-01-27",
-    "id": 291339,
-    "imdb_id": "tt35707374",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt35707374",
-    "type": "剧集",
-    "title": "杀手记忆",
-    "original_title": "Memory of a Killer",
-    "rating": 8.2,
-    "date": "2026-01-25",
-    "genres": [
-      "犯罪"
-    ],
-    "director": [],
-    "actors": [
-      "帕特里克·登普西",
-      "詹姆斯·因佩里奥利",
-      "奥德娅·拉什",
-      "理查德·哈蒙",
-      "Daniel David Stewart",
-      "Peter Gadiot"
-    ],
-    "description": "安杰罗过着双重生活，既是杀手又是顾家男人——这一切原本相安无事，直到他被早发性阿尔茨海默病击中。如今他的两个世界正发生碰撞，将家人置于危险之中。",
-    "reviews": [],
-    "poster_path": "images/tv_291339_p.jpg",
-    "backdrop_path": "images/tv_291339_b.jpg"
-  },
-  {
-    "update_date": "2026-01-28",
-    "id": 840464,
-    "imdb_id": "tt14850054",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt14850054",
-    "type": "电影",
-    "title": "末日逃生2：迁移",
-    "original_title": "Greenland 2: Migration",
-    "rating": 6.7,
-    "date": "2026-01-07",
-    "genres": [
-      "冒险",
-      "惊悚",
-      "科幻"
-    ],
-    "director": [
-      "里克·罗曼·沃夫"
-    ],
-    "actors": [
-      "杰拉德·巴特勒",
-      "莫雷纳·巴卡林",
-      "罗曼·格里芬·戴维斯",
-      "托米·厄尔·詹金斯",
-      "斯荣德·福斯·奥瓦格",
-      "Amber Rose Revah"
-    ],
-    "description": "　　由于宇宙中的两颗彗星正面撞击了地球，致使地表生态遭遇毁灭性打击，造成恶劣后果。全人类不得不躲藏在地堡中求得生存。身为科学家的加里蒂带着一家人劫后余生，幸存了下来。虽然他们躲过了第一波的冲击，但是他们所在的地堡中剩余的生活物资逐渐减少，其他幸存的人类也开始蠢蠢欲动。迫于压力这一家人必须离开格陵兰岛的安全掩体，开始踏上危险的旅程。在这一路上他们无奈的发现，整个欧洲已经被毁灭，变成了冰冻荒地。于是一家人只能再次被迫上路……",
-    "reviews": [
-      "👤 Manuel São Bento: Full review: https://movieswetextedabout.com/greenland-2-migration-movie-review-gerard-butler-shines-in-a-superior-sequel/\r\n\r\nRating: B-\r\n\r\n\"Greenland 2: Migration is the first surprise of the year, standing out as a remarkable evolution of the original by swapping repetitive melodrama for a more tactical and emotionally engaging survival narrative. While not free of visual hiccups or script conve...",
-      "👤 MovieGuys: There's no keeping a good disaster movie down, with \"Greenland 2\" rounding out a family tale of survival, against the odds. \r\n\r\nWhilst the second outing wont win any awards, there's enough on offer here by way of over the top action, thrills and a compellingly heartfelt, back story, to make this film an entertaining watch.\r\n\r\nIn summary, formulaic, action packed and entertaining. Worth a look...."
-    ],
-    "poster_path": "images/movie_840464_p.jpg",
-    "backdrop_path": "images/movie_840464_b.jpg"
-  },
-  {
-    "update_date": "2026-01-28",
-    "id": 198178,
-    "imdb_id": "tt21066182",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt21066182",
-    "type": "剧集",
-    "title": "奇迹人",
-    "original_title": "Wonder Man",
-    "rating": 6.3,
-    "date": "2026-01-27",
-    "genres": [
-      "喜剧"
-    ],
-    "director": [],
-    "actors": [
-      "叶海亚·阿卜杜勒-迈丁",
-      "阿里安·莫耶德",
-      "X·梅奥",
-      "本·金斯利"
-    ],
-    "description": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
-    "reviews": [],
-    "poster_path": "images/tv_198178_p.jpg",
-    "backdrop_path": "images/tv_198178_b.jpg"
-  },
-  {
-    "update_date": "2026-01-29",
-    "id": 1168190,
-    "imdb_id": "tt33046197",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt33046197",
-    "type": "电影",
-    "title": "特工迷阵",
-    "original_title": "The Wrecking Crew",
-    "rating": 7.0,
-    "date": "2026-01-28",
-    "genres": [
-      "动作",
-      "喜剧",
-      "犯罪",
-      "悬疑"
-    ],
-    "director": [
-      "安赫尔·曼努埃尔·索托"
-    ],
-    "actors": [
-      "戴夫·巴蒂斯塔",
-      "杰森·莫玛",
-      "特穆拉·莫里森",
-      "莫雷纳·巴卡林",
-      "Roimata Fox",
-      "弗兰基·亚当斯"
-    ],
-    "description": "　　讲述一对性格迥异的同父异母兄弟——哥哥是行事冲动的侦探，弟弟是纪律严明的海军海豹突击队员——因父亲在夏威夷遇害而被迫联手，踏上一场危机四伏的追寻之路，誓要揭开背后隐藏的惊天阴谋。",
-    "reviews": [
-      "👤 Manuel São Bento: Full review: https://fandomwire.com/the-wrecking-crew-review/\r\n\r\nRating: B-\r\n\r\n\"The Wrecking Crew is a competent action experience that survives thanks to that contagious energy and Ángel Manuel Soto's direction, which knows how to value physical spectacle, resulting in a film that, even if it doesn't reinvent the wheel, offers two hours of honest and amusing escapism. The technical execution of t..."
-    ],
-    "poster_path": "images/movie_1168190_p.jpg",
-    "backdrop_path": "images/movie_1168190_b.jpg"
-  },
-  {
-    "update_date": "2026-01-29",
-    "id": 106379,
-    "imdb_id": "tt12637874",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt12637874",
-    "type": "剧集",
-    "title": "辐射",
-    "original_title": "Fallout",
-    "rating": 8.1,
-    "date": "2024-04-10",
-    "genres": [
-      "动作冒险",
-      "Sci-Fi & Fantasy"
-    ],
-    "director": [],
-    "actors": [
-      "艾拉·珀内尔",
-      "阿伦·莫滕",
-      "莫伊塞斯·阿里亚斯",
-      "Frances Turner",
-      "凯尔·麦克拉克兰",
-      "沃尔顿·戈金斯"
-    ],
-    "description": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
-    "reviews": [
-      "👤 dumasori: **Extremely Bad**\r\n\r\nI was recommended by a friend to watch this as a \"must-watch,\" and boy, I fell for his prank.\r\n\r\nEight episodes of lengthy, boring, disjointed torture, which leads nowhere.\r\n\r\nI have never played the game or read the lore; therefore, I am not an OG fan. My view is purely based on these eight episodes of mess.\r\n\r\nWhere to begin? Well, the first episode was boring, but I stayed ...",
-      "👤 ineffable_tmdb: Genuinely great video game adaption that manages to walk the narrow path of capturing the feel of the games (the dark humor), while telling a brand new story that works as a television show and expanding that existing universe.\r\n\r\nWalton Goggins is perfectly cast as the worldly ghoul, he is really the star of the show.  The other two protagonists are well cast as naives sent out in to the wild, un..."
-    ],
-    "poster_path": "images/tv_106379_p.jpg",
-    "backdrop_path": "images/tv_106379_b.jpg"
-  },
-  {
-    "update_date": "2026-01-30",
+    "update_date": "2026-02-02",
     "id": 1198994,
     "imdb_id": "tt8036976",
     "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt8036976",
     "type": "电影",
     "title": "荒岛求救",
     "original_title": "Send Help",
-    "rating": 7.0,
+    "rating": 7.1,
     "date": "2026-01-22",
     "genres": [
       "恐怖",
@@ -336,155 +27,35 @@
     ],
     "description": "　　当求生变成猎杀，谁会是最终的幸存者？ 一架飞机失事后，作为同事的两名幸存者被困在荒岛上。他们必须放下过往恩怨、共同求生，但最终演变成一场不安又黑色幽默的意志与智慧对决……",
     "reviews": [
+      "👤 Chris Sawin: Gushing with frenetic humor, two magnificently cutthroat performances, and some well-placed grimy moments of gore, Send Help blows snot, spurts blood, and gauges eyes the only way Sam Raimi knows how.\r\n\r\nFull review: https://www.giantfreakinrobot.com/ent/horror/send-help-review.html...",
       "👤 JPV852: Pretty fun dark comedy-horror that features two solid performances from Rachel McAdams and Dylan O'Brien. Some decent enough gore and a whole a good way to spend two hours. Not sure I'll revisit even on home video but still entertaining, nevertheless. **3.5/5**..."
     ],
     "poster_path": "images/movie_1198994_p.jpg",
     "backdrop_path": "images/movie_1198994_b.jpg"
   },
   {
-    "update_date": "2026-01-30",
-    "id": 91239,
-    "imdb_id": "tt8740790",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt8740790",
+    "update_date": "2026-02-02",
+    "id": 198178,
+    "imdb_id": "tt21066182",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt21066182",
     "type": "剧集",
-    "title": "布里杰顿家族",
-    "original_title": "Bridgerton",
-    "rating": 8.1,
-    "date": "2020-12-25",
+    "title": "奇迹人",
+    "original_title": "Wonder Man",
+    "rating": 7.0,
+    "date": "2026-01-27",
     "genres": [
+      "喜剧",
       "剧情"
     ],
     "director": [],
     "actors": [
-      "鲁丝·吉梅尔",
-      "卢克·汤普森",
-      "叶林·韩",
-      "卢克·牛顿",
-      "妮可拉·考夫兰",
-      "汉娜·多德"
+      "叶海亚·阿卜杜勒-迈丁",
+      "阿里安·莫耶德",
+      "本·金斯利"
     ],
-    "description": "布里杰顿家族的八名关系亲密的兄弟姐妹在伦敦上流社会寻找爱情和幸福。",
-    "reviews": [
-      "👤 Peter89Spencer: Bridgerton is a period drama that surprisingly featured sex scenes, but most importantly it also featured a diverse cast as well as modern music.\r\nMy only regret though is that the couple could've continued the rues until the last two episodes, and them getting married would've been in the second series.\r\nBut I suppose it is uncertain if there would be a second series, despite high praises from vi..."
-    ],
-    "poster_path": "images/tv_91239_p.jpg",
-    "backdrop_path": "images/tv_91239_b.jpg"
-  },
-  {
-    "update_date": "2026-01-31",
-    "id": 1291608,
-    "imdb_id": "tt33014583",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt33014583",
-    "type": "电影",
-    "title": "征服者",
-    "original_title": "धुरंधर",
-    "rating": 6.8,
-    "date": "2025-12-05",
-    "genres": [
-      "动作",
-      "惊悚"
-    ],
-    "director": [
-      "Aditya Dhar"
-    ],
-    "actors": [
-      "兰维尔·辛格",
-      "阿克夏·卡納",
-      "马达范 R",
-      "Arjun Rampal",
-      "桑杰·达特",
-      "Sara Arjun"
-    ],
-    "description": "2000年代初，一名卧底特务潜入喀拉蚩的黑社会，打进权力核心，只为从内部瓦解暴力网络。",
-    "reviews": [
-      "👤 solstafir7: I liked Dhurandhar.\r\n\r\nIt's not phenomenal or so, but definitely not a lot to complain about. It is a testosterone trip to an extent, but I'm not complaining. Those who are complaining are not really the target audience, it seems.\r\n\r\nTowards the end, there are some risky bets and plot armour, but it's a film, not a documentary. It could have benefited from a somewhat better runtime. 3.5 hrs is lon..."
-    ],
-    "poster_path": "images/movie_1291608_p.jpg",
-    "backdrop_path": "images/movie_1291608_b.jpg"
-  },
-  {
-    "update_date": "2026-01-31",
-    "id": 95479,
-    "imdb_id": "tt12343534",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt12343534",
-    "type": "剧集",
-    "title": "咒术回战",
-    "original_title": "呪術廻戦",
-    "rating": 8.6,
-    "date": "2020-10-03",
-    "genres": [
-      "动画",
-      "动作冒险",
-      "Sci-Fi & Fantasy"
-    ],
-    "director": [],
-    "actors": [],
-    "description": "少年战斗着——「为寻求正确的死亡」。辛酸·后悔·耻辱人类产生的负面情感，化为诅咒，潜入日常生活诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡，并且诅咒只能以诅咒祓除。虎杖悠仁是一位体育万能的高中生，某天他为了从“咒物”危机中解救学姐，而吞下了被诅咒的手指“两面宿傩之指”，让“宿傩”这种诅咒跟自己合而为一。在最强咒术师五条悟的指引下，进入对诅咒专门机关「东京都立咒术高等专门学校」，并遇到了伏黑惠与钉崎野蔷薇这两位同学。某日，突然出现“特级咒物”，他们三人就奉命到现场支援。为了实现爷爷要他“助人”的遗言，虎杖将会继续与“诅咒”奋斗下去。为了祓除诅咒而成为诅咒的少年，无法回头的壮阔故事开始了——",
+    "description": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
     "reviews": [],
-    "poster_path": "images/tv_95479_p.jpg",
-    "backdrop_path": "images/tv_95479_b.jpg"
-  },
-  {
-    "update_date": "2026-02-01",
-    "id": 1271895,
-    "imdb_id": "tt34381460",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt34381460",
-    "type": "电影",
-    "title": "96分钟：列车爆炸案",
-    "original_title": "96分鐘",
-    "rating": 7.8,
-    "date": "2025-09-05",
-    "genres": [
-      "动作",
-      "犯罪",
-      "爱情"
-    ],
-    "director": [
-      "洪子烜"
-    ],
-    "actors": [
-      "林柏宏",
-      "宋芸桦",
-      "王柏杰",
-      "李李仁",
-      "姚以缇",
-      "蔡凡熙"
-    ],
-    "description": "前拆弹专家和他的未婚妻登上装有炸弹的高铁，卷入外遇丑闻的物理老师，也为了挽回乘坐高铁的妻子，登上了这趟列车。",
-    "reviews": [],
-    "poster_path": "images/movie_1271895_p.jpg",
-    "backdrop_path": "images/movie_1271895_b.jpg"
-  },
-  {
-    "update_date": "2026-02-01",
-    "id": 278882,
-    "imdb_id": "tt34903451",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt34903451",
-    "type": "剧集",
-    "title": "年少有为",
-    "original_title": "年少有为",
-    "rating": 9.0,
-    "date": "2026-01-31",
-    "genres": [
-      "喜剧",
-      "剧情",
-      "Sci-Fi & Fantasy"
-    ],
-    "director": [
-      "刘闻洋",
-      "赵启辰"
-    ],
-    "actors": [
-      "彭昱畅",
-      "林允",
-      "刘冠麟",
-      "王天放",
-      "何瑞贤",
-      "吴俊霆"
-    ],
-    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
-    "reviews": [],
-    "poster_path": "images/tv_278882_p.jpg",
-    "backdrop_path": "images/tv_278882_b.jpg"
+    "poster_path": "images/tv_198178_p.jpg",
+    "backdrop_path": "images/tv_198178_b.jpg"
   }
 ]
