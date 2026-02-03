@@ -57,5 +57,66 @@
     "reviews": [],
     "poster_path": "images/tv_198178_p.jpg",
     "backdrop_path": "images/tv_198178_b.jpg"
+  },
+  {
+    "update_date": "2026-02-03",
+    "id": 1368166,
+    "imdb_id": "tt27543632",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt27543632",
+    "type": "电影",
+    "title": "家弑服务",
+    "original_title": "The Housemaid",
+    "rating": 7.1,
+    "date": "2025-12-18",
+    "genres": [
+      "悬疑",
+      "惊悚"
+    ],
+    "director": [
+      "保罗·费格"
+    ],
+    "actors": [
+      "西德妮·斯维尼",
+      "阿曼达·塞弗里德",
+      "布兰登·斯克莱纳",
+      "米凯莱·莫罗尼",
+      "印第安娜·艾尔",
+      "萨拉·库珀"
+    ],
+    "description": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
+    "reviews": [
+      "👤 RyanM350: In with a whimper and out with the trash\r\n\r\nA friend recently suggested to me that 2025 has seen a reduction of left wing politics in popular culture. I politely asked him if he had gone both deaf and blind. The Housemaid is a case in point. Paul Feig and Rebecca Sonnenshine have conspired to unleash yet another entertainment for the type of people who believe The Handmaid's Tale is a reasonable a...",
+      "👤 CinemaSerf: “Millie” (Sydney Sweeney) is on parole and sleeping in her car when she applies for a job housekeeping for the wealthy “Wentworth” family. After her first meeting with the jovial “Nina” (Amanda Seyfried) she doesn’t hold out much hope, so imagine her surprise when she is back in their luxury kitchen with a centrally heated, if somewhat airtight, attic bedroom and a phone replete with a limitless c..."
+    ],
+    "poster_path": "images/movie_1368166_p.jpg",
+    "backdrop_path": "images/movie_1368166_b.jpg"
+  },
+  {
+    "update_date": "2026-02-03",
+    "id": 287231,
+    "imdb_id": "tt36958533",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt36958533",
+    "type": "剧集",
+    "title": "消失之人",
+    "original_title": "Vanished",
+    "rating": 7.3,
+    "date": "2026-02-01",
+    "genres": [
+      "剧情",
+      "悬疑"
+    ],
+    "director": [],
+    "actors": [
+      "凯莉·库柯",
+      "山姆·克拉弗林",
+      "Karin Viard",
+      "马提亚斯·施维赫夫",
+      "西蒙·阿布卡瑞安",
+      "דר זוזובסקי"
+    ],
+    "description": "《消失的她》是一部2023年中国悬疑片，由陈思诚监制，崔睿、刘翔执导，朱一龙、倪妮、文咏珊领衔主演、杜江特邀主演，改编自前苏联电影《为单身汉设下的陷阱》及王暖暖前夫为骗保推其坠崖的真实事件；于2022年12月25日在第四届海南岛国际电影节上首映，于2023年6月22日端午节公映，中国票房达到35.24億元。...\n(📚 来源: 维基百科)",
+    "reviews": [],
+    "poster_path": "images/tv_287231_p.jpg",
+    "backdrop_path": "images/tv_287231_b.jpg"
   }
 ]
