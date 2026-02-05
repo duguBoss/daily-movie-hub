@@ -183,5 +183,61 @@
     ],
     "poster_path": "images/tv_106379_p.jpg",
     "backdrop_path": "images/tv_106379_b.jpg"
+  },
+  {
+    "update_date": "2026-02-05",
+    "id": 1433842,
+    "imdb_id": "tt35718349",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt35718349",
+    "type": "电影",
+    "title": "关系的目标",
+    "original_title": "Relationship Goals",
+    "rating": 3.8,
+    "date": "2026-02-04",
+    "genres": [
+      "爱情",
+      "喜剧"
+    ],
+    "director": [
+      "Linda Mendoza"
+    ],
+    "actors": [
+      "凯莉·罗兰",
+      "克利福德·史密斯",
+      "Robin Thede",
+      "安妮·冈萨雷斯",
+      "丹尼斯·海斯伯特",
+      "Melanie Leishman"
+    ],
+    "description": "电视制片人莉亚·考德威尔立志成为纽约最热门晨间节目的首位女掌门人，而她的前夫也加入了竞争。莉亚一直专注于自己的事业，直到与前夫的化学反应开始动摇她的信念。",
+    "reviews": [],
+    "poster_path": "images/movie_1433842_p.jpg",
+    "backdrop_path": "images/movie_1433842_b.jpg"
+  },
+  {
+    "update_date": "2026-02-05",
+    "id": 310024,
+    "imdb_id": "tt39306333",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt39306333",
+    "type": "剧集",
+    "title": "死亡之花",
+    "original_title": "블러디 플라워",
+    "rating": 8.0,
+    "date": "2026-02-04",
+    "genres": [
+      "犯罪"
+    ],
+    "director": [
+      "韩允善"
+    ],
+    "actors": [
+      "厉云",
+      "成东日",
+      "琴世禄"
+    ],
+    "description": "医学院辍学生李宇谦涉嫌绑架杀害多人，却宣称掌握“治癒所有疾病”的技术。如今这项只存在他脑中的奇蹟，成为要挟世界的筹码：“赦免我，否则带着秘密进坟墓”。同时绝望律师为救患有脑瘤的女儿，必须保护凶手。而正义检察官却为223条冤魂，誓死送他上刑场。二人的博弈一触即发。李宇谦究竟是冷血杀手，还是人类的救星？",
+    "reviews": [],
+    "poster_path": "images/tv_310024_p.jpg",
+    "backdrop_path": "images/tv_310024_b.jpg"
   }
 ]
