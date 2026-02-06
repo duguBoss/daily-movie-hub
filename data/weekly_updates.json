@@ -239,5 +239,65 @@
     "reviews": [],
     "poster_path": "images/tv_310024_p.jpg",
     "backdrop_path": "images/tv_310024_b.jpg"
+  },
+  {
+    "update_date": "2026-02-06",
+    "id": 1548113,
+    "imdb_id": "tt37969426",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt37969426",
+    "type": "电影",
+    "title": "布偶秀50周年特别节目",
+    "original_title": "The Muppet Show",
+    "rating": 6.4,
+    "date": "2026-02-03",
+    "genres": [
+      "喜剧",
+      "家庭",
+      "音乐",
+      "电视电影"
+    ],
+    "director": [
+      "Alex Timbers"
+    ],
+    "actors": [
+      "Bill Barretta",
+      "大卫·戈尔兹",
+      "Eric Jacobson",
+      "Peter Linz",
+      "David Rudman",
+      "Matt Vogel"
+    ],
+    "description": "科米蛙、猪小姐以及其他迷人的伙伴们，重返最初的布偶剧院舞台，带来全新的音乐、搞笑短剧，以及一连串的后台大乱斗。",
+    "reviews": [],
+    "poster_path": "images/movie_1548113_p.jpg",
+    "backdrop_path": "images/movie_1548113_b.jpg"
+  },
+  {
+    "update_date": "2026-02-06",
+    "id": 274776,
+    "imdb_id": "tt37024136",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt37024136",
+    "type": "剧集",
+    "title": "密屋陌路",
+    "original_title": "Unfamiliar",
+    "rating": 7.4,
+    "date": "2026-02-05",
+    "genres": [
+      "剧情",
+      "动作冒险"
+    ],
+    "director": [],
+    "actors": [
+      "Felix Kramer",
+      "Susanne Wolff",
+      "塞缪尔·芬齐",
+      "Natalia Belitski",
+      "安德烈亚斯·皮茨曼",
+      "Maja Bons"
+    ],
+    "description": "曾是间谍的西蒙与梅蕾特隐居在柏林市中心，经营着一间安全屋。原以为早已消弭的威胁再度现形，两人必须躲开杀手、俄罗斯探员、德国联邦情报局、前任情人，以及一大堆曾被他们辜负的人，同时还得努力维系婚姻。",
+    "reviews": [],
+    "poster_path": "images/tv_274776_p.jpg",
+    "backdrop_path": "images/tv_274776_b.jpg"
   }
 ]
