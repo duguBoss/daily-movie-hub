@@ -299,5 +299,67 @@
     "reviews": [],
     "poster_path": "images/tv_274776_p.jpg",
     "backdrop_path": "images/tv_274776_b.jpg"
+  },
+  {
+    "update_date": "2026-02-07",
+    "id": 1373198,
+    "imdb_id": "tt14201728",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt14201728",
+    "type": "电影",
+    "title": "恐怖买家",
+    "original_title": "Twisted",
+    "rating": 6.3,
+    "date": "2026-02-06",
+    "genres": [
+      "恐怖",
+      "惊悚"
+    ],
+    "director": [
+      "达伦·林恩·鲍斯曼"
+    ],
+    "actors": [
+      "杰曼·翰苏",
+      "劳伦·拉维拉",
+      "Mia Healey",
+      "尼尔·麦克唐纳",
+      "艾丽西亚·维特",
+      "吉娜·菲利普斯"
+    ],
+    "description": "2014年昆明火车站暴力恐怖袭击事件是於2014年3月1日21時17分，在中华人民共和国云南省昆明市昆明火车站发生的一宗以阿不都热依木·库尔班为首，東突恐怖分子组织策划的砍殺无辜平民的恐怖袭击事件。此案共造成平民31人死亡、141人受伤。3月3日下午，官方宣布破案，作案团伙共8人，5名直接参与袭击者中4人被当场击毙，1人被当场击伤抓获，其余3名策划者早於2月27日在云南省红河州个旧市沙甸镇被拘捕。同年9月12日，此案由云南省昆明市中级人民法院审理完毕并宣判。...\n(📚 来源: 维基百科)",
+    "reviews": [],
+    "poster_path": "images/movie_1373198_p.jpg",
+    "backdrop_path": "images/movie_1373198_b.jpg"
+  },
+  {
+    "update_date": "2026-02-07",
+    "id": 209867,
+    "imdb_id": "tt22248376",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt22248376",
+    "type": "剧集",
+    "title": "葬送的芙莉莲",
+    "original_title": "葬送のフリーレン",
+    "rating": 8.8,
+    "date": "2023-09-29",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "剧情",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [],
+    "actors": [
+      "种崎敦美",
+      "市之濑加那",
+      "小林千晃",
+      "冈本信彦",
+      "东地宏树",
+      "上田耀司"
+    ],
+    "description": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
+    "reviews": [
+      "👤 Zak_Jaggs: This is a special, special show, it affected me in ways I never have been affected before, it made me nostalgic for memories that aren't mine and experiences that aren't real, it drew me in 100%. I'm not as taken in by the Himmel stuff as others but everything else hit the mark, Frieren is a wonderful character that does immortality right, the fern and stark romance works well, and the side-charac..."
+    ],
+    "poster_path": "images/tv_209867_p.jpg",
+    "backdrop_path": "images/tv_209867_b.jpg"
   }
 ]
