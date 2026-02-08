@@ -361,5 +361,72 @@
     ],
     "poster_path": "images/tv_209867_p.jpg",
     "backdrop_path": "images/tv_209867_b.jpg"
+  },
+  {
+    "update_date": "2026-02-08",
+    "id": 1084242,
+    "imdb_id": "tt26443597",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt26443597",
+    "type": "电影",
+    "title": "疯狂动物城2",
+    "original_title": "Zootopia 2",
+    "rating": 7.6,
+    "date": "2025-11-26",
+    "genres": [
+      "动画",
+      "喜剧",
+      "冒险",
+      "家庭",
+      "悬疑"
+    ],
+    "director": [
+      "贾里德·布什",
+      "拜恩·霍华德"
+    ],
+    "actors": [
+      "詹妮弗·古德温",
+      "杰森·贝特曼",
+      "关继威",
+      "福琼·费姆斯特",
+      "安迪·萨姆伯格",
+      "大卫·斯特雷泽恩"
+    ],
+    "description": "在成功侦破动物城历史上最重大的案件后，警官兔朱迪与狐尼克发现自己陷入了一个错综复杂的谜团之中。一只神秘爬行动物的到来，把温馨的动物城搅动得天翻地覆。面对全新的城市危机，朱迪与狐尼克将继续携手为保卫动物城而奔波。在追捕行动中，这对老搭档不仅要揭开新角色的神秘面纱，还要前往被迷雾笼罩的新领域，探索未知的地下黑市。一场疯狂动物城的全新冒险即将展开……",
+    "reviews": [
+      "👤 RealZero: Very short: Zootopia 2 is lovely and has as many little details about the world and everyone within it as the first one. If you enjoyed the first one, you'll enjoy this one.\r\n\r\nLonger:\r\nZootopia 2 basically does what the first one already did: Using the story of a police case to teach people, inside and outside of the movie, that prejudice and stereotypes we learned to believe are often wrong and ...",
+      "👤 CinemaSerf: Things are not looking so hot for this animal equivalent of “Dempsey and Makepeace” after one of their clandestine operation goes especially pear-shaped and the boss threatens to split up “Hopps” and “Wilde”. The former is probably the more professional of the two and after discovering something distinctly scaly at a grand civic reception that goes wrong, allies with her foxy partner to get to the..."
+    ],
+    "poster_path": "images/movie_1084242_p.jpg",
+    "backdrop_path": "images/movie_1084242_b.jpg"
+  },
+  {
+    "update_date": "2026-02-08",
+    "id": 240459,
+    "imdb_id": "tt29921437",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt29921437",
+    "type": "剧集",
+    "title": "斯巴达克斯：亚述家族",
+    "original_title": "Spartacus: House of Ashur",
+    "rating": 6.5,
+    "date": "2025-12-05",
+    "genres": [
+      "剧情",
+      "动作冒险"
+    ],
+    "director": [],
+    "actors": [
+      "尼克·塔拉贝",
+      "格雷厄姆·麦克塔维什",
+      "泰妮卡 戴维斯",
+      "Jamaica Vaughan",
+      "伊万娜·巴克罗",
+      "Jordi Webber"
+    ],
+    "description": "该剧为《斯巴达克斯》系列的首部衍生剧 。设定在《斯巴达克斯：复仇》第二季的结尾，亚述没有死在维苏威山，他因协助罗马人击杀斯巴达克斯、镇压奴隶起义，获得原属巴蒂亚塔斯的角斗士学院后，在权力与阴谋中建立亚述家族的故事。",
+    "reviews": [
+      "👤 MovieGuys: \"Woketacus: House of DEI\" is a truly horrible, sword and sandals parody, of the pretty decent original series \"Spartacus\" from 2010. Absurdly empowered, woke characterisations, look to re-write history, with yet another biology defying \"girl boss\", who somehow overcomes huge male gladiator killing machines, twice her size. Bringing a dead character, from the original story, back to life, doesn't e..."
+    ],
+    "poster_path": "images/tv_240459_p.jpg",
+    "backdrop_path": "images/tv_240459_b.jpg"
   }
 ]
