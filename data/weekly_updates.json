@@ -59,5 +59,65 @@
     "reviews": [],
     "poster_path": "images/tv_270600_p.jpg",
     "backdrop_path": "images/tv_270600_b.jpg"
+  },
+  {
+    "update_date": "2026-02-10",
+    "id": 1317288,
+    "imdb_id": "tt32916440",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt32916440",
+    "type": "电影",
+    "title": "至尊马蒂",
+    "original_title": "Marty Supreme",
+    "rating": 7.7,
+    "date": "2025-12-19",
+    "genres": [
+      "剧情"
+    ],
+    "director": [
+      "约书亚·萨弗迪"
+    ],
+    "actors": [
+      "提莫西·查拉梅",
+      "格温妮斯·帕特洛",
+      "奥德萨·阿兹恩",
+      "Kevin O'Leary",
+      "Tyler, The Creator",
+      "弗朗辛·德雷舍尔"
+    ],
+    "description": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
+    "reviews": [
+      "👤 Brent Marchant: Films about underdogs who eagerly aspire to be champions are among the biggest crowd-pleasers in today’s movie industry. There’s something about watching a story in which an indisputable hopeful does whatever it takes to come out on top (even if that sometimes calls for occasionally bending ‒ or even breaking ‒ the rules), prompting viewers to pull for the would-be victor in the face of such hards...",
+      "👤 CinemaSerf: “Marty” (Timothée Chalamet) has dreams that he can dominate the sport of table tennis. Perhaps unsurprisingly, most folks he knows in New York think he’s a few bricks short of a full barrow. Anyway, after quite a fun altercation with a rival at work, he purloins seven hundred bucks then absconds to London for the world championships. That's where he meets not only his soon-to-be nemesis “Koto Endo..."
+    ],
+    "poster_path": "images/movie_1317288_p.jpg",
+    "backdrop_path": "images/movie_1317288_b.jpg"
+  },
+  {
+    "update_date": "2026-02-10",
+    "id": 270572,
+    "imdb_id": "tt27557666",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt27557666",
+    "type": "剧集",
+    "title": "蝇王",
+    "original_title": "Lord of the Flies",
+    "rating": 8.5,
+    "date": "2026-02-08",
+    "genres": [
+      "剧情",
+      "动作冒险"
+    ],
+    "director": [],
+    "actors": [
+      "Winston Sawyers",
+      "David McKenna",
+      "Lox Pratt",
+      "Ike Talbut",
+      "Thomas Connor",
+      "Cassius Flemyng"
+    ],
+    "description": "该剧改编自威廉·戈尔丁的经典小说，讲述一群6至12岁的英国男孩因飞机失事困于一座荒岛，起初孩子们尚能分工协作、和睦相处，随着恶的本性萌发膨胀，他们互相猜忌攻击，将世外桃源变成争斗的战场。",
+    "reviews": [],
+    "poster_path": "images/tv_270572_p.jpg",
+    "backdrop_path": "images/tv_270572_b.jpg"
   }
 ]
