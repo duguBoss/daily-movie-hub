@@ -119,5 +119,62 @@
     "reviews": [],
     "poster_path": "images/tv_270572_p.jpg",
     "backdrop_path": "images/tv_270572_b.jpg"
+  },
+  {
+    "update_date": "2026-02-11",
+    "id": 1315303,
+    "imdb_id": "tt33028778",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt33028778",
+    "type": "电影",
+    "title": "猩疯血雨",
+    "original_title": "Primate",
+    "rating": 6.6,
+    "date": "2026-01-01",
+    "genres": [
+      "恐怖",
+      "惊悚"
+    ],
+    "director": [
+      "约翰内斯·罗伯茨"
+    ],
+    "actors": [
+      "Johnny Sequoyah",
+      "Jessica Alexander",
+      "特洛伊·科特苏尔",
+      "Victoria Wyant",
+      "Gia Hunter",
+      "Benjamin Cheng"
+    ],
+    "description": "　　暑期返回夏威夷的露西与父亲亚当、妹妹艾琳及宠物黑猩猩本团聚。趁父亲因工作离家，露西与好友凯特、汉娜及凯特的哥哥尼克策划了一场泳池派对。派对期间，本被一只患有狂犬病的动物咬伤，温顺的黑猩猩逐渐变得凶残。众人被迫困在泳池内，且在无法求援的绝境中，必须协作智斗发狂的本以保全性命。",
+    "reviews": [
+      "👤 CinemaSerf: It’s been a while since “Lucy” (Johnny Sequoyah) has been home to her luxury family home in Hawai’i, so her arrival with friend “Kate” (Victoria Wyant) and the not quite so welcome “Hannah” (Jess Alexander) is eagerly awaited by her deaf dad “Adam” (Troy Kotsur), her younger sister “Erin” (Gia Hunter) and the undoubted star of the film - their pet chimp “Ben”. Now any sense of jeopardy which we mi..."
+    ],
+    "poster_path": "images/movie_1315303_p.jpg",
+    "backdrop_path": "images/movie_1315303_b.jpg"
+  },
+  {
+    "update_date": "2026-02-11",
+    "id": 283370,
+    "imdb_id": "tt35449383",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt35449383",
+    "type": "剧集",
+    "title": "极速山谷",
+    "original_title": "Motorvalley",
+    "rating": 10.0,
+    "date": "2026-02-10",
+    "genres": [
+      "剧情",
+      "动作冒险"
+    ],
+    "director": [],
+    "actors": [
+      "Luca Argentero",
+      "Giulia Michelini",
+      "Caterina Forza"
+    ],
+    "description": "阿图罗、埃琳娜和布鲁几乎失去了一切，但有一件事依然让他们充满热情：对汽车和肾上腺素的热爱。埃琳娜是迪奥尼西家族的年轻成员，这个家族拥有一支著名的赛车队。如今，家族企业落入了她哥哥的手中，她必须重新夺回家族企业的控制权。为此，她聘请了布​​鲁——一个年轻气盛、对速度有着致命迷恋的年轻人——以及阿图罗——一个曾经辉煌但如今已失势的著名车手——来训练她。他们每个人都有理由比其他人跑得更快。",
+    "reviews": [],
+    "poster_path": "images/tv_283370_p.jpg",
+    "backdrop_path": "images/tv_283370_b.jpg"
   }
 ]
