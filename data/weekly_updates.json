@@ -176,5 +176,62 @@
     "reviews": [],
     "poster_path": "images/tv_283370_p.jpg",
     "backdrop_path": "images/tv_283370_b.jpg"
+  },
+  {
+    "update_date": "2026-02-12",
+    "id": 1426964,
+    "imdb_id": "tt39369643",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt39369643",
+    "type": "电影",
+    "title": "惊城之乱",
+    "original_title": "Salve Geral: Irmandade",
+    "rating": 1.0,
+    "date": "2026-02-10",
+    "genres": [
+      "动作",
+      "惊悚",
+      "犯罪",
+      "剧情"
+    ],
+    "director": [
+      "Pedro Morelli"
+    ],
+    "actors": [
+      "Naruna Costa",
+      "塞乌·乔奇",
+      "Camilla Damião",
+      "David Santos",
+      "Hermila Guedes",
+      "Enio Cavalcante"
+    ],
+    "description": "这部电影是 Netflix 热门巴西犯罪影集**《黑狱悲歌》**（Brotherhood / Irmandade）的衍生长篇电影。故事背景设定在圣保罗。当犯罪组织首领的女儿被腐败警察绑架后，该组织发起了大规模的报复行动，使整座城市陷入暴力与混乱的边缘。影集版的主角克里斯蒂娜（由 Naruna Costa 饰演）在片中必须在法律边缘挣扎，试图在局势失控前救出侄女。",
+    "reviews": [],
+    "poster_path": "images/movie_1426964_p.jpg",
+    "backdrop_path": "images/movie_1426964_b.jpg"
+  },
+  {
+    "update_date": "2026-02-12",
+    "id": 213306,
+    "imdb_id": "tt11794812",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt11794812",
+    "type": "剧集",
+    "title": "神探追缉令",
+    "original_title": "Cross",
+    "rating": 7.1,
+    "date": "2024-11-14",
+    "genres": [
+      "犯罪",
+      "剧情",
+      "悬疑"
+    ],
+    "director": [],
+    "actors": [],
+    "description": "改编自《纽约时报》畅销书作家詹姆斯·帕特森的头号英雄原型，《神探追缉令》是一部犯罪惊悚剧集，讲述了优秀的法医心理学家和华盛顿特区大都会警局警探亚历克斯·克罗斯调查办案的故事。克罗斯与他最好的朋友兼搭档侦探约翰·桑普森一起，深入探究美国最阴险狡诈的连环杀人犯的心理，同时还要竭力保护家人免受犯罪世界的威胁。",
+    "reviews": [
+      "👤 MovieGuys: I've read quite a number of James Patterson's Alex Cross, crime thrillers over the years, so I came to this with an enthusiasm that was quickly quashed. \r\n\r\nThe heavy handed script full of trite cliches, stereotypes and clumsy characterisations, is downright irritating. Its not the actors fault, in fact, most hand in pretty decent performances. \r\n\r\nSadly, so much else feels contrived and over stat...",
+      "👤 Peter McGinn: I don’t read thrillers, and don’t watch many as movies either, so perhaps that should be taken into consideration with my review.\r\n\r\nOverall, I wasn’t impressed by the series. I don’t have much patience with stereotypical super-villains — you know, the evil geniuses who always seem to stay a step ahead of the good guys until there is about eight minutes left to watch. No wonder most of them value ..."
+    ],
+    "poster_path": "images/tv_213306_p.jpg",
+    "backdrop_path": "images/tv_213306_b.jpg"
   }
 ]
