@@ -233,5 +233,68 @@
     ],
     "poster_path": "images/tv_213306_p.jpg",
     "backdrop_path": "images/tv_213306_b.jpg"
+  },
+  {
+    "update_date": "2026-02-13",
+    "id": 1242898,
+    "imdb_id": "tt31227572",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt31227572",
+    "type": "电影",
+    "title": "铁血战士：杀戮之地",
+    "original_title": "Predator: Badlands",
+    "rating": 7.7,
+    "date": "2025-11-05",
+    "genres": [
+      "动作",
+      "科幻",
+      "冒险"
+    ],
+    "director": [
+      "丹·特拉亨伯格"
+    ],
+    "actors": [
+      "艾丽·范宁",
+      "迪米特里乌斯·科罗马坦基",
+      "拉维·纳亚兰",
+      "迈克尔·霍米克",
+      "斯特凡·格鲁比",
+      "鲁本·德容"
+    ],
+    "description": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
+    "reviews": [
+      "👤 Chris Sawin: Predator: Badlands is the first Predator film since 2022’s Prey. It is also the second Predator-related media released this year. Hulu’s animated anthology film, Predator: Killer of Killers, is now streaming. All three titles were directed and/or written by Dan Trachtenberg.\r\n\r\nBadlands follows Dek, a young Predator who yearns for his father's approval but struggles to escape the shadow of his big...",
+      "👤 CinemaSerf: “Dek” is the runt of the “Yautja” clan so his militaristic father has asked his elder brother “Kwei” to get rid of him. Luckily, his brother isn’t so brutal and so with an impossible task on his hands to prove his worth, “Dek” manages to escape to a planet where he seeks to make a trophy from the menacing “Kalisk”. Thing is, this place is riddled with all sorts of flesh-eating monsters and plants ..."
+    ],
+    "poster_path": "images/movie_1242898_p.jpg",
+    "backdrop_path": "images/movie_1242898_b.jpg"
+  },
+  {
+    "update_date": "2026-02-13",
+    "id": 273977,
+    "imdb_id": "tt35149250",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt35149250",
+    "type": "剧集",
+    "title": "莎拉的真伪人生",
+    "original_title": "레이디 두아",
+    "rating": 9.5,
+    "date": "2026-02-13",
+    "genres": [
+      "犯罪",
+      "悬疑",
+      "剧情"
+    ],
+    "director": [],
+    "actors": [
+      "申惠善",
+      "李浚赫",
+      "金宰元",
+      "郑多彬",
+      "裴钟玉",
+      "郑镇荣"
+    ],
+    "description": "该剧讲述即使是假的也想成为名牌的女人\"莎拉金\"和追踪她欲望的男人\"武京\"的犯罪悬疑剧。",
+    "reviews": [],
+    "poster_path": "images/tv_273977_p.jpg",
+    "backdrop_path": "images/tv_273977_b.jpg"
   }
 ]
