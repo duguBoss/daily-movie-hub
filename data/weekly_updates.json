@@ -296,5 +296,68 @@
     "reviews": [],
     "poster_path": "images/tv_273977_p.jpg",
     "backdrop_path": "images/tv_273977_b.jpg"
+  },
+  {
+    "update_date": "2026-02-14",
+    "id": 1317672,
+    "imdb_id": "tt36331860",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt36331860",
+    "type": "电影",
+    "title": "爱我爱我",
+    "original_title": "Love Me Love Me",
+    "rating": 6.9,
+    "date": "2026-02-12",
+    "genres": [
+      "爱情",
+      "剧情"
+    ],
+    "director": [
+      "Roger Kumble"
+    ],
+    "actors": [
+      "Mia Jenkins",
+      "Pepe Barroso",
+      "Luca Melucci",
+      "Bruno Cabrerizo",
+      "安德烈娅·郭",
+      "Michelangelo Vizzini"
+    ],
+    "description": "　　琼在弟弟离世后搬往意大利，寻求全新的生活。在新就读的精英学校里，她被危险的校园霸凌者詹姆斯吸引，此人还参与地下综合格斗赛，可琼却与詹姆斯的挚友、完美的优等生威尔展开了交往。但表象往往具有欺骗性，琼很快发现，这所学校里的每个人都并非表面看上去的模样，人人都藏着秘密。随着矛盾不断升级，隐藏的真相逐一浮出水面，琼必须做出抉择，弄清自己的真心究竟归向何方。",
+    "reviews": [],
+    "poster_path": "images/movie_1317672_p.jpg",
+    "backdrop_path": "images/movie_1317672_b.jpg"
+  },
+  {
+    "update_date": "2026-02-14",
+    "id": 209867,
+    "imdb_id": "tt22248376",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt22248376",
+    "type": "剧集",
+    "title": "葬送的芙莉莲",
+    "original_title": "葬送のフリーレン",
+    "rating": 8.8,
+    "date": "2023-09-29",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "剧情",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [],
+    "actors": [
+      "种崎敦美",
+      "市之濑加那",
+      "小林千晃",
+      "冈本信彦",
+      "东地宏树",
+      "上田耀司"
+    ],
+    "description": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
+    "reviews": [
+      "👤 Zak_Jaggs: This is a special, special show, it affected me in ways I never have been affected before, it made me nostalgic for memories that aren't mine and experiences that aren't real, it drew me in 100%. I'm not as taken in by the Himmel stuff as others but everything else hit the mark, Frieren is a wonderful character that does immortality right, the fern and stark romance works well, and the side-charac...",
+      "👤 lettucebowler: This show teaches us to value the small momemts we have with those we love. Life is long, but it's also short. When you look back on your life, you are unlikely to first think to the grand achievements, but rather to the memories and connections made along the way. Those are what we cherish most. \r\n\r\nMy favourite part of the show is the range of emotions it can make you feel, even within a single ..."
+    ],
+    "poster_path": "images/tv_209867_p.jpg",
+    "backdrop_path": "images/tv_209867_b.jpg"
   }
 ]
