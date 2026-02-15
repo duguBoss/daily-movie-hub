@@ -359,5 +359,70 @@
     ],
     "poster_path": "images/tv_209867_p.jpg",
     "backdrop_path": "images/tv_209867_b.jpg"
+  },
+  {
+    "update_date": "2026-02-15",
+    "id": 858024,
+    "imdb_id": "tt14905854",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt14905854",
+    "type": "电影",
+    "title": "哈姆奈特",
+    "original_title": "Hamnet",
+    "rating": 7.8,
+    "date": "2025-11-26",
+    "genres": [
+      "剧情",
+      "爱情",
+      "历史"
+    ],
+    "director": [
+      "赵婷"
+    ],
+    "actors": [
+      "杰茜·巴克利",
+      "保罗·麦斯卡",
+      "艾米丽·沃森",
+      "乔·阿尔文",
+      "雅可比·朱佩",
+      "诺亚·尤佩"
+    ],
+    "description": "16世纪末期，彼时还未成名的威廉·莎士比亚（保罗·麦斯卡 饰）以教授拉丁语为生，为偿还父亲债务而奔波。他与在森林长大、性格奔放不羁的“女巫之女”艾格尼丝（杰西·巴克利 饰）相遇，被对方身上蓬勃的生命力深深吸引，随即陷入热恋。两人深知家族不会认可这段关系，便私下结合，不久后长女苏珊娜（博德希·蕾·布里纳希 饰）降生，他们的婚姻也因此被世俗接纳。后来艾格尼丝怀上双胞胎，却被婆婆要求在室内分娩，被迫切断与自然的联结。最终她顺利诞下儿子哈姆奈特（雅各比·尤佩 饰）与女儿珠迪丝（奥利维娅·莱恩斯 饰）。此后，莎士比亚前往伦敦追寻剧作家的梦想，艾格尼丝则留在家中抚养孩子。不幸的是，哈姆奈特夭折，这给夫妻二人带来沉重打击。莎士比亚将满腔悲痛倾注于创作，写出经典悲剧《哈姆雷特》，还亲自在剧中饰演哈姆雷特父亲的鬼魂；艾格尼丝则在伦敦环球剧院的舞台下，默默宣泄内心的哀伤。",
+    "reviews": [
+      "👤 Brent Marchant: William Shakespeare is widely regarded as the greatest writer in the English language, though there’s some disagreement about whether he actually wrote the materials attributed to him. Even sketchier than this are some of the details about his personal life, aspects of his character that have been the subject of much conjecture, especially where they may have influenced his literary undertakings. ...",
+      "👤 CinemaSerf: Maggie O’Farrell said at this screening that adapting her novel for the screen was akin to watching the sand flow through an hour glass. She started with something extensive, whittled it down to 90-odd pages and then gave it to a director (Chloé Zhao) who frilled it all out again to make a couple of hours for the screen that is somewhat different from the original. I reckon that’s the perfect way ..."
+    ],
+    "poster_path": "images/movie_858024_p.jpg",
+    "backdrop_path": "images/movie_858024_b.jpg"
+  },
+  {
+    "update_date": "2026-02-15",
+    "id": 106379,
+    "imdb_id": "tt12637874",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt12637874",
+    "type": "剧集",
+    "title": "辐射",
+    "original_title": "Fallout",
+    "rating": 8.1,
+    "date": "2024-04-10",
+    "genres": [
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [],
+    "actors": [
+      "艾拉·珀内尔",
+      "阿伦·莫滕",
+      "莫伊塞斯·阿里亚斯",
+      "Frances Turner",
+      "凯尔·麦克拉克兰",
+      "沃尔顿·戈金斯"
+    ],
+    "description": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
+    "reviews": [
+      "👤 dumasori: **Extremely Bad**\r\n\r\nI was recommended by a friend to watch this as a \"must-watch,\" and boy, I fell for his prank.\r\n\r\nEight episodes of lengthy, boring, disjointed torture, which leads nowhere.\r\n\r\nI have never played the game or read the lore; therefore, I am not an OG fan. My view is purely based on these eight episodes of mess.\r\n\r\nWhere to begin? Well, the first episode was boring, but I stayed ...",
+      "👤 ineffable_tmdb: Genuinely great video game adaption that manages to walk the narrow path of capturing the feel of the games (the dark humor), while telling a brand new story that works as a television show and expanding that existing universe.\r\n\r\nWalton Goggins is perfectly cast as the worldly ghoul, he is really the star of the show.  The other two protagonists are well cast as naives sent out in to the wild, un..."
+    ],
+    "poster_path": "images/tv_106379_p.jpg",
+    "backdrop_path": "images/tv_106379_b.jpg"
   }
 ]
