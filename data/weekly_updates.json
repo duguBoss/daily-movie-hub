@@ -1,74 +1,13 @@
 [
   {
-    "update_date": "2026-02-09",
-    "id": 1368166,
-    "imdb_id": "tt27543632",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt27543632",
-    "type": "电影",
-    "title": "家弑服务",
-    "original_title": "The Housemaid",
-    "rating": 7.2,
-    "date": "2025-12-18",
-    "genres": [
-      "悬疑",
-      "惊悚"
-    ],
-    "director": [
-      "保罗·费格"
-    ],
-    "actors": [
-      "西德妮·斯维尼",
-      "阿曼达·塞弗里德",
-      "布兰登·斯克莱纳",
-      "米凯莱·莫罗尼",
-      "印第安娜·艾尔",
-      "萨拉·库珀"
-    ],
-    "description": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-    "reviews": [
-      "👤 RyanM350: In with a whimper and out with the trash\r\n\r\nA friend recently suggested to me that 2025 has seen a reduction of left wing politics in popular culture. I politely asked him if he had gone both deaf and blind. The Housemaid is a case in point. Paul Feig and Rebecca Sonnenshine have conspired to unleash yet another entertainment for the type of people who believe The Handmaid's Tale is a reasonable a...",
-      "👤 graeaehorror: After seeing endless trailers for The Housemaid at recent cinema visits over the last few months I caved and purchased a ticket. And boy that was money well spent!\r\n\r\nBased on the 2022 novel by Frieda McFadden, this thriller is an absolute twist filled, psychological nightmare. Think Gone Girl for the Taylor Swift obsessed with some brutal scenes.\r\n\r\nWe follow Millie (Sydney Sweeney), currently on..."
-    ],
-    "poster_path": "images/movie_1368166_p.jpg",
-    "backdrop_path": "images/movie_1368166_b.jpg"
-  },
-  {
-    "update_date": "2026-02-09",
-    "id": 270600,
-    "imdb_id": "tt33336202",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt33336202",
-    "type": "剧集",
-    "title": "地狱来的芳邻",
-    "original_title": "The 'Burbs",
-    "rating": 3.2,
-    "date": "2026-02-08",
-    "genres": [
-      "喜剧",
-      "悬疑"
-    ],
-    "director": [],
-    "actors": [
-      "琪琪·帕玛",
-      "杰克·怀特豪尔",
-      "Julia Duffy",
-      "保拉·佩尔",
-      "马克·普罗克施",
-      "Kapil Talwalkar"
-    ],
-    "description": "《地獄來的芳鄰》（英語：The 'Burbs）是一部1989年的美國電影，由喬·丹堤執導，湯姆·漢克斯主演。...\n(📚 来源: 维基百科)",
-    "reviews": [],
-    "poster_path": "images/tv_270600_p.jpg",
-    "backdrop_path": "images/tv_270600_b.jpg"
-  },
-  {
-    "update_date": "2026-02-10",
+    "update_date": "2026-02-16",
     "id": 1317288,
     "imdb_id": "tt32916440",
     "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt32916440",
     "type": "电影",
     "title": "至尊马蒂",
     "original_title": "Marty Supreme",
-    "rating": 7.7,
+    "rating": 7.6,
     "date": "2025-12-19",
     "genres": [
       "剧情"
@@ -80,7 +19,7 @@
       "提莫西·查拉梅",
       "格温妮斯·帕特洛",
       "奥德萨·阿兹恩",
-      "Kevin O'Leary",
+      "凯文·奥利里",
       "Tyler, The Creator",
       "弗朗辛·德雷舍尔"
     ],
@@ -93,336 +32,29 @@
     "backdrop_path": "images/movie_1317288_b.jpg"
   },
   {
-    "update_date": "2026-02-10",
-    "id": 270572,
-    "imdb_id": "tt27557666",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt27557666",
+    "update_date": "2026-02-16",
+    "id": 224372,
+    "imdb_id": "tt27497448",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt27497448",
     "type": "剧集",
-    "title": "蝇王",
-    "original_title": "Lord of the Flies",
-    "rating": 8.5,
-    "date": "2026-02-08",
+    "title": "七王国的骑士",
+    "original_title": "A Knight of the Seven Kingdoms",
+    "rating": 8.4,
+    "date": "2026-01-18",
     "genres": [
       "剧情",
+      "Sci-Fi & Fantasy",
       "动作冒险"
     ],
     "director": [],
     "actors": [
-      "Winston Sawyers",
-      "David McKenna",
-      "Lox Pratt",
-      "Ike Talbut",
-      "Thomas Connor",
-      "Cassius Flemyng"
+      "彼得·克拉菲",
+      "德克斯特·索尔·安塞尔",
+      "丹尼尔·艾格斯"
     ],
-    "description": "该剧改编自威廉·戈尔丁的经典小说，讲述一群6至12岁的英国男孩因飞机失事困于一座荒岛，起初孩子们尚能分工协作、和睦相处，随着恶的本性萌发膨胀，他们互相猜忌攻击，将世外桃源变成争斗的战场。",
+    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
     "reviews": [],
-    "poster_path": "images/tv_270572_p.jpg",
-    "backdrop_path": "images/tv_270572_b.jpg"
-  },
-  {
-    "update_date": "2026-02-11",
-    "id": 1315303,
-    "imdb_id": "tt33028778",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt33028778",
-    "type": "电影",
-    "title": "猩疯血雨",
-    "original_title": "Primate",
-    "rating": 6.6,
-    "date": "2026-01-01",
-    "genres": [
-      "恐怖",
-      "惊悚"
-    ],
-    "director": [
-      "约翰内斯·罗伯茨"
-    ],
-    "actors": [
-      "Johnny Sequoyah",
-      "Jessica Alexander",
-      "特洛伊·科特苏尔",
-      "Victoria Wyant",
-      "Gia Hunter",
-      "Benjamin Cheng"
-    ],
-    "description": "　　暑期返回夏威夷的露西与父亲亚当、妹妹艾琳及宠物黑猩猩本团聚。趁父亲因工作离家，露西与好友凯特、汉娜及凯特的哥哥尼克策划了一场泳池派对。派对期间，本被一只患有狂犬病的动物咬伤，温顺的黑猩猩逐渐变得凶残。众人被迫困在泳池内，且在无法求援的绝境中，必须协作智斗发狂的本以保全性命。",
-    "reviews": [
-      "👤 CinemaSerf: It’s been a while since “Lucy” (Johnny Sequoyah) has been home to her luxury family home in Hawai’i, so her arrival with friend “Kate” (Victoria Wyant) and the not quite so welcome “Hannah” (Jess Alexander) is eagerly awaited by her deaf dad “Adam” (Troy Kotsur), her younger sister “Erin” (Gia Hunter) and the undoubted star of the film - their pet chimp “Ben”. Now any sense of jeopardy which we mi..."
-    ],
-    "poster_path": "images/movie_1315303_p.jpg",
-    "backdrop_path": "images/movie_1315303_b.jpg"
-  },
-  {
-    "update_date": "2026-02-11",
-    "id": 283370,
-    "imdb_id": "tt35449383",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt35449383",
-    "type": "剧集",
-    "title": "极速山谷",
-    "original_title": "Motorvalley",
-    "rating": 10.0,
-    "date": "2026-02-10",
-    "genres": [
-      "剧情",
-      "动作冒险"
-    ],
-    "director": [],
-    "actors": [
-      "Luca Argentero",
-      "Giulia Michelini",
-      "Caterina Forza"
-    ],
-    "description": "阿图罗、埃琳娜和布鲁几乎失去了一切，但有一件事依然让他们充满热情：对汽车和肾上腺素的热爱。埃琳娜是迪奥尼西家族的年轻成员，这个家族拥有一支著名的赛车队。如今，家族企业落入了她哥哥的手中，她必须重新夺回家族企业的控制权。为此，她聘请了布​​鲁——一个年轻气盛、对速度有着致命迷恋的年轻人——以及阿图罗——一个曾经辉煌但如今已失势的著名车手——来训练她。他们每个人都有理由比其他人跑得更快。",
-    "reviews": [],
-    "poster_path": "images/tv_283370_p.jpg",
-    "backdrop_path": "images/tv_283370_b.jpg"
-  },
-  {
-    "update_date": "2026-02-12",
-    "id": 1426964,
-    "imdb_id": "tt39369643",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt39369643",
-    "type": "电影",
-    "title": "惊城之乱",
-    "original_title": "Salve Geral: Irmandade",
-    "rating": 1.0,
-    "date": "2026-02-10",
-    "genres": [
-      "动作",
-      "惊悚",
-      "犯罪",
-      "剧情"
-    ],
-    "director": [
-      "Pedro Morelli"
-    ],
-    "actors": [
-      "Naruna Costa",
-      "塞乌·乔奇",
-      "Camilla Damião",
-      "David Santos",
-      "Hermila Guedes",
-      "Enio Cavalcante"
-    ],
-    "description": "这部电影是 Netflix 热门巴西犯罪影集**《黑狱悲歌》**（Brotherhood / Irmandade）的衍生长篇电影。故事背景设定在圣保罗。当犯罪组织首领的女儿被腐败警察绑架后，该组织发起了大规模的报复行动，使整座城市陷入暴力与混乱的边缘。影集版的主角克里斯蒂娜（由 Naruna Costa 饰演）在片中必须在法律边缘挣扎，试图在局势失控前救出侄女。",
-    "reviews": [],
-    "poster_path": "images/movie_1426964_p.jpg",
-    "backdrop_path": "images/movie_1426964_b.jpg"
-  },
-  {
-    "update_date": "2026-02-12",
-    "id": 213306,
-    "imdb_id": "tt11794812",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt11794812",
-    "type": "剧集",
-    "title": "神探追缉令",
-    "original_title": "Cross",
-    "rating": 7.1,
-    "date": "2024-11-14",
-    "genres": [
-      "犯罪",
-      "剧情",
-      "悬疑"
-    ],
-    "director": [],
-    "actors": [],
-    "description": "改编自《纽约时报》畅销书作家詹姆斯·帕特森的头号英雄原型，《神探追缉令》是一部犯罪惊悚剧集，讲述了优秀的法医心理学家和华盛顿特区大都会警局警探亚历克斯·克罗斯调查办案的故事。克罗斯与他最好的朋友兼搭档侦探约翰·桑普森一起，深入探究美国最阴险狡诈的连环杀人犯的心理，同时还要竭力保护家人免受犯罪世界的威胁。",
-    "reviews": [
-      "👤 MovieGuys: I've read quite a number of James Patterson's Alex Cross, crime thrillers over the years, so I came to this with an enthusiasm that was quickly quashed. \r\n\r\nThe heavy handed script full of trite cliches, stereotypes and clumsy characterisations, is downright irritating. Its not the actors fault, in fact, most hand in pretty decent performances. \r\n\r\nSadly, so much else feels contrived and over stat...",
-      "👤 Peter McGinn: I don’t read thrillers, and don’t watch many as movies either, so perhaps that should be taken into consideration with my review.\r\n\r\nOverall, I wasn’t impressed by the series. I don’t have much patience with stereotypical super-villains — you know, the evil geniuses who always seem to stay a step ahead of the good guys until there is about eight minutes left to watch. No wonder most of them value ..."
-    ],
-    "poster_path": "images/tv_213306_p.jpg",
-    "backdrop_path": "images/tv_213306_b.jpg"
-  },
-  {
-    "update_date": "2026-02-13",
-    "id": 1242898,
-    "imdb_id": "tt31227572",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt31227572",
-    "type": "电影",
-    "title": "铁血战士：杀戮之地",
-    "original_title": "Predator: Badlands",
-    "rating": 7.7,
-    "date": "2025-11-05",
-    "genres": [
-      "动作",
-      "科幻",
-      "冒险"
-    ],
-    "director": [
-      "丹·特拉亨伯格"
-    ],
-    "actors": [
-      "艾丽·范宁",
-      "迪米特里乌斯·科罗马坦基",
-      "拉维·纳亚兰",
-      "迈克尔·霍米克",
-      "斯特凡·格鲁比",
-      "鲁本·德容"
-    ],
-    "description": "一名外星猎手被所属部族驱逐后，意外与一台受损的机器人结为盟友，随后踏上险象环生的旅程，寻找自己的终极宿敌。",
-    "reviews": [
-      "👤 Chris Sawin: Predator: Badlands is the first Predator film since 2022’s Prey. It is also the second Predator-related media released this year. Hulu’s animated anthology film, Predator: Killer of Killers, is now streaming. All three titles were directed and/or written by Dan Trachtenberg.\r\n\r\nBadlands follows Dek, a young Predator who yearns for his father's approval but struggles to escape the shadow of his big...",
-      "👤 CinemaSerf: “Dek” is the runt of the “Yautja” clan so his militaristic father has asked his elder brother “Kwei” to get rid of him. Luckily, his brother isn’t so brutal and so with an impossible task on his hands to prove his worth, “Dek” manages to escape to a planet where he seeks to make a trophy from the menacing “Kalisk”. Thing is, this place is riddled with all sorts of flesh-eating monsters and plants ..."
-    ],
-    "poster_path": "images/movie_1242898_p.jpg",
-    "backdrop_path": "images/movie_1242898_b.jpg"
-  },
-  {
-    "update_date": "2026-02-13",
-    "id": 273977,
-    "imdb_id": "tt35149250",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt35149250",
-    "type": "剧集",
-    "title": "莎拉的真伪人生",
-    "original_title": "레이디 두아",
-    "rating": 9.5,
-    "date": "2026-02-13",
-    "genres": [
-      "犯罪",
-      "悬疑",
-      "剧情"
-    ],
-    "director": [],
-    "actors": [
-      "申惠善",
-      "李浚赫",
-      "金宰元",
-      "郑多彬",
-      "裴钟玉",
-      "郑镇荣"
-    ],
-    "description": "该剧讲述即使是假的也想成为名牌的女人\"莎拉金\"和追踪她欲望的男人\"武京\"的犯罪悬疑剧。",
-    "reviews": [],
-    "poster_path": "images/tv_273977_p.jpg",
-    "backdrop_path": "images/tv_273977_b.jpg"
-  },
-  {
-    "update_date": "2026-02-14",
-    "id": 1317672,
-    "imdb_id": "tt36331860",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt36331860",
-    "type": "电影",
-    "title": "爱我爱我",
-    "original_title": "Love Me Love Me",
-    "rating": 6.9,
-    "date": "2026-02-12",
-    "genres": [
-      "爱情",
-      "剧情"
-    ],
-    "director": [
-      "Roger Kumble"
-    ],
-    "actors": [
-      "Mia Jenkins",
-      "Pepe Barroso",
-      "Luca Melucci",
-      "Bruno Cabrerizo",
-      "安德烈娅·郭",
-      "Michelangelo Vizzini"
-    ],
-    "description": "　　琼在弟弟离世后搬往意大利，寻求全新的生活。在新就读的精英学校里，她被危险的校园霸凌者詹姆斯吸引，此人还参与地下综合格斗赛，可琼却与詹姆斯的挚友、完美的优等生威尔展开了交往。但表象往往具有欺骗性，琼很快发现，这所学校里的每个人都并非表面看上去的模样，人人都藏着秘密。随着矛盾不断升级，隐藏的真相逐一浮出水面，琼必须做出抉择，弄清自己的真心究竟归向何方。",
-    "reviews": [],
-    "poster_path": "images/movie_1317672_p.jpg",
-    "backdrop_path": "images/movie_1317672_b.jpg"
-  },
-  {
-    "update_date": "2026-02-14",
-    "id": 209867,
-    "imdb_id": "tt22248376",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt22248376",
-    "type": "剧集",
-    "title": "葬送的芙莉莲",
-    "original_title": "葬送のフリーレン",
-    "rating": 8.8,
-    "date": "2023-09-29",
-    "genres": [
-      "动画",
-      "动作冒险",
-      "剧情",
-      "Sci-Fi & Fantasy"
-    ],
-    "director": [],
-    "actors": [
-      "种崎敦美",
-      "市之濑加那",
-      "小林千晃",
-      "冈本信彦",
-      "东地宏树",
-      "上田耀司"
-    ],
-    "description": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
-    "reviews": [
-      "👤 Zak_Jaggs: This is a special, special show, it affected me in ways I never have been affected before, it made me nostalgic for memories that aren't mine and experiences that aren't real, it drew me in 100%. I'm not as taken in by the Himmel stuff as others but everything else hit the mark, Frieren is a wonderful character that does immortality right, the fern and stark romance works well, and the side-charac...",
-      "👤 lettucebowler: This show teaches us to value the small momemts we have with those we love. Life is long, but it's also short. When you look back on your life, you are unlikely to first think to the grand achievements, but rather to the memories and connections made along the way. Those are what we cherish most. \r\n\r\nMy favourite part of the show is the range of emotions it can make you feel, even within a single ..."
-    ],
-    "poster_path": "images/tv_209867_p.jpg",
-    "backdrop_path": "images/tv_209867_b.jpg"
-  },
-  {
-    "update_date": "2026-02-15",
-    "id": 858024,
-    "imdb_id": "tt14905854",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt14905854",
-    "type": "电影",
-    "title": "哈姆奈特",
-    "original_title": "Hamnet",
-    "rating": 7.8,
-    "date": "2025-11-26",
-    "genres": [
-      "剧情",
-      "爱情",
-      "历史"
-    ],
-    "director": [
-      "赵婷"
-    ],
-    "actors": [
-      "杰茜·巴克利",
-      "保罗·麦斯卡",
-      "艾米丽·沃森",
-      "乔·阿尔文",
-      "雅可比·朱佩",
-      "诺亚·尤佩"
-    ],
-    "description": "16世纪末期，彼时还未成名的威廉·莎士比亚（保罗·麦斯卡 饰）以教授拉丁语为生，为偿还父亲债务而奔波。他与在森林长大、性格奔放不羁的“女巫之女”艾格尼丝（杰西·巴克利 饰）相遇，被对方身上蓬勃的生命力深深吸引，随即陷入热恋。两人深知家族不会认可这段关系，便私下结合，不久后长女苏珊娜（博德希·蕾·布里纳希 饰）降生，他们的婚姻也因此被世俗接纳。后来艾格尼丝怀上双胞胎，却被婆婆要求在室内分娩，被迫切断与自然的联结。最终她顺利诞下儿子哈姆奈特（雅各比·尤佩 饰）与女儿珠迪丝（奥利维娅·莱恩斯 饰）。此后，莎士比亚前往伦敦追寻剧作家的梦想，艾格尼丝则留在家中抚养孩子。不幸的是，哈姆奈特夭折，这给夫妻二人带来沉重打击。莎士比亚将满腔悲痛倾注于创作，写出经典悲剧《哈姆雷特》，还亲自在剧中饰演哈姆雷特父亲的鬼魂；艾格尼丝则在伦敦环球剧院的舞台下，默默宣泄内心的哀伤。",
-    "reviews": [
-      "👤 Brent Marchant: William Shakespeare is widely regarded as the greatest writer in the English language, though there’s some disagreement about whether he actually wrote the materials attributed to him. Even sketchier than this are some of the details about his personal life, aspects of his character that have been the subject of much conjecture, especially where they may have influenced his literary undertakings. ...",
-      "👤 CinemaSerf: Maggie O’Farrell said at this screening that adapting her novel for the screen was akin to watching the sand flow through an hour glass. She started with something extensive, whittled it down to 90-odd pages and then gave it to a director (Chloé Zhao) who frilled it all out again to make a couple of hours for the screen that is somewhat different from the original. I reckon that’s the perfect way ..."
-    ],
-    "poster_path": "images/movie_858024_p.jpg",
-    "backdrop_path": "images/movie_858024_b.jpg"
-  },
-  {
-    "update_date": "2026-02-15",
-    "id": 106379,
-    "imdb_id": "tt12637874",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt12637874",
-    "type": "剧集",
-    "title": "辐射",
-    "original_title": "Fallout",
-    "rating": 8.1,
-    "date": "2024-04-10",
-    "genres": [
-      "动作冒险",
-      "Sci-Fi & Fantasy"
-    ],
-    "director": [],
-    "actors": [
-      "艾拉·珀内尔",
-      "阿伦·莫滕",
-      "莫伊塞斯·阿里亚斯",
-      "Frances Turner",
-      "凯尔·麦克拉克兰",
-      "沃尔顿·戈金斯"
-    ],
-    "description": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
-    "reviews": [
-      "👤 dumasori: **Extremely Bad**\r\n\r\nI was recommended by a friend to watch this as a \"must-watch,\" and boy, I fell for his prank.\r\n\r\nEight episodes of lengthy, boring, disjointed torture, which leads nowhere.\r\n\r\nI have never played the game or read the lore; therefore, I am not an OG fan. My view is purely based on these eight episodes of mess.\r\n\r\nWhere to begin? Well, the first episode was boring, but I stayed ...",
-      "👤 ineffable_tmdb: Genuinely great video game adaption that manages to walk the narrow path of capturing the feel of the games (the dark humor), while telling a brand new story that works as a television show and expanding that existing universe.\r\n\r\nWalton Goggins is perfectly cast as the worldly ghoul, he is really the star of the show.  The other two protagonists are well cast as naives sent out in to the wild, un..."
-    ],
-    "poster_path": "images/tv_106379_p.jpg",
-    "backdrop_path": "images/tv_106379_b.jpg"
+    "poster_path": "images/tv_224372_p.jpg",
+    "backdrop_path": "images/tv_224372_b.jpg"
   }
 ]
