@@ -56,5 +56,64 @@
     "reviews": [],
     "poster_path": "images/tv_224372_p.jpg",
     "backdrop_path": "images/tv_224372_b.jpg"
+  },
+  {
+    "update_date": "2026-02-17",
+    "id": 1272837,
+    "imdb_id": "tt32141377",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt32141377",
+    "type": "电影",
+    "title": "惊变28年2：白骨圣殿",
+    "original_title": "28 Years Later: The Bone Temple",
+    "rating": 7.2,
+    "date": "2026-01-14",
+    "genres": [
+      "恐怖",
+      "惊悚",
+      "科幻"
+    ],
+    "director": [
+      "妮娅·达科斯塔"
+    ],
+    "actors": [
+      "拉尔夫·费因斯",
+      "杰克·奥康奈尔",
+      "Alfie Williams",
+      "艾琳·凯利曼",
+      "Chi Lewis-Parry",
+      "艾玛·莱尔德"
+    ],
+    "description": "末日丧钟再度敲响，带领观众直视人性毁灭的炼狱，感染者的威胁和幸存人类的邪恶。",
+    "reviews": [
+      "👤 graeaehorror: Back in 2002 an 18 year old sat in her local cinema and viewed one of the best zombie films of her generation. Danny Boyle's 28 Days Later changed the game and kickstarted a true juggernaut franchise. \r\n\r\nLittle over 23 years later, a slightly older and still horror obsessed girl sat in a cinema to see the next installment. However this wasn't just a continuation. Nia DaCosta has created a thrilli...",
+      "👤 CinemaSerf: With “Spike” (Alfie Williams) now a captive of “Sir Jimmy” (Jack O’Connell) and his other “Jimmies”, you wouldn't give much for his chances of survival. Terrified and hopelessly out-knived he must face a duel to survive, but even if he wins what awaits him under the control of this megalomaniac who considers himself the direct heir of Satan himself? Meantime, the iodine-coated “Kelson” (Ralph Fien..."
+    ],
+    "poster_path": "images/movie_1272837_p.jpg",
+    "backdrop_path": "images/movie_1272837_b.jpg"
+  },
+  {
+    "update_date": "2026-02-17",
+    "id": 1434,
+    "imdb_id": "tt0182576",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0182576",
+    "type": "剧集",
+    "title": "恶搞之家",
+    "original_title": "Family Guy",
+    "rating": 7.4,
+    "date": "1999-01-31",
+    "genres": [
+      "动画",
+      "喜剧"
+    ],
+    "director": [],
+    "actors": [
+      "塞思·麦克法兰",
+      "亚历克丝·博斯坦",
+      "赛斯·格林"
+    ],
+    "description": "本剧集讲述了格里芬一家的冒险故事。无知得可爱的皮特及其家庭主妇妻子路易丝居住在罗得岛圆蛤市，他们有三个孩子。最大的孩子梅根与周围人格格不入，而青少年克里斯在面对异性时笨拙而无知。最小的孩子斯图尔特是个天才宝宝，一心想要杀死妈妈并毁灭世界。会说话的狗布莱恩在喝着马提尼酒和解决自己生活问题的同时，控制着斯图尔特。",
+    "reviews": [],
+    "poster_path": "images/tv_1434_p.jpg",
+    "backdrop_path": "images/tv_1434_b.jpg"
   }
 ]
