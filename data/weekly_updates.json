@@ -115,5 +115,66 @@
     "reviews": [],
     "poster_path": "images/tv_1434_p.jpg",
     "backdrop_path": "images/tv_1434_b.jpg"
+  },
+  {
+    "update_date": "2026-02-18",
+    "id": 1236153,
+    "imdb_id": "tt31050594",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt31050594",
+    "type": "电影",
+    "title": "极限审判",
+    "original_title": "Mercy",
+    "rating": 6.8,
+    "date": "2026-01-20",
+    "genres": [
+      "科幻",
+      "动作",
+      "惊悚"
+    ],
+    "director": [
+      "提莫·贝克曼贝托夫"
+    ],
+    "actors": [
+      "克里斯·帕拉特",
+      "丽贝卡·弗格森",
+      "卡莉·瑞斯",
+      "安娜贝拉·沃丽丝",
+      "克里斯·沙利文",
+      "凯莉·罗杰斯"
+    ],
+    "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
+    "reviews": [
+      "👤 Brent Marchant: Sometimes even the most ardent cinephiles need to take a break from serious movie watching with a big, dopey action-adventure thriller that has about as much meaningful substance as a supersized bucket of over-buttered popcorn has in nutritional value. And that hankering is nicely satisfied here by the latest release from director Timur Bekmambetov, a guilty pleasure offering that plays like an AI...",
+      "👤 CinemaSerf: When detective “Raven” (Chris Pratt) wakes up, he’s shocked to find himself strapped to a chair and somewhat hungover. All he has for company is the rather assertive image of “Judge Maddox” (Rebecca Ferguson) on a screen before him telling him that he has been arraigned on a charge of murdering his wife (Annabelle Wallis) and is now subject to the automated “Mercy” justice system. This involves AI..."
+    ],
+    "poster_path": "images/movie_1236153_p.jpg",
+    "backdrop_path": "images/movie_1236153_b.jpg"
+  },
+  {
+    "update_date": "2026-02-18",
+    "id": 241372,
+    "imdb_id": "tt30412869",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt30412869",
+    "type": "剧集",
+    "title": "入迷",
+    "original_title": "56 Days",
+    "rating": 4.0,
+    "date": "2026-02-18",
+    "genres": [
+      "犯罪",
+      "剧情",
+      "悬疑"
+    ],
+    "director": [],
+    "actors": [
+      "德芙·卡梅隆",
+      "阿万·乔贾",
+      "Dorian Missick",
+      "卡拉·索萨"
+    ],
+    "description": "该剧会是犯罪故事和情色心理惊悚结合，会围绕Oliver 和Ciara展开。在超市里偶然相遇后，他们迅速并危险地坠入爱河。56天后，凶杀案调查员来到Oliver 的公寓，发现了一具身份不明的尸体——被残忍杀害并故意分解。他杀了她吗？还是她杀了他？",
+    "reviews": [],
+    "poster_path": "images/tv_241372_p.jpg",
+    "backdrop_path": "images/tv_241372_b.jpg"
   }
 ]
