@@ -292,5 +292,63 @@
     "reviews": [],
     "poster_path": "images/tv_201289_p.jpg",
     "backdrop_path": "images/tv_201289_b.jpg"
+  },
+  {
+    "update_date": "2026-02-21",
+    "id": 1428862,
+    "imdb_id": "tt33474179",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt33474179",
+    "type": "电影",
+    "title": "浴火之森",
+    "original_title": "Cortafuego",
+    "rating": 5.7,
+    "date": "2026-02-20",
+    "genres": [
+      "惊悚",
+      "剧情"
+    ],
+    "director": [
+      "David Victori"
+    ],
+    "actors": [
+      "Belén Cuesta",
+      "Enric Auquer",
+      "Candela Martínez",
+      "Joaquín Furriel",
+      "Diana Gómez",
+      "Mika Arias"
+    ],
+    "description": "失去丈夫后，玛格达带着女儿莱德前往森林中的避暑别墅，准备将其出售。这原本是为了治愈创伤的第一步，却因莱德失踪和突发森林大火而发生了意外转折。",
+    "reviews": [],
+    "poster_path": "images/movie_1428862_p.jpg",
+    "backdrop_path": "images/movie_1428862_b.jpg"
+  },
+  {
+    "update_date": "2026-02-21",
+    "id": 298343,
+    "imdb_id": "tt37937030",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt37937030",
+    "type": "剧集",
+    "title": "赌城之道",
+    "original_title": "Strip Law",
+    "rating": 5.7,
+    "date": "2026-02-20",
+    "genres": [
+      "动画",
+      "喜剧",
+      "剧情"
+    ],
+    "director": [],
+    "actors": [
+      "亚当·斯科特",
+      "Janelle James",
+      "基思·大卫",
+      "斯蒂芬·鲁特",
+      "Shannon Gisela"
+    ],
+    "description": "《赌城之道》（Strip Law）的故事围绕刻板拘谨的律师林肯·甘布展开：在拉斯维加斯，他的行事风格太过沉闷乏味，根本赢不下官司；直到他与当地的魔术师、享乐主义者希拉·弗拉姆贝联手，为这座城市抛来的各种离谱至极的案件，注入了夺人眼球的舞台感与戏剧张力。",
+    "reviews": [],
+    "poster_path": "images/tv_298343_p.jpg",
+    "backdrop_path": "images/tv_298343_b.jpg"
   }
 ]
