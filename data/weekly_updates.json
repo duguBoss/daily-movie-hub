@@ -350,5 +350,68 @@
     "reviews": [],
     "poster_path": "images/tv_298343_p.jpg",
     "backdrop_path": "images/tv_298343_b.jpg"
+  },
+  {
+    "update_date": "2026-02-22",
+    "id": 1327688,
+    "imdb_id": "tt24326458",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt24326458",
+    "type": "电影",
+    "title": "一英里：第一章",
+    "original_title": "One Mile: Chapter One",
+    "rating": 7.8,
+    "date": "2026-02-20",
+    "genres": [
+      "动作",
+      "犯罪"
+    ],
+    "director": [
+      "Adam Davidson"
+    ],
+    "actors": [
+      "瑞安·菲利普",
+      "艾米丽·霍菲尔",
+      "克里斯托弗·托马斯·豪威尔",
+      "萨拉·坎宁",
+      "Anthony Timpano",
+      "Sage Linder"
+    ],
+    "description": "　　一位父亲刑满释放后，试图通过带女儿参观大学校园来修复父女关系。然而，当一个凶残的邪教开始追杀他们时，两人所要拼命守护的，早已不只是那段早已破碎的亲情。",
+    "reviews": [],
+    "poster_path": "images/movie_1327688_p.jpg",
+    "backdrop_path": "images/movie_1327688_b.jpg"
+  },
+  {
+    "update_date": "2026-02-22",
+    "id": 209867,
+    "imdb_id": "tt22248376",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt22248376",
+    "type": "剧集",
+    "title": "葬送的芙莉莲",
+    "original_title": "葬送のフリーレン",
+    "rating": 8.8,
+    "date": "2023-09-29",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "剧情",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [],
+    "actors": [
+      "种崎敦美",
+      "市之濑加那",
+      "小林千晃",
+      "冈本信彦",
+      "东地宏树",
+      "上田耀司"
+    ],
+    "description": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
+    "reviews": [
+      "👤 Zak_Jaggs: This is a special, special show, it affected me in ways I never have been affected before, it made me nostalgic for memories that aren't mine and experiences that aren't real, it drew me in 100%. I'm not as taken in by the Himmel stuff as others but everything else hit the mark, Frieren is a wonderful character that does immortality right, the fern and stark romance works well, and the side-charac...",
+      "👤 lettucebowler: This show teaches us to value the small momemts we have with those we love. Life is long, but it's also short. When you look back on your life, you are unlikely to first think to the grand achievements, but rather to the memories and connections made along the way. Those are what we cherish most. \r\n\r\nMy favourite part of the show is the range of emotions it can make you feel, even within a single ..."
+    ],
+    "poster_path": "images/tv_209867_p.jpg",
+    "backdrop_path": "images/tv_209867_b.jpg"
   }
 ]
