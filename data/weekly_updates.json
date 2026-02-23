@@ -1,130 +1,13 @@
 [
   {
-    "update_date": "2026-02-16",
-    "id": 1317288,
-    "imdb_id": "tt32916440",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt32916440",
-    "type": "电影",
-    "title": "至尊马蒂",
-    "original_title": "Marty Supreme",
-    "rating": 7.6,
-    "date": "2025-12-19",
-    "genres": [
-      "剧情"
-    ],
-    "director": [
-      "约书亚·萨弗迪"
-    ],
-    "actors": [
-      "提莫西·查拉梅",
-      "格温妮斯·帕特洛",
-      "奥德萨·阿兹恩",
-      "凯文·奥利里",
-      "Tyler, The Creator",
-      "弗朗辛·德雷舍尔"
-    ],
-    "description": "为了实现一个无人相信的伟大梦想，马蒂去了一趟地狱。年轻迷人的马蒂，渴望名声、荣耀，以及遥不可及的“世界乒乓球冠军”头衔。为了梦想，他什么都能做到。穿越纽约、巴黎、伦敦、开罗与东京，他在无数的挫折与考验中前行，遇见了挚友、恋人与伙伴，也一次次在胜败之间重生。最终，他开创了自己的伟大道路，也领悟了荣光的真正意义。",
-    "reviews": [
-      "👤 Brent Marchant: Films about underdogs who eagerly aspire to be champions are among the biggest crowd-pleasers in today’s movie industry. There’s something about watching a story in which an indisputable hopeful does whatever it takes to come out on top (even if that sometimes calls for occasionally bending ‒ or even breaking ‒ the rules), prompting viewers to pull for the would-be victor in the face of such hards...",
-      "👤 CinemaSerf: “Marty” (Timothée Chalamet) has dreams that he can dominate the sport of table tennis. Perhaps unsurprisingly, most folks he knows in New York think he’s a few bricks short of a full barrow. Anyway, after quite a fun altercation with a rival at work, he purloins seven hundred bucks then absconds to London for the world championships. That's where he meets not only his soon-to-be nemesis “Koto Endo..."
-    ],
-    "poster_path": "images/movie_1317288_p.jpg",
-    "backdrop_path": "images/movie_1317288_b.jpg"
-  },
-  {
-    "update_date": "2026-02-16",
-    "id": 224372,
-    "imdb_id": "tt27497448",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt27497448",
-    "type": "剧集",
-    "title": "七王国的骑士",
-    "original_title": "A Knight of the Seven Kingdoms",
-    "rating": 8.4,
-    "date": "2026-01-18",
-    "genres": [
-      "剧情",
-      "Sci-Fi & Fantasy",
-      "动作冒险"
-    ],
-    "director": [],
-    "actors": [
-      "彼得·克拉菲",
-      "德克斯特·索尔·安塞尔",
-      "丹尼尔·艾格斯"
-    ],
-    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
-    "reviews": [],
-    "poster_path": "images/tv_224372_p.jpg",
-    "backdrop_path": "images/tv_224372_b.jpg"
-  },
-  {
-    "update_date": "2026-02-17",
-    "id": 1272837,
-    "imdb_id": "tt32141377",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt32141377",
-    "type": "电影",
-    "title": "惊变28年2：白骨圣殿",
-    "original_title": "28 Years Later: The Bone Temple",
-    "rating": 7.2,
-    "date": "2026-01-14",
-    "genres": [
-      "恐怖",
-      "惊悚",
-      "科幻"
-    ],
-    "director": [
-      "妮娅·达科斯塔"
-    ],
-    "actors": [
-      "拉尔夫·费因斯",
-      "杰克·奥康奈尔",
-      "Alfie Williams",
-      "艾琳·凯利曼",
-      "Chi Lewis-Parry",
-      "艾玛·莱尔德"
-    ],
-    "description": "末日丧钟再度敲响，带领观众直视人性毁灭的炼狱，感染者的威胁和幸存人类的邪恶。",
-    "reviews": [
-      "👤 graeaehorror: Back in 2002 an 18 year old sat in her local cinema and viewed one of the best zombie films of her generation. Danny Boyle's 28 Days Later changed the game and kickstarted a true juggernaut franchise. \r\n\r\nLittle over 23 years later, a slightly older and still horror obsessed girl sat in a cinema to see the next installment. However this wasn't just a continuation. Nia DaCosta has created a thrilli...",
-      "👤 CinemaSerf: With “Spike” (Alfie Williams) now a captive of “Sir Jimmy” (Jack O’Connell) and his other “Jimmies”, you wouldn't give much for his chances of survival. Terrified and hopelessly out-knived he must face a duel to survive, but even if he wins what awaits him under the control of this megalomaniac who considers himself the direct heir of Satan himself? Meantime, the iodine-coated “Kelson” (Ralph Fien..."
-    ],
-    "poster_path": "images/movie_1272837_p.jpg",
-    "backdrop_path": "images/movie_1272837_b.jpg"
-  },
-  {
-    "update_date": "2026-02-17",
-    "id": 1434,
-    "imdb_id": "tt0182576",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0182576",
-    "type": "剧集",
-    "title": "恶搞之家",
-    "original_title": "Family Guy",
-    "rating": 7.4,
-    "date": "1999-01-31",
-    "genres": [
-      "动画",
-      "喜剧"
-    ],
-    "director": [],
-    "actors": [
-      "塞思·麦克法兰",
-      "亚历克丝·博斯坦",
-      "赛斯·格林"
-    ],
-    "description": "本剧集讲述了格里芬一家的冒险故事。无知得可爱的皮特及其家庭主妇妻子路易丝居住在罗得岛圆蛤市，他们有三个孩子。最大的孩子梅根与周围人格格不入，而青少年克里斯在面对异性时笨拙而无知。最小的孩子斯图尔特是个天才宝宝，一心想要杀死妈妈并毁灭世界。会说话的狗布莱恩在喝着马提尼酒和解决自己生活问题的同时，控制着斯图尔特。",
-    "reviews": [],
-    "poster_path": "images/tv_1434_p.jpg",
-    "backdrop_path": "images/tv_1434_b.jpg"
-  },
-  {
-    "update_date": "2026-02-18",
+    "update_date": "2026-02-23",
     "id": 1236153,
     "imdb_id": "tt31050594",
     "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt31050594",
     "type": "电影",
     "title": "极限审判",
     "original_title": "Mercy",
-    "rating": 6.8,
+    "rating": 7.1,
     "date": "2026-01-20",
     "genres": [
       "科幻",
@@ -138,9 +21,9 @@
       "克里斯·帕拉特",
       "丽贝卡·弗格森",
       "卡莉·瑞斯",
-      "安娜贝拉·沃丽丝",
+      "凯莉·罗杰斯",
       "克里斯·沙利文",
-      "凯莉·罗杰斯"
+      "Jeff Pierre"
     ],
     "description": "背景设定在不久的将来，死罪不断增加，一名侦探（克里斯·帕拉特 Chris Pratt 饰）被指控犯有暴力罪，他被迫证明自己无罪。",
     "reviews": [
@@ -151,267 +34,28 @@
     "backdrop_path": "images/movie_1236153_b.jpg"
   },
   {
-    "update_date": "2026-02-18",
-    "id": 241372,
-    "imdb_id": "tt30412869",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt30412869",
+    "update_date": "2026-02-23",
+    "id": 224372,
+    "imdb_id": "tt27497448",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt27497448",
     "type": "剧集",
-    "title": "入迷",
-    "original_title": "56 Days",
-    "rating": 4.0,
-    "date": "2026-02-18",
-    "genres": [
-      "犯罪",
-      "剧情",
-      "悬疑"
-    ],
-    "director": [],
-    "actors": [
-      "德芙·卡梅隆",
-      "阿万·乔贾",
-      "Dorian Missick",
-      "卡拉·索萨"
-    ],
-    "description": "该剧会是犯罪故事和情色心理惊悚结合，会围绕Oliver 和Ciara展开。在超市里偶然相遇后，他们迅速并危险地坠入爱河。56天后，凶杀案调查员来到Oliver 的公寓，发现了一具身份不明的尸体——被残忍杀害并故意分解。他杀了她吗？还是她杀了他？",
-    "reviews": [],
-    "poster_path": "images/tv_241372_p.jpg",
-    "backdrop_path": "images/tv_241372_b.jpg"
-  },
-  {
-    "update_date": "2026-02-19",
-    "id": 1171145,
-    "imdb_id": "tt32430579",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt32430579",
-    "type": "电影",
-    "title": "洛杉矶劫案",
-    "original_title": "Crime 101",
-    "rating": 7.0,
-    "date": "2026-02-11",
-    "genres": [
-      "犯罪",
-      "惊悚"
-    ],
-    "director": [
-      "Bart Layton"
-    ],
-    "actors": [
-      "克里斯·海姆斯沃斯",
-      "马克·鲁法洛",
-      "哈莉·贝瑞",
-      "巴里·基奥恩",
-      "莫妮卡·巴巴罗",
-      "尼克·诺尔蒂"
-    ],
-    "description": "　　当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
-    "reviews": [
-      "👤 Manuel São Bento: Full review: https://movieswetextedabout.com/crime-101-movie-review-chris-hemsworth-and-mark-ruffalo-anchor-a-heat-lite-crime-thriller/\r\n\r\nRating: B\r\n\r\n\"Crime 101 asserts itself as a solid and extremely competent crime thriller that, while not reaching the same thematic depths or cultural impact of the classics it's inspired by, offers high-level entertainment sustained by a luxury cast and irrepr..."
-    ],
-    "poster_path": "images/movie_1171145_p.jpg",
-    "backdrop_path": "images/movie_1171145_b.jpg"
-  },
-  {
-    "update_date": "2026-02-19",
-    "id": 129552,
-    "imdb_id": "tt13918776",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt13918776",
-    "type": "剧集",
-    "title": "暗夜情报员",
-    "original_title": "The Night Agent",
-    "rating": 7.7,
-    "date": "2023-03-23",
-    "genres": [
-      "动作冒险",
-      "剧情",
-      "悬疑"
-    ],
-    "director": [],
-    "actors": [
-      "加布里埃尔·巴索"
-    ],
-    "description": "因为一通午夜来电，联邦调查局探员与网络安全专家必须联手揭露错综复杂的政治阴谋。",
-    "reviews": [
-      "👤 Sam: Another Netflix show with mediocre writing filled with cliches. It started off well but slumped in the middle. Had to reach episode 8 to pick up some pace. They should have reduced the episodes to 6 making it more fast paced rather than dragging it on. Another problem there was no chemistry between the characters and the villains were just caricatures. Watch it if you have nothing else to watch an...",
-      "👤 Dean: Good show. It's interesting and characters are well developed. Acting also good. No propaganda as well...."
-    ],
-    "poster_path": "images/tv_129552_p.jpg",
-    "backdrop_path": "images/tv_129552_b.jpg"
-  },
-  {
-    "update_date": "2026-02-20",
-    "id": 1261188,
-    "imdb_id": "tt28793125",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt28793125",
-    "type": "电影",
-    "title": "瑞典救援暗线",
-    "original_title": "Den svenska länken",
-    "rating": 8.0,
-    "date": "2026-02-13",
+    "title": "七王国的骑士",
+    "original_title": "A Knight of the Seven Kingdoms",
+    "rating": 8.6,
+    "date": "2026-01-18",
     "genres": [
       "剧情",
-      "历史",
-      "战争"
-    ],
-    "director": [
-      "Thérèse Ahlbeck",
-      "Marcus Olsson"
-    ],
-    "actors": [
-      "亨里克·多尔辛",
-      "Sissela Benn",
-      "Jonas Karlsson",
-      "Johan Glans",
-      "Olle Jansson",
-      "Oscar Töringe"
-    ],
-    "description": "彭明敏（1923年8月15日—2022年4月8日），臺灣臺中人，出生於臺中大甲，國際法權威，國立臺灣大學退休教授，也是最具代表性的臺灣獨立運動領袖之一。\n彭明敏為法國巴黎大學博士。曾任最年輕的臺大政治系主任、中華民國駐聯合國代表團顧問、1963年當選首屆十大傑出青年。1964年與謝聰敏和魏廷朝共同起草著名的「台灣自救運動宣言」，也因此宣言而被國民黨政府判刑八年，並於1970年在特務的監視下逃離臺灣、抵達瑞典，在海外流亡了二十餘年。1992年臺灣民主化後返臺。\n在1996年彭明敏代表民主進步黨參選1996年中華民國總統選舉。由於彭明敏在臺獨運動中的代表性地位，很多人稱他為「臺獨教父」。...\n(📚 来源: 维基百科)",
-    "reviews": [],
-    "poster_path": "images/movie_1261188_p.jpg",
-    "backdrop_path": "images/movie_1261188_b.jpg"
-  },
-  {
-    "update_date": "2026-02-20",
-    "id": 201289,
-    "imdb_id": "tt13745850",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt13745850",
-    "type": "剧集",
-    "title": "他告诉我的最后一件事",
-    "original_title": "The Last Thing He Told Me",
-    "rating": 6.9,
-    "date": "2023-04-13",
-    "genres": [
-      "悬疑",
-      "剧情"
+      "Sci-Fi & Fantasy",
+      "动作冒险"
     ],
     "director": [],
     "actors": [
-      "詹妮弗·加纳",
-      "安格瑞·赖斯",
-      "尼古拉·科斯特-瓦尔道"
+      "彼得·克拉菲",
+      "德克斯特·索尔·安塞尔"
     ],
-    "description": "一个女人为了寻找神秘失踪的丈夫，必须与她十几岁的继女建立起关系。",
+    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
     "reviews": [],
-    "poster_path": "images/tv_201289_p.jpg",
-    "backdrop_path": "images/tv_201289_b.jpg"
-  },
-  {
-    "update_date": "2026-02-21",
-    "id": 1428862,
-    "imdb_id": "tt33474179",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt33474179",
-    "type": "电影",
-    "title": "浴火之森",
-    "original_title": "Cortafuego",
-    "rating": 5.7,
-    "date": "2026-02-20",
-    "genres": [
-      "惊悚",
-      "剧情"
-    ],
-    "director": [
-      "David Victori"
-    ],
-    "actors": [
-      "Belén Cuesta",
-      "Enric Auquer",
-      "Candela Martínez",
-      "Joaquín Furriel",
-      "Diana Gómez",
-      "Mika Arias"
-    ],
-    "description": "失去丈夫后，玛格达带着女儿莱德前往森林中的避暑别墅，准备将其出售。这原本是为了治愈创伤的第一步，却因莱德失踪和突发森林大火而发生了意外转折。",
-    "reviews": [],
-    "poster_path": "images/movie_1428862_p.jpg",
-    "backdrop_path": "images/movie_1428862_b.jpg"
-  },
-  {
-    "update_date": "2026-02-21",
-    "id": 298343,
-    "imdb_id": "tt37937030",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt37937030",
-    "type": "剧集",
-    "title": "赌城之道",
-    "original_title": "Strip Law",
-    "rating": 5.7,
-    "date": "2026-02-20",
-    "genres": [
-      "动画",
-      "喜剧",
-      "剧情"
-    ],
-    "director": [],
-    "actors": [
-      "亚当·斯科特",
-      "Janelle James",
-      "基思·大卫",
-      "斯蒂芬·鲁特",
-      "Shannon Gisela"
-    ],
-    "description": "《赌城之道》（Strip Law）的故事围绕刻板拘谨的律师林肯·甘布展开：在拉斯维加斯，他的行事风格太过沉闷乏味，根本赢不下官司；直到他与当地的魔术师、享乐主义者希拉·弗拉姆贝联手，为这座城市抛来的各种离谱至极的案件，注入了夺人眼球的舞台感与戏剧张力。",
-    "reviews": [],
-    "poster_path": "images/tv_298343_p.jpg",
-    "backdrop_path": "images/tv_298343_b.jpg"
-  },
-  {
-    "update_date": "2026-02-22",
-    "id": 1327688,
-    "imdb_id": "tt24326458",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt24326458",
-    "type": "电影",
-    "title": "一英里：第一章",
-    "original_title": "One Mile: Chapter One",
-    "rating": 7.8,
-    "date": "2026-02-20",
-    "genres": [
-      "动作",
-      "犯罪"
-    ],
-    "director": [
-      "Adam Davidson"
-    ],
-    "actors": [
-      "瑞安·菲利普",
-      "艾米丽·霍菲尔",
-      "克里斯托弗·托马斯·豪威尔",
-      "萨拉·坎宁",
-      "Anthony Timpano",
-      "Sage Linder"
-    ],
-    "description": "　　一位父亲刑满释放后，试图通过带女儿参观大学校园来修复父女关系。然而，当一个凶残的邪教开始追杀他们时，两人所要拼命守护的，早已不只是那段早已破碎的亲情。",
-    "reviews": [],
-    "poster_path": "images/movie_1327688_p.jpg",
-    "backdrop_path": "images/movie_1327688_b.jpg"
-  },
-  {
-    "update_date": "2026-02-22",
-    "id": 209867,
-    "imdb_id": "tt22248376",
-    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt22248376",
-    "type": "剧集",
-    "title": "葬送的芙莉莲",
-    "original_title": "葬送のフリーレン",
-    "rating": 8.8,
-    "date": "2023-09-29",
-    "genres": [
-      "动画",
-      "动作冒险",
-      "剧情",
-      "Sci-Fi & Fantasy"
-    ],
-    "director": [],
-    "actors": [
-      "种崎敦美",
-      "市之濑加那",
-      "小林千晃",
-      "冈本信彦",
-      "东地宏树",
-      "上田耀司"
-    ],
-    "description": "打倒了魔王的勇者一行人的后日谈——在“那之后”的故事。身为魔法使的芙莉莲是一位精灵，她和另外三人有着不一样的地方。对于生活在“之后”的世界、感受到的事情有着不一样的看法……残存世间的人们所编织的，葬送与祈祷相伴的故事——从“冒险的结束”开始了。",
-    "reviews": [
-      "👤 Zak_Jaggs: This is a special, special show, it affected me in ways I never have been affected before, it made me nostalgic for memories that aren't mine and experiences that aren't real, it drew me in 100%. I'm not as taken in by the Himmel stuff as others but everything else hit the mark, Frieren is a wonderful character that does immortality right, the fern and stark romance works well, and the side-charac...",
-      "👤 lettucebowler: This show teaches us to value the small momemts we have with those we love. Life is long, but it's also short. When you look back on your life, you are unlikely to first think to the grand achievements, but rather to the memories and connections made along the way. Those are what we cherish most. \r\n\r\nMy favourite part of the show is the range of emotions it can make you feel, even within a single ..."
-    ],
-    "poster_path": "images/tv_209867_p.jpg",
-    "backdrop_path": "images/tv_209867_b.jpg"
+    "poster_path": "images/tv_224372_p.jpg",
+    "backdrop_path": "images/tv_224372_b.jpg"
   }
 ]
