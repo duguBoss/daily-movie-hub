@@ -57,5 +57,124 @@
     "reviews": [],
     "poster_path": "images/tv_224372_p.jpg",
     "backdrop_path": "images/tv_224372_b.jpg"
+  },
+  {
+    "update_date": "2026-02-24",
+    "id": 1327819,
+    "imdb_id": "tt26443616",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt26443616",
+    "type": "电影",
+    "title": "河狸变身计划",
+    "original_title": "Hoppers",
+    "rating": 0.0,
+    "date": "2026-03-04",
+    "genres": [
+      "动画",
+      "家庭",
+      "喜剧",
+      "科幻"
+    ],
+    "director": [
+      "Daniel Chong"
+    ],
+    "actors": [
+      "派珀·柯达",
+      "鲍比·莫伊尼汉",
+      "乔恩·哈姆",
+      "凯茜·纳基麦",
+      "爱德华多·佛朗哥",
+      "Aparna Nancherla"
+    ],
+    "description": "　　梅宝是一位对动物世界充满好奇的年轻女孩，她利用先进的意识上传技术，将自己的思维注入一只机械河狸体内。以这种独特的形态，梅宝结识了河狸王国的乔治国王等动物伙伴。然而，一个由房地产开发计划带来的威胁，正试图破坏动物们的栖息地。梅宝与她的新朋友们联手，利用机械河狸的能力和人类的智慧，共同对抗这个危机，守护动物们的家园。",
+    "reviews": [],
+    "poster_path": "images/movie_1327819_p.jpg",
+    "backdrop_path": "images/movie_1327819_b.jpg"
+  },
+  {
+    "update_date": "2026-02-24",
+    "id": 1280869,
+    "imdb_id": null,
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=Fate/kaleid liner プリズマ☆イリヤ 運動会 DE ダンス！",
+    "type": "电影",
+    "title": "Fate/kaleid liner プリズマ☆イリヤ 運動会 DE ダンス！",
+    "original_title": "Fate/kaleid liner プリズマ☆イリヤ 運動会 DE ダンス！",
+    "rating": 9.0,
+    "date": "2014-03-10",
+    "genres": [
+      "动画",
+      "奇幻",
+      "喜剧"
+    ],
+    "director": [
+      "神保昌登"
+    ],
+    "actors": [
+      "门胁舞以",
+      "名冢佳织",
+      "植田佳奈",
+      "伊藤静",
+      "高野直子",
+      "松来未祐"
+    ],
+    "description": "《Fate/kaleid liner 魔法少女☆伊莉雅》（日語：Fate/kaleid liner プリズマ☆イリヤ）是日本TYPE-MOON以《Fate/stay night》的登場人物以及魔法少女為題材的外傳漫畫\n，以及衍生的電視動畫作品。人物的設定與原作大體相同，而性格與原作有所差異。\n\n...\n(📚 来源: 维基百科)",
+    "reviews": [],
+    "poster_path": "images/movie_1280869_p.jpg",
+    "backdrop_path": "images/movie_1280869_b.jpg"
+  },
+  {
+    "update_date": "2026-02-24",
+    "id": 12225,
+    "imdb_id": "tt0426769",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0426769",
+    "type": "剧集",
+    "title": "小猪佩奇",
+    "original_title": "Peppa Pig",
+    "rating": 6.6,
+    "date": "2004-05-31",
+    "genres": [
+      "动画",
+      "儿童"
+    ],
+    "director": [],
+    "actors": [
+      "John Sparkes",
+      "阿梅丽·碧·史密斯",
+      "Morwenna Banks",
+      "理查德·里丁斯",
+      "Kira Monteith",
+      "Alice May"
+    ],
+    "description": "　　佩奇是一只可爱的粉红色小猪，她有一个名叫乔治的弟弟，乔治不喜欢吃蔬菜，最喜欢的东西是巧克力蛋糕和恐龙。猪爸爸有着一个胖胖的大肚子，在一家绘图公司上班，他的上司兔先生的女儿和佩奇同在一间幼儿园上学。猪妈妈喜欢做蛋糕，而它们一家人全部都喜欢的事情，就是穿上各自的靴子，在泥坑里跳来跳去！佩奇和乔治在幼儿园里有着一大群快乐的好朋友们，它们的老师是慈祥善良的羚羊夫人。在老师和朋友们的陪伴下，小猪佩奇的每一天都是如此的快乐和幸福！",
+    "reviews": [],
+    "poster_path": "images/tv_12225_p.jpg",
+    "backdrop_path": "images/tv_12225_b.jpg"
+  },
+  {
+    "update_date": "2026-02-24",
+    "id": 2352,
+    "imdb_id": "tt0106080",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0106080",
+    "type": "剧集",
+    "title": "天才保姆",
+    "original_title": "The Nanny",
+    "rating": 8.1,
+    "date": "1993-11-03",
+    "genres": [
+      "喜剧",
+      "家庭"
+    ],
+    "director": [],
+    "actors": [
+      "弗朗辛·德雷舍尔",
+      "查爾斯·沙恩納希",
+      "Daniel Davis",
+      "Lauren Lane",
+      "妮可·汤姆",
+      "Benjamin Salisbury"
+    ],
+    "description": "一位化妆品推销员被男朋友炒鱿鱼后，就成了一位富有的英国鳏夫三个孩子的保姆。随着时间的推移，两人相爱了。",
+    "reviews": [],
+    "poster_path": "images/tv_2352_p.jpg",
+    "backdrop_path": "images/tv_2352_b.jpg"
   }
 ]
