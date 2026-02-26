@@ -410,5 +410,131 @@
     "reviews": [],
     "poster_path": "images/tv_40_p.jpg",
     "backdrop_path": "images/tv_40_b.jpg"
+  },
+  {
+    "update_date": "2026-02-26",
+    "id": 1400743,
+    "imdb_id": "tt34964187",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt34964187",
+    "type": "电影",
+    "title": "羊背上的DJ",
+    "original_title": "Диџеј Ахмет",
+    "rating": 7.3,
+    "date": "2025-08-28",
+    "genres": [
+      "剧情",
+      "音乐",
+      "喜剧"
+    ],
+    "director": [
+      "格奥尔基·M·温科夫斯基"
+    ],
+    "actors": [
+      "Arif Jakup",
+      "Agush Agushev",
+      "Dora Akan Zlatanova",
+      "Aksel Mehmet",
+      "Selpin Kerim",
+      "Elhame Bilal"
+    ],
+    "description": "艾哈迈德是一名15岁的少年，来自北马其顿一个土耳其小村庄。当父亲让他辍学，希望他把时间花在放羊和照顾9岁的弟弟纳伊姆上时，他的人生来到了一个十字路口。艾哈迈德常从手机里播放的电子音乐中寻求慰藉。  一天，艾哈迈德在山间放羊时，穿过树林听到了贝斯的声音。他循声而去，发现了一场有数千人参加的电子舞会，那一刻，他感受到了一种强烈的精神共鸣。这场舞会让艾哈迈德遇见了心仪的女孩，还结识了新朋友阿雅，她同样15岁。艾哈迈德准备挑战保守的环境，追寻自己的梦想，同时帮助阿雅筹备当地的舞蹈节。",
+    "reviews": [],
+    "poster_path": "images/movie_1400743_p.jpg",
+    "backdrop_path": "images/movie_1400743_b.jpg"
+  },
+  {
+    "update_date": "2026-02-26",
+    "id": 1124,
+    "imdb_id": "tt0482571",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0482571",
+    "type": "电影",
+    "title": "致命魔术",
+    "original_title": "The Prestige",
+    "rating": 8.2,
+    "date": "2006-10-17",
+    "genres": [
+      "剧情",
+      "悬疑",
+      "科幻"
+    ],
+    "director": [
+      "克里斯托弗·诺兰"
+    ],
+    "actors": [
+      "休·杰克曼",
+      "克里斯蒂安·贝尔",
+      "迈克尔·凯恩",
+      "塞尔坎·卡约格鲁",
+      "丽贝卡·豪尔",
+      "斯嘉丽·约翰逊"
+    ],
+    "description": "19世纪末，人们对科学文明的认知还不太清楚，于是，安吉尔和伯登凭借魔术，成为了伦敦城内的神奇人物。安吉尔出身贵族，魔术手段华丽丰富，是富人圈子里的表演常客。而伯登即使出身平平，争强好胜的心智和充满创造力的魔术技巧，却也令他有了名气。两人自小便是要好的伙伴，然而，现在魔术界二人各有领地，并且都有野心想成为顶级魔术师，一番明争暗斗如箭在弦上。伯登掌握了精彩的分身术，叫座又叫好。而安吉尔见情势不妙，搬来科学家助阵——他发明的交流电有无穷魔力，保证让观众目瞪口呆。二人出招接招，一来一往，争斗在剧烈升级，友谊和道德都被抛诸脑后，一场血案在悄悄酝酿。",
+    "reviews": [
+      "👤 CinemaSerf: As ever with Christopher Nolan films the chronology needs close attention - as so many of the clues as to what the hell is actually going on require a considerable degree of concentration (and multiple viewings) before any semblance of quality emanates from the outwardly cluttered and, frankly, preposterous plot. We start with Christian Bale (\"Borden\") about to swing for the murder of Hugh Jackman...",
+      "👤 r96sk: <em>'The Prestige'</em> is tremendous!\r\n\r\nAn expertly made movie about magic, one that lasts just over two hours but it is most definitely 120mins+ well spent. I was sold by the whole vibe of it from the very beginning, sometimes you can just tell you're going to absolutely enjoy something from the opening minutes and this, for me, was one of those films.\r\n\r\nThe casting is terrific, many well know..."
+    ],
+    "poster_path": "images/movie_1124_p.jpg",
+    "backdrop_path": "images/movie_1124_b.jpg"
+  },
+  {
+    "update_date": "2026-02-26",
+    "id": 1877,
+    "imdb_id": "tt0852863",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0852863",
+    "type": "剧集",
+    "title": "飞哥与小佛",
+    "original_title": "Phineas and Ferb",
+    "rating": 7.9,
+    "date": "2007-08-17",
+    "genres": [
+      "动画",
+      "喜剧",
+      "家庭",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [],
+    "actors": [
+      "Vincent Martella",
+      "David Errigo Jr.",
+      "阿什莉·提斯代尔",
+      "卡罗琳·瑞亚",
+      "迪·布拉雷·贝克尔",
+      "艾莉森·斯通纳"
+    ],
+    "description": "飞哥与小佛每天都能够创造出奇迹似的酷玩意儿，像是在后院造云霄飞车、盖大峡谷，甚至发明复制机器人。但拥有无比想像力的飞哥小佛却有个爱告密的姐姐 - 凯蒂丝！凯蒂丝总是想要向妈妈证明弟弟们每天都在做惊人的事情，但往往无法成功…而飞哥小佛的宠物鸭嘴兽泰瑞，人人都说：“它只是只鸭嘴兽，它什么都不会。”但其实它是一个动物特务，常常为了打击邪恶去撂倒一个疯狂的人类博士。",
+    "reviews": [],
+    "poster_path": "images/tv_1877_p.jpg",
+    "backdrop_path": "images/tv_1877_b.jpg"
+  },
+  {
+    "update_date": "2026-02-26",
+    "id": 91759,
+    "imdb_id": null,
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=爱·回家之开心速递",
+    "type": "剧集",
+    "title": "爱·回家之开心速递",
+    "original_title": "愛·回家之開心速遞",
+    "rating": 5.4,
+    "date": "2017-02-06",
+    "genres": [
+      "家庭",
+      "喜剧",
+      "剧情"
+    ],
+    "director": [
+      "罗镇岳"
+    ],
+    "actors": [
+      "刘丹",
+      "汤盈盈",
+      "吕慧仪",
+      "单立文",
+      "苏韵姿",
+      "滕丽名"
+    ],
+    "description": "世代交替，新一代对旧一代嗤之以鼻，总觉得被别人阻碍著他们的未来。同样地，年长一辈亦拥抱过往成功的经验，总认为自己永远是对的。故事的轴心家庭熊家，正是世代之争的投射。轻松的情节除了呈现社会面貌，也用爱和欢笑拉近两代之间的距离，让年轻一辈懂得欣赏昔日的美好，旧一代也能聆听新世代的声音……",
+    "reviews": [],
+    "poster_path": "images/tv_91759_p.jpg",
+    "backdrop_path": "images/tv_91759_b.jpg"
   }
 ]
