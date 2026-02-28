@@ -654,5 +654,125 @@
     "reviews": [],
     "poster_path": "images/tv_16656_p.jpg",
     "backdrop_path": "images/tv_16656_b.jpg"
+  },
+  {
+    "update_date": "2026-02-28",
+    "id": 1322752,
+    "imdb_id": "tt33050528",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt33050528",
+    "type": "电影",
+    "title": "世界计划：无法歌唱的初音未来",
+    "original_title": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
+    "rating": 7.7,
+    "date": "2025-01-17",
+    "genres": [
+      "动画",
+      "音乐",
+      "剧情",
+      "科幻"
+    ],
+    "director": [
+      "畑博之"
+    ],
+    "actors": [
+      "藤田咲",
+      "下田麻美",
+      "浅川悠",
+      "拜乡芽衣子",
+      "风雅直人",
+      "野口瑠璃子"
+    ],
+    "description": "在CD店邂逅未知旋律的星乃一歌，注视着荧幕中形貌迥异的“初音未来”发出惊呼。被声音惊动的未来在与少女短暂对视后，化作数据流光消散于虚空。数日后，结束街头演出的少女手机屏幕突然浮现那个熟悉的身影。面对垂首流露寂寥之色的歌姬，一歌轻声询问缘由。未来倾诉着无法将歌声传递给“思念持有者”的苦恼——纵使反复吟唱，旋律始终困囿于虚无之地。 见证一歌在Live现场以歌声直抵人心，未来萌生了全新的想法：若能更加了解她，或许就能让歌声传达给那些“思念持有者”。于是她来到了一歌面前。 “如果我，可以的话”，一歌以微笑回应未来的请求，初音未来与少年少女们的故事就此开始。",
+    "reviews": [],
+    "poster_path": "images/movie_1322752_p.jpg",
+    "backdrop_path": "images/movie_1322752_b.jpg"
+  },
+  {
+    "update_date": "2026-02-28",
+    "id": 13,
+    "imdb_id": "tt0109830",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0109830",
+    "type": "电影",
+    "title": "阿甘正传",
+    "original_title": "Forrest Gump",
+    "rating": 8.5,
+    "date": "1994-06-23",
+    "genres": [
+      "喜剧",
+      "剧情",
+      "爱情"
+    ],
+    "director": [
+      "罗伯特·泽米吉斯"
+    ],
+    "actors": [
+      "汤姆·汉克斯",
+      "罗宾·怀特",
+      "加里·西尼斯",
+      "莎莉·菲尔德",
+      "麦凯尔泰·威廉逊",
+      "迈克尔·康纳·汉弗莱斯"
+    ],
+    "description": "透过被命运眷顾的单纯者阿甘的双眼，全景式展现了美国历史上动荡的三十年。",
+    "reviews": [
+      "👤 CinemaSerf: \"Forrest\" (Tom Hanks) isn't the sharpest tool in the box, but he has an heart of gold and an unparalleled sense of human decency. These laudable characteristics are the result of an upbringing by his mother (Sally Field) which has seen him grow from the bullied young boy from Alabama who discovers that he can run a little faster than your average bear, to a sort of national hero. We learn all this..."
+    ],
+    "poster_path": "images/movie_13_p.jpg",
+    "backdrop_path": "images/movie_13_b.jpg"
+  },
+  {
+    "update_date": "2026-02-28",
+    "id": 37606,
+    "imdb_id": "tt1942683",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt1942683",
+    "type": "剧集",
+    "title": "阿甘妙世界",
+    "original_title": "The Amazing World of Gumball",
+    "rating": 8.5,
+    "date": "2011-05-03",
+    "genres": [
+      "动画",
+      "家庭",
+      "Sci-Fi & Fantasy",
+      "喜剧"
+    ],
+    "director": [],
+    "actors": [],
+    "description": "口香糖沃特森的生活，一只 12 岁的猫，在埃尔莫尔上中学。 在他的宠物、养兄弟和最好的朋友达尔文沃特森的陪伴下，他经常发现自己卷入了城市周围的各种恶作剧，在此期间他与各种家庭成员互动：阿奈斯、理查德和妮可沃特森，以及其他各种市民。",
+    "reviews": [],
+    "poster_path": "images/tv_37606_p.jpg",
+    "backdrop_path": "images/tv_37606_b.jpg"
+  },
+  {
+    "update_date": "2026-02-28",
+    "id": 46195,
+    "imdb_id": "tt1480925",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt1480925",
+    "type": "剧集",
+    "title": "物语系列",
+    "original_title": "化物語",
+    "rating": 8.1,
+    "date": "2009-07-03",
+    "genres": [
+      "动画",
+      "喜剧",
+      "剧情",
+      "悬疑"
+    ],
+    "director": [],
+    "actors": [
+      "神谷浩史",
+      "斋藤千和",
+      "堀江由衣",
+      "坂本真绫",
+      "雪野五月",
+      "泽城美雪"
+    ],
+    "description": "所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
+    "reviews": [
+      "👤 ZeBlah: (referring to \"bakemonogatari\"):\r\n\r\nthis is one of the anime that I just cannot understand.\r\n\r\nVery interesting graphics and ambience at least at the start (perspectives/graphics are then repeated endlessly), so in the end I just don't see a lot of substance - just a cumulative amount of sexy references and potential upcoming changes in the story, but it keeps dragging through each episode and in ..."
+    ],
+    "poster_path": "images/tv_46195_p.jpg",
+    "backdrop_path": "images/tv_46195_b.jpg"
   }
 ]
