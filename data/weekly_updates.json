@@ -499,5 +499,110 @@
     "reviews": [],
     "poster_path": "images/tv_1434_p.jpg",
     "backdrop_path": "images/tv_1434_b.jpg"
+  },
+  {
+    "update_date": "2026-03-06",
+    "id": 109337,
+    "imdb_id": "tt0030119",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0030119",
+    "type": "电影",
+    "title": "农场交响曲",
+    "original_title": "Farmyard Symphony",
+    "rating": 6.4,
+    "date": "1938-10-14",
+    "genres": [
+      "动画",
+      "音乐"
+    ],
+    "director": [
+      "Jack Cutting"
+    ],
+    "actors": [
+      "Lee Sweetland",
+      "Billy Bletcher",
+      "Florence Gill",
+      "克拉伦斯·纳什"
+    ],
+    "description": "尼古拉·雅科夫列维奇·米亚斯科夫斯基（俄語：Николай Яковлевич Мясковский，1881年4月20日—1950年8月8日），俄罗斯-苏联作曲家，音乐教育家。他最為人所認識的是一生創作了27首交響曲，佔其87首已編號的作品中的差不多三分之一產量。後人稱他為「蘇聯交響曲之父」。...\n(📚 来源: 维基百科)",
+    "reviews": [],
+    "poster_path": "images/movie_109337_p.jpg",
+    "backdrop_path": "images/movie_109337_b.jpg"
+  },
+  {
+    "update_date": "2026-03-06",
+    "id": 573020,
+    "imdb_id": "tt1190124",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt1190124",
+    "type": "电影",
+    "title": "Kawin Kontrak",
+    "original_title": "Kawin Kontrak",
+    "rating": 0.0,
+    "date": "2008-01-09",
+    "genres": [
+      "喜剧",
+      "剧情",
+      "爱情"
+    ],
+    "director": [
+      "Ody C. Harahap"
+    ],
+    "actors": [
+      "Dimas Aditya",
+      "Dinda Kanyadewi",
+      "Ricky Harun",
+      "Masayu Anastasia",
+      "Herichan",
+      "卢克曼·萨尔迪"
+    ],
+    "description": "(暂无中文介绍，原文如下)\nThree teenagers look for village girls to have temporary marriages or a \"marriage by contract\". They are well prepared with Cialis, Viagra, and even rubber bands. Jody, who likes older women, has a \"marriage by contract\" with Teh Euis, a pretty widow with one child. Dika, who likes it rough, has a \"marriage by contract\" with Rani who is tough at hitting mattresses when cleaning it, while Rama, who is very picky, is head over heels with Isa’s gentleness and natural beauty. But there is still a long way to go before their mission (to have sex) is accomplished. The sexy Teh Euis always comes up with ridiculous reasons at the \"critical\" moments while Rani’s feistiness hides a secret; and Isa’s gentleness is threatened by a wicked plan. It is a comic and sensual adventure and the three \"heroes\" find the feeling that has been behind their raging hormones: love.",
+    "reviews": [],
+    "poster_path": "images/movie_573020_p.jpg",
+    "backdrop_path": "images/movie_573020_b.jpg"
+  },
+  {
+    "update_date": "2026-03-06",
+    "id": 1966,
+    "imdb_id": "tt0318224",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0318224",
+    "type": "剧集",
+    "title": "地平线",
+    "original_title": "Horizon",
+    "rating": 7.4,
+    "date": "1964-02-04",
+    "genres": [
+      "纪录"
+    ],
+    "director": [],
+    "actors": [],
+    "description": "《地平线》讲述了惊人的科学故事，揭开了神秘的面纱，揭示了你从未见过的世界。",
+    "reviews": [
+      "👤 smirno: Excellent BBC science show delivered by top industry recognised professors. Loved by millions of fans and academic institutions worldwide. It really is the model for science communication...."
+    ],
+    "poster_path": "images/tv_1966_p.jpg",
+    "backdrop_path": "images/tv_1966_b.jpg"
+  },
+  {
+    "update_date": "2026-03-06",
+    "id": 2912,
+    "imdb_id": "tt0159881",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0159881",
+    "type": "剧集",
+    "title": "抢答",
+    "original_title": "Jeopardy!",
+    "rating": 6.8,
+    "date": "1984-09-10",
+    "genres": [
+      "真人秀",
+      "家庭"
+    ],
+    "director": [],
+    "actors": [
+      "Ken Jennings",
+      "Johnny Gilbert"
+    ],
+    "description": "《神奇的汉字》是中国大陆湖南卫视推出的一档汉字文化竞技类综艺節目，主持人为何炅与杜海涛，汉字专家有王磊、郑贤章、郦波、鵬宇、楊雨等。節目中的参赛选手来自各行各业，涵盖各年龄段。《神奇的汉字》由湖南衛視刘伟工作室与刘建立工作室共同打造。其於2019年3月27日啟動錄製，並於2019年6月10日起每週一至週四19:30接档《放学后》播出。2019年9月1日起播出時間改為每週日19:30。该节目是2019年国家广播电视总局的重点文化创意扶持题材节目。...\n(📚 来源: 维基百科)",
+    "reviews": [],
+    "poster_path": "images/tv_2912_p.jpg",
+    "backdrop_path": "images/tv_2912_b.jpg"
   }
 ]
