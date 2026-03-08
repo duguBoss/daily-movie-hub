@@ -1,5 +1,92 @@
 [
   {
+    "id": 1312150,
+    "unique_id": "movie_1312150",
+    "title": "瑞奇·热维斯：人生苦短",
+    "original_title": "Ricky Gervais: Mortality",
+    "type": "电影",
+    "rating": 6.9,
+    "date": "2025-12-29",
+    "genres": [
+      "喜剧"
+    ],
+    "director": [
+      "John L. Spencer"
+    ],
+    "actors": [
+      "瑞奇·热维斯"
+    ],
+    "overview": "瑞奇·热维斯宣布自己的最新个人单口喜剧 Mortality 将在2024年底开始全球巡演。",
+    "reviews": [],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt32767869",
+    "update_date": "2026-03-08",
+    "poster_path": "images/movie_1312150_p.jpg",
+    "backdrop_path": "images/movie_1312150_b.jpg",
+    "wx_title": "推荐：瑞奇·热维斯：人生苦短",
+    "wx_content": "<p>文案生成失败。</p>"
+  },
+  {
+    "id": 14034,
+    "unique_id": "movie_14034",
+    "title": "小偷遇到贼",
+    "original_title": "What's the Worst That Could Happen?",
+    "type": "电影",
+    "rating": 5.5,
+    "date": "2001-05-31",
+    "genres": [
+      "动作",
+      "喜剧",
+      "犯罪"
+    ],
+    "director": [
+      "Sam Weisman"
+    ],
+    "actors": [
+      "马丁·劳伦斯",
+      "丹尼·德维托",
+      "约翰·雷吉扎莫",
+      "格伦·海德利"
+    ],
+    "overview": "凯文·卡尔菲（马丁·劳伦斯 Martin Lawrence 饰）是一名专职小偷，他手段高超，盗亦有道，凭借正直坦率的性格赢得了美丽女孩安柏·贝尔哈文（Carmen Ejogo 饰）的芳心。某晚，凯文潜入一桩豪宅行窃，结果被商人麦克斯·费尔班克斯（丹尼·德维托 Danny DeVito 饰）抓个正着。麦克斯头脑精明，经营有道，合理合法大赚其财，可以说是个高级扒手。凯文的到来搅了麦克斯的云雨好事，他因此气急败坏，抢走了安柏送给凯文的戒指。\r 这次遭遇不仅让凯文在业内颜面扫地，还让他和女友心生离析。为了一雪前耻，凯文决定向麦克斯宣战，两个顶尖高手的对决由此展开，斗智斗勇的好戏接连上演……",
+    "reviews": [],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0161083",
+    "update_date": "2026-03-08",
+    "poster_path": "images/movie_14034_p.jpg",
+    "backdrop_path": "images/movie_14034_b.jpg",
+    "wx_title": "推荐：小偷遇到贼",
+    "wx_content": "<p>文案生成失败。</p>"
+  },
+  {
+    "id": 234763,
+    "unique_id": "tv_234763",
+    "title": "男孩的誓言",
+    "original_title": "Слово пацана. Кровь на асфальте",
+    "type": "剧集",
+    "rating": 8.7,
+    "date": "2023-11-09",
+    "genres": [
+      "剧情",
+      "犯罪"
+    ],
+    "director": [
+      "Жора Крыжовников"
+    ],
+    "actors": [
+      "Иван Янковский",
+      "Рузиль Минекаев",
+      "Леон Кемстач",
+      "Анастасия Красовская"
+    ],
+    "overview": "　　改革已经从克里姆林宫的看台走到了城镇的街头。苏联正在我们眼前消亡，伴随着变革的前兆，言论自由、音乐自由、价格自由、良心自由出现了，近乎无法无天。在父母为生存而战的同时，被大家遗弃的孩子们流落街头，成群结队地 \"为沥青而战\"。他们为了控制在自己土地上矗立或移动的一切而战。在成人一代普遍贫穷和迷失的情况下，青年群体却有明确的生活规则、支持和比誓言更有力的承诺。但是，友谊和正义观念越来越多地与暴力和犯罪混杂在一起。在这一重要的历史背景下，该剧展现了小学生安德烈从一个单纯的 \"chushpan\"（没有 \"加入 \"任何团体的青少年的称呼）成长为一个残忍的孩子的过程。",
+    "reviews": [],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=男孩的誓言",
+    "update_date": "2026-03-08",
+    "poster_path": "images/tv_234763_p.jpg",
+    "backdrop_path": "images/tv_234763_b.jpg",
+    "wx_title": "推荐：男孩的誓言",
+    "wx_content": "<p>文案生成失败。</p>"
+  },
+  {
     "update_date": "2026-03-08",
     "id": 1435092,
     "type": "电影",
