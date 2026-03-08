@@ -3,11 +3,8 @@ import json
 import os
 import sys
 import shutil
-import wikipedia
-import urllib.parse
-import random  # 新增：用于引入随机性
-from bs4 import BeautifulSoup
-from datetime import datetime
+import random
+from datetime import datetime, timedelta
 
 # ---------------- 配置区域 ----------------
 TOKEN = os.environ.get("TMDB_API_KEY")
@@ -28,14 +25,10 @@ DATA_DIR = "data"
 IMAGES_DIR = os.path.join(DATA_DIR, "images")
 JSON_FILE = os.path.join(DATA_DIR, "weekly_updates.json")
 
-# 定义“安全/温和”的类型 ID 池
-# 电影：喜剧(35), 剧情(18), 动画(16), 家庭(10751), 奇幻(14), 科幻(878), 爱情(10749), 音乐(10402)
-SAFE_MOVIE_GENRES = ["35", "18", "16", "10751", "14", "878", "10749", "10402"]
-# 剧集：喜剧(35), 剧情(18), 动画(16), 家庭(10751), 科幻/奇幻(10765), 纪录片(99)
-SAFE_TV_GENRES = ["35", "18", "16", "10751", "10765", "99"]
-
-# 设置维基百科语言为中文
-wikipedia.set_lang("zh")
+# 【优化1：黑名单机制】
+# 只屏蔽：恐怖(27 - 容易血腥), 战争(10752 - 容易血腥), 纪录片(99 - 阅读量通常较低，可根据需要保留)
+# 成人内容通过 include_adult=false 屏蔽
+BLOCKED_GENRES = "27,10752" 
 
 # ---------------- 辅助功能 ----------------
 
@@ -43,10 +36,17 @@ def setup_directories(reset=False):
     if reset:
         print("🔄 周一重置: 清理旧数据...")
         if os.path.exists(DATA_DIR):
-            shutil.rmtree(DATA_DIR)
-        
+            try:
+                # 保留 json，只清空图片，防止 history 丢失
+                for filename in os.listdir(IMAGES_DIR):
+                    file_path = os.path.join(IMAGES_DIR, filename)
+                    os.unlink(file_path)
+            except:
+                pass
         os.makedirs(IMAGES_DIR, exist_ok=True)
+    
     if not os.path.exists(JSON_FILE):
+        os.makedirs(DATA_DIR, exist_ok=True)
         with open(JSON_FILE, 'w', encoding='utf-8') as f:
             json.dump([], f)
 
@@ -63,7 +63,7 @@ def load_existing_ids():
 def download_image(url, filename):
     if not url: return None
     try:
-        resp = requests.get(url, timeout=15)
+        resp = requests.get(url, timeout=10)
         if resp.status_code == 200:
             file_path = os.path.join(IMAGES_DIR, filename)
             with open(file_path, "wb") as f:
@@ -73,52 +73,104 @@ def download_image(url, filename):
         pass
     return None
 
-# ---------------- 信息增强模块 (Wiki & Baidu) ----------------
+# ---------------- 网感文案生成引擎 (核心优化) ----------------
 
-def get_wikipedia_summary(query):
-    print(f"   🔍 尝试搜索 Wiki: {query}...")
-    try:
-        search_results = wikipedia.search(query)
-        if not search_results: return ""
-        page = wikipedia.page(search_results[0], auto_suggest=False)
-        return f"{page.summary[:600]}...\n(📚 来源: 维基百科)"
-    except wikipedia.exceptions.DisambiguationError as e:
-        try:
-            page = wikipedia.page(e.options[0], auto_suggest=False)
-            return f"{page.summary[:600]}...\n(📚 来源: 维基百科)"
-        except: return ""
-    except Exception:
-        return ""
+def generate_clickbait_title(title, rating, tagline):
+    """生成具有点击欲望的标题"""
+    prefixes = ["本周必看", "口碑炸裂", "深夜推荐", "剧荒自救", "高分神作"]
+    prefix = random.choice(prefixes)
+    
+    # 如果有短评，利用短评做副标题
+    if tagline and len(tagline) < 15:
+        return f"{prefix} | 《{title}》：{tagline}"
+    
+    return f"{prefix} | 豆瓣高分《{title}》评分{rating}，错过后悔！"
 
-def get_baidu_baike_summary(title):
-    print(f"   🔍 尝试搜索百度百科: {title}...")
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-    try:
-        url = f"https://baike.baidu.com/item/{urllib.parse.quote(title)}"
-        resp = requests.get(url, headers=headers, timeout=5)
-        resp.encoding = 'utf-8'
-        if resp.status_code == 200:
-            soup = BeautifulSoup(resp.text, 'html.parser')
-            summary_div = soup.find("div", class_="lemma-summary") or soup.find("div", class_="lemma-summary-box")
-            if summary_div:
-                text = summary_div.get_text().strip().replace("\n", "").replace("\xa0", "")
-                return f"{text[:600]}...\n(🐼 来源: 百度百科)"
-    except Exception:
-        pass
-    return ""
+def format_social_media_copy(detail, credits):
+    """
+    将枯燥的数据转化为社交媒体风格的文案
+    """
+    title = detail.get("title") or detail.get("name")
+    original_title = detail.get("original_title") or detail.get("original_name")
+    rating = round(detail.get("vote_average", 0), 1)
+    date = detail.get("release_date") or detail.get("first_air_date")
+    year = date.split("-")[0] if date else "未知年份"
+    genres = [g["name"] for g in detail.get("genres", [])[:3]]
+    overview = detail.get("overview", "")
+    tagline = detail.get("tagline", "")
+    
+    director = credits.get("directors", [])
+    director_str = f"🎬 导演：{director[0]}" if director else ""
+    actors = credits.get("actors", [])
+    actors_str = f"🌟 主演：{' / '.join(actors[:3])}" if actors else ""
 
-def get_english_fallback(media_type, media_id):
-    url = f"{BASE_URL}/{media_type}/{media_id}"
-    try:
-        resp = requests.get(url, headers=HEADERS, params={"language": "en-US"}, timeout=5)
-        return resp.json().get("overview", "")
-    except: return ""
+    # 文案模板
+    copy = f"""
+🎥 **片名**：{title} ({year})
+⭐️ **评分**：{rating} / 10
+🏷 **类型**：{' #'.join(genres)}
 
-def get_external_ids(media_type, media_id):
-    url = f"{BASE_URL}/{media_type}/{media_id}/external_ids"
-    try:
-        return requests.get(url, headers=HEADERS, timeout=5).json()
-    except: return {}
+{tagline if tagline else "🔥 剧情高能，全程无尿点！"}
+
+{director_str}
+{actors_str}
+
+📖 **剧情速递**：
+{overview[:180]}...
+
+👉 **推荐理由**：
+这部作品在 TMDB 拥有极高的人气。无论是剧情节奏还是演员演技都非常在线。{ "特别适合周末窝在沙发上刷！" if "剧情" in genres else "喜欢这类题材的朋友绝对不能错过！" }
+
+#影视推荐 #好剧安利 #{title} #周末看什么
+"""
+    return copy.strip()
+
+# ---------------- 多维选品逻辑 (Richness Strategy) ----------------
+
+def get_discovery_params(media_type, strategy):
+    """
+    根据不同的策略生成 API 参数，确保内容丰富度
+    """
+    today = datetime.now()
+    three_months_ago = (today - timedelta(days=90)).strftime("%Y-%m-%d")
+    today_str = today.strftime("%Y-%m-%d")
+
+    base_params = {
+        "language": "zh-CN",
+        "include_adult": "false",
+        "without_genres": BLOCKED_GENRES,
+        "vote_count.gte": 100, # 基础门槛，过滤掉没人看过的
+    }
+
+    print(f"   ⚙️ 正在应用选品策略: {strategy} ...")
+
+    if strategy == "fresh":
+        # 策略A：近期新片 (Richness: New)
+        # 逻辑：最近3个月上映，按热度排序
+        if media_type == "movie":
+            base_params["primary_release_date.gte"] = three_months_ago
+            base_params["primary_release_date.lte"] = today_str
+        else:
+            base_params["first_air_date.gte"] = three_months_ago
+            base_params["first_air_date.lte"] = today_str
+        base_params["sort_by"] = "popularity.desc"
+        base_params["page"] = random.randint(1, 3) # 新片不用翻太后
+
+    elif strategy == "hidden_gem":
+        # 策略B：高分遗珠 (Richness: Quality)
+        # 逻辑：评分很高(>7.5)，但不是最热门的
+        base_params["vote_average.gte"] = 7.5
+        base_params["sort_by"] = "vote_average.desc"
+        base_params["vote_count.gte"] = 300 # 稍微提高人数门槛
+        base_params["page"] = random.randint(1, 10)
+
+    else: # trending
+        # 策略C：经典热门 (Richness: Popularity)
+        # 逻辑：传统的按热度，但是页码放得很宽，防止重复
+        base_params["sort_by"] = "popularity.desc"
+        base_params["page"] = random.randint(1, 20) # 翻到第20页去抓
+
+    return base_params
 
 # ---------------- 核心获取逻辑 ----------------
 
@@ -128,123 +180,64 @@ def get_credits(media_type, media_id):
         resp = requests.get(url, headers=HEADERS, params={"language": "zh-CN"}, timeout=5)
         data = resp.json()
         directors = [c["name"] for c in data.get("crew", []) if c["job"] == "Director"]
-        actors = [c["name"] for c in data.get("cast", [])[:6]]
+        actors = [c["name"] for c in data.get("cast", [])[:5]]
         return {"directors": directors, "actors": actors}
     except:
         return {"directors": [], "actors": []}
 
-def get_reviews(media_type, media_id):
-    url = f"{BASE_URL}/{media_type}/{media_id}/reviews"
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=5)
-        data = resp.json()
-        results = data.get("results", [])
-        valid_reviews = [r for r in results if len(r["content"]) > 50]
-        sorted_reviews = sorted(valid_reviews, key=lambda x: len(x["content"]), reverse=True)[:2]
-        
-        reviews_text = []
-        for r in sorted_reviews:
-            clean_content = r["content"].strip()[:400]
-            reviews_text.append(f"👤 {r['author']}: {clean_content}...")
-        return reviews_text
-    except:
-        return []
-
-def fetch_content(media_type, existing_ids, target_genre_id):
-    """
-    修改点：新增 target_genre_id 参数，定向获取特定类型
-    """
+def fetch_content(media_type, existing_ids, strategy="trending"):
     url = f"{BASE_URL}/discover/{media_type}"
-    
-    # 随机选择第1页或第2页 (前40个热门)，增加抽取盲盒的随机性
-    random_page = random.randint(1, 2)
-    
-    params = {
-        "language": "zh-CN",
-        "sort_by": "popularity.desc",
-        "include_adult": "false",
-        "with_genres": target_genre_id, # 包含我们随机抽中的好类型
-        "page": random_page
-    }
-
-    # 双重保险：在“好类型”中，依然严格排除“坏类型”标签 (比如带有恐怖标签的喜剧片)
-    if media_type == "movie":
-        params["without_genres"] = "28,27,53,80" # 排除动作、恐怖、惊悚、犯罪
-    else:
-        params["without_genres"] = "80,10759"    # 排除犯罪、动作冒险
+    params = get_discovery_params(media_type, strategy)
     
     try:
         resp = requests.get(url, headers=HEADERS, params=params, timeout=15)
-        if resp.status_code != 200: return None
+        if resp.status_code != 200: 
+            print(f"   ⚠️ API Error: {resp.status_code}")
+            return None
         
         results = resp.json().get("results", [])
-        
-        # 【核心随机逻辑】：将获取到的20条热门结果打乱，避免永远抓排名第1的
-        random.shuffle(results)
+        random.shuffle(results) # 再次打乱结果
         
         target_item = None
         for item in results:
-            if item["id"] not in existing_ids:
+            # 必须有简介，且不重复
+            if item["id"] not in existing_ids and item.get("overview") and len(item.get("overview")) > 10:
                 target_item = item
                 break
         
         if not target_item: return None
 
-        # 获取基础详情
+        # 获取详情
         detail_url = f"{BASE_URL}/{media_type}/{target_item['id']}"
         detail_resp = requests.get(detail_url, headers=HEADERS, params={"language": "zh-CN"}, timeout=15)
         detail = detail_resp.json()
         
-        title = detail.get("title") or detail.get("name")
-        original_title = detail.get("original_title") or detail.get("original_name")
-        tmdb_overview = detail.get("overview", "")
-
-        # ---------------- 智能简介增强逻辑 ----------------
-        final_description = tmdb_overview
-
-        if len(tmdb_overview) < 30:
-            print(f"   ⚠️ TMDB简介不足，正在寻找补充资料: {title}")
-            wiki_text = get_wikipedia_summary(title)
-            if not wiki_text and title != original_title:
-                wiki_text = get_wikipedia_summary(original_title)
-            
-            if wiki_text:
-                final_description = wiki_text
-            else:
-                baidu_text = get_baidu_baike_summary(title)
-                if baidu_text:
-                    final_description = baidu_text
-                else:
-                    en_overview = get_english_fallback(media_type, detail["id"])
-                    if en_overview:
-                        final_description = f"(暂无中文介绍，原文如下)\n{en_overview}"
-
-        # 获取其他元数据
-        ext_ids = get_external_ids(media_type, detail["id"])
-        imdb_id = ext_ids.get("imdb_id")
         credits = get_credits(media_type, detail["id"])
-        reviews = get_reviews(media_type, detail["id"])
         
+        # 生成网感文案
+        social_copy = format_social_media_copy(detail, credits)
+        clickbait_title = generate_clickbait_title(
+            detail.get("title") or detail.get("name"), 
+            round(detail.get("vote_average", 0), 1),
+            detail.get("tagline")
+        )
+
+        # 图片下载
         poster = download_image(f"{IMAGE_BASE_URL}{detail.get('poster_path')}", f"{media_type}_{detail['id']}_p.jpg")
         backdrop = download_image(f"{BACKDROP_BASE_URL}{detail.get('backdrop_path')}", f"{media_type}_{detail['id']}_b.jpg")
 
         return {
             "update_date": datetime.now().strftime("%Y-%m-%d"),
             "id": detail["id"],
-            "imdb_id": imdb_id,
-            "douban_link": f"https://search.douban.com/movie/subject_search?search_text={imdb_id}" if imdb_id else f"https://search.douban.com/movie/subject_search?search_text={title}",
             "type": "电影" if media_type == "movie" else "剧集",
-            "title": title,
-            "original_title": original_title,
+            "title": detail.get("title") or detail.get("name"),
+            "clickbait_title": clickbait_title, # 这是你的文章标题
             "rating": round(detail.get("vote_average", 0), 1),
-            "date": detail.get("release_date") or detail.get("first_air_date"),
             "genres": [g["name"] for g in detail.get("genres", [])],
-            "director": credits["directors"],
-            "actors": credits["actors"],
-            "description": final_description,
-            "reviews": reviews,
+            "description": social_copy, # 这是你的文章正文
             "poster_path": poster,
-            "backdrop_path": backdrop
+            "backdrop_path": backdrop,
+            "release_date": detail.get("release_date") or detail.get("first_air_date")
         }
 
     except Exception as e:
@@ -255,42 +248,35 @@ def fetch_content(media_type, existing_ids, target_genre_id):
 
 def main():
     print("🚀 任务开始...")
+    # 周一重置图片文件夹，节省空间
     is_monday = datetime.today().weekday() == 0
     setup_directories(reset=is_monday)
     
     existing_ids = load_existing_ids()
     new_items = []
 
-    # 🎬 1. 获取电影 (2部)
-    print("🎬 开始获取电影 (目标2部)...")
-    # 随机打乱类型池，确保每次跑的类型顺序都不一样
-    shuffled_movie_genres = random.sample(SAFE_MOVIE_GENRES, len(SAFE_MOVIE_GENRES))
-    movie_count = 0
+    # 混合抓取计划：确保丰富度
+    # 1部 新出的电影
+    # 1部 热门的电影
+    # 1部 新出的剧集
+    # 1部 高分的剧集
     
-    for genre_id in shuffled_movie_genres:
-        if movie_count >= 2: break  # 获取满 2 部就停止
-        
-        movie = fetch_content("movie", existing_ids, genre_id)
-        if movie:
-            new_items.append(movie)
-            existing_ids.append(movie["id"]) # 马上加进已存在列表，避免重复
-            print(f"   ✅ 成功获取电影 [{movie_count+1}/2]: 《{movie['title']}》")
-            movie_count += 1
+    tasks = [
+        ("movie", "fresh", "🆕 最新电影"),
+        ("movie", "trending", "🔥 热门电影"),
+        ("tv", "fresh", "🆕 最新剧集"),
+        ("tv", "hidden_gem", "💎 高分剧集"),
+    ]
 
-    # 📺 2. 获取剧集 (2部)
-    print("\n📺 开始获取剧集 (目标2部)...")
-    shuffled_tv_genres = random.sample(SAFE_TV_GENRES, len(SAFE_TV_GENRES))
-    tv_count = 0
-    
-    for genre_id in shuffled_tv_genres:
-        if tv_count >= 2: break
-        
-        tv = fetch_content("tv", existing_ids, genre_id)
-        if tv:
-            new_items.append(tv)
-            existing_ids.append(tv["id"])
-            print(f"   ✅ 成功获取剧集 [{tv_count+1}/2]: 《{tv['title']}》")
-            tv_count += 1
+    for media_type, strategy, label in tasks:
+        print(f"\n{label} 挖掘中...")
+        item = fetch_content(media_type, existing_ids, strategy)
+        if item:
+            new_items.append(item)
+            existing_ids.append(item["id"])
+            print(f"   ✅ 成功捕获: 《{item['title']}》")
+        else:
+            print("   ⚠️ 未找到合适内容，跳过。")
 
     # 保存结果
     print("\n💾 正在保存数据...")
@@ -298,15 +284,19 @@ def main():
         current_data = []
         if os.path.exists(JSON_FILE):
             with open(JSON_FILE, 'r', encoding='utf-8') as f:
-                current_data = json.load(f)
+                try: current_data = json.load(f)
+                except: current_data = []
         
-        current_data.extend(new_items)
+        # 新数据插在最前面
+        current_data = new_items + current_data
+        # 保持列表长度不超过 60 条，防止文件过大
+        current_data = current_data[:60]
         
         with open(JSON_FILE, 'w', encoding='utf-8') as f:
             json.dump(current_data, f, ensure_ascii=False, indent=2)
-        print(f"🎉 更新完成！本次新增 {len(new_items)} 条精选内容。")
+        print(f"🎉 更新完成！新增 {len(new_items)} 条内容。")
     else:
-        print("⚠️ 无新内容更新。")
+        print("⚠️ 本次无内容更新。")
 
 if __name__ == "__main__":
     main()
