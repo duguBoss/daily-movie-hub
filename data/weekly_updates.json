@@ -1,5 +1,100 @@
 [
   {
+    "id": 1589891,
+    "unique_id": "movie_1589891",
+    "title": "勇者时刻",
+    "original_title": "La hora de los valientes",
+    "type": "电影",
+    "rating": 7.5,
+    "date": "2025-12-18",
+    "genres": [
+      "喜剧",
+      "动作"
+    ],
+    "director": [
+      "Ariel Winograd"
+    ],
+    "actors": [
+      "Luis Gerardo Méndez",
+      "Memo Villegas",
+      "Christian Tappán",
+      "Verónica Bravo"
+    ],
+    "overview": "接受社区服务处罚的精神分析师帮助因不忠而心碎的调查员。他们将一同面对危险，并发现重新来过的机会。",
+    "reviews": [],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt37961727",
+    "update_date": "2026-03-08",
+    "poster_path": "images/movie_1589891_p.jpg",
+    "backdrop_path": "images/movie_1589891_b.jpg",
+    "wx_title": "推荐：勇者时刻",
+    "wx_content": "<p>生成失败</p>"
+  },
+  {
+    "id": 106,
+    "unique_id": "movie_106",
+    "title": "铁血战士Ⅰ",
+    "original_title": "Predator",
+    "type": "电影",
+    "rating": 7.5,
+    "date": "1987-06-12",
+    "genres": [
+      "科幻",
+      "动作",
+      "冒险",
+      "惊悚"
+    ],
+    "director": [
+      "约翰·麦克蒂尔南"
+    ],
+    "actors": [
+      "阿诺德·施瓦辛格",
+      "卡尔·韦瑟斯",
+      "凯文·彼得·霍尔",
+      "埃尔皮迪亚·卡里略"
+    ],
+    "overview": "美军一架直升机在南美洲的原始森林坠毁，那里盘踞着不怎么友好的当地游击队。美军特种兵少校达奇（阿诺•施瓦辛格 Arnold Schwarzenegger）率领部下亲自前往搜救。他们在森林里很快就发现了失踪的飞行员的尸体，死状恐怖。大家都认为那是当地的游击队干的，愤怒的队员开始寻找当地游击队的基地，要为同伴报仇。然而当他们发现当地游击队的营地时，发现当地人也被一种恐怖气氛所笼罩着。随后，队员们相继被袭击身亡，但每次都没发现敌人的半个影子。对方就像凭空隐形了一样。孤身一人的达奇决心凭自己的力量面对这股神秘恐怖的力量……",
+    "reviews": [
+      "From about 1996 to about 2009 (roughly ages 4 til 17 for those playing at home), this was my all-time favourite movie. It was the first non-pirated VHS I ever owned, and it probably informed more of m",
+      "Ball busting Vietnam allegory McTiernan style delivers wholesale. \r\n\r\nI will start this by giving my ratings, yes plural because to me as a sci-fi/action film fan the film has few peers, it is 100% pu",
+      "_**Schwarzenegger vs. \"the demon who makes trophies of man\" in the Latin American jungles**_ \r\n\r\nAn elite squad of commandos is enlisted for a mission to the jungles of Central America to rescue some "
+    ],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0093773",
+    "update_date": "2026-03-08",
+    "poster_path": "images/movie_106_p.jpg",
+    "backdrop_path": "images/movie_106_b.jpg",
+    "wx_title": "推荐：铁血战士Ⅰ",
+    "wx_content": "<p>生成失败</p>"
+  },
+  {
+    "id": 62104,
+    "unique_id": "tv_62104",
+    "title": "七大罪",
+    "original_title": "七つの大罪",
+    "type": "剧集",
+    "rating": 8.4,
+    "date": "2014-10-05",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [],
+    "actors": [
+      "梶裕贵",
+      "雨宫天",
+      "铃木达央",
+      "久野美咲"
+    ],
+    "overview": "故事讲述发生在大不列颠的一个大国内，骑士们为了圣战而进行军备强化，因壮大骑士军团们的诸多暴行使得整个国家民不聊生。担忧着国家现状的第三王女伊丽莎白，把救国的希望寄托于10年前的事件被通缉的骑士团七原罪从而独自踏上寻找的旅程。无果的旅程中，被追兵追赶伊丽莎白因误入某个酒店，被酒店的主人、一个少年救下，这名少年正是七原罪的团长。从此他们踏上了开拓国家未来的旅途。",
+    "reviews": [],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=七大罪",
+    "update_date": "2026-03-08",
+    "poster_path": "images/tv_62104_p.jpg",
+    "backdrop_path": "images/tv_62104_b.jpg",
+    "wx_title": "推荐：七大罪",
+    "wx_content": "<p>生成失败</p>"
+  },
+  {
     "id": 1428862,
     "unique_id": "movie_1428862",
     "title": "浴火之森",
