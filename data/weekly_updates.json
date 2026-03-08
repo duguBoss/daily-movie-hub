@@ -1,5 +1,132 @@
 [
   {
+    "id": 1435092,
+    "unique_id": "movie_1435092",
+    "title": "再见琼",
+    "original_title": "Goodbye June",
+    "type": "电影",
+    "rating": 6.6,
+    "date": "2025-12-12",
+    "genres": [
+      "剧情"
+    ],
+    "director": [
+      "凯特·温斯莱特"
+    ],
+    "actors": [
+      "海伦·米伦",
+      "托妮·科莱特",
+      "强尼·弗林",
+      "安德里亚·里斯伯勒"
+    ],
+    "overview": "圣诞节前夕，母亲的健康突然出状况，让四名成年子女和他们令人头痛的父亲慌了手脚，面对可能即将发生的失去，家庭气氛也混乱失衡。但聪明的母亲六月处变不惊，以犀利的幽默、坦率的态度和丰沛的爱，安排好自己的人生谢幕。",
+    "reviews": [
+      "FULL SPOILER-FREE REVIEW @ https://movieswetextedabout.com/goodbye-june-movie-review-kate-winslet-and-a-powerhouse-cast-elevate-conventional-sentimentalism/\r\n\r\n\"Goodbye June presents itself as an inti",
+      "When death waits in the wings, many of us would like to hope that we can say our goodbyes on our terms, even if timing doesn’t necessarily suit us. But what happens when the circumstances don’t align "
+    ],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt35766629",
+    "update_date": "2026-03-08",
+    "poster_path": "images/movie_1435092_p.jpg",
+    "backdrop_path": "images/movie_1435092_b.jpg",
+    "wx_title": "推荐：再见琼",
+    "wx_content": "<p>生成失败</p>"
+  },
+  {
+    "id": 87826,
+    "unique_id": "movie_87826",
+    "title": "好景在望",
+    "original_title": "Here Comes the Boom",
+    "type": "电影",
+    "rating": 6.2,
+    "date": "2012-10-10",
+    "genres": [
+      "喜剧",
+      "动作",
+      "剧情"
+    ],
+    "director": [
+      "弗兰克·克拉斯"
+    ],
+    "actors": [
+      "凯文·詹姆斯",
+      "萨尔玛·海耶克",
+      "亨利·温克勒",
+      "乔什·戈登"
+    ],
+    "overview": "在这部喜剧中，凯文·詹姆斯扮演了一个叫做斯科特·沃斯的42岁的生物老师，他在一间破败的学校里教书，生活索然无味。可是突然有一天，他却萌生了要为学校的几乎已经停摆的音乐计划筹款的想法。为了搞到钱，他不得不在业余时间去打MMA的比赛。很多人都认为沃斯疯掉了，尤其是学校的护士贝拉。可是沃斯却知道自己没有疯，因为他从这些事情中得到了不一样的生活体验。",
+    "reviews": [
+      "Great watch, would watch again, and do recommend.\r\n\r\nI'll be honest, I thought this was a 2020 movie when I watched it because HOW HAD I NOT HEARD ABOUT THE ONE WHERE KEVIN JAMES DOES MMA?  This is ba"
+    ],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt1648179",
+    "update_date": "2026-03-08",
+    "poster_path": "images/movie_87826_p.jpg",
+    "backdrop_path": "images/movie_87826_b.jpg",
+    "wx_title": "推荐：好景在望",
+    "wx_content": "<p>生成失败</p>"
+  },
+  {
+    "id": 272586,
+    "unique_id": "tv_272586",
+    "title": "罪土",
+    "original_title": "Synden",
+    "type": "剧集",
+    "rating": 5.5,
+    "date": "2026-01-02",
+    "genres": [
+      "剧情",
+      "犯罪",
+      "悬疑"
+    ],
+    "director": [
+      "Peter Grönlund"
+    ],
+    "actors": [
+      "Krista Kosonen",
+      "Mohammed Nour Oklah",
+      "Peter Gantman",
+      "Lisa Lindgren"
+    ],
+    "overview": "一名少年失踪后，一位与此案有私人关系的侦探参与到紧张的调查中，由此揭开了强烈的忠诚与古老的家族恩怨。",
+    "reviews": [],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=罪土",
+    "update_date": "2026-03-08",
+    "poster_path": "images/tv_272586_p.jpg",
+    "backdrop_path": "images/tv_272586_b.jpg",
+    "wx_title": "推荐：罪土",
+    "wx_content": "<p>生成失败</p>"
+  },
+  {
+    "id": 85077,
+    "unique_id": "tv_85077",
+    "title": "拣选",
+    "original_title": "The Chosen",
+    "type": "剧集",
+    "rating": 8.7,
+    "date": "2019-04-21",
+    "genres": [
+      "剧情",
+      "家庭",
+      "动作冒险"
+    ],
+    "director": [
+      "Dallas Jenkins"
+    ],
+    "actors": [
+      "乔纳森·鲁米",
+      "沙哈尔·艾萨克",
+      "伊丽莎白·塔比什",
+      "帕拉斯·帕特尔"
+    ],
+    "overview": "　　拣选是第一部关于基督生平的多季电视连续剧，通过他影响的人的眼睛见证。",
+    "reviews": [],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=拣选",
+    "update_date": "2026-03-08",
+    "poster_path": "images/tv_85077_p.jpg",
+    "backdrop_path": "images/tv_85077_b.jpg",
+    "wx_title": "推荐：拣选",
+    "wx_content": "<p>生成失败</p>"
+  },
+  {
     "id": 1595481,
     "unique_id": "movie_1595481",
     "title": "在家消失的女孩：伊丽莎白·斯马特绑架案",
