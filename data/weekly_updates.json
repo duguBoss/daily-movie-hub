@@ -733,5 +733,134 @@
     "reviews": [],
     "poster_path": "images/tv_63809_p.jpg",
     "backdrop_path": "images/tv_63809_b.jpg"
+  },
+  {
+    "update_date": "2026-03-08",
+    "id": 10681,
+    "imdb_id": "tt0910970",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0910970",
+    "type": "电影",
+    "title": "机器人总动员",
+    "original_title": "WALL·E",
+    "rating": 8.1,
+    "date": "2008-06-22",
+    "genres": [
+      "动画",
+      "家庭",
+      "科幻"
+    ],
+    "director": [
+      "安德鲁·斯坦顿"
+    ],
+    "actors": [
+      "本·贝尔特",
+      "艾丽莎·奈特",
+      "杰夫·格尔林",
+      "佛莱德·威拉特",
+      "约翰·拉岑伯格",
+      "凯茜·纳基麦"
+    ],
+    "description": "公元 2700 年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托 Buynlarge 的公司对地球垃圾进行清理，该公司开发了名为 WALL·E（地球废品分装员的缩写）的机器人担当此重任。 这些机器人按照程序日复一日、年复一年辛勤工作，但随着时间的流逝和恶劣环境的侵蚀，WALL·E 们接连损坏、停止运动。最后只有一个仍在进行这项似乎永无止境的工作。经历了漫长的岁月，它开始拥有了自己的意识。它喜欢将收集来的宝贝小心翼翼藏起，喜欢收工后看看几百年前的歌舞片，此外还有一只蟑螂朋友作伴。直到有一天，一艘来自宇宙的飞船打破了它一成不变的生活…",
+    "reviews": [
+      "👤 CinemaSerf: I reckon that despite many efforts made with way more worthy tones, this is probably one of the most effective stories depicting the dangers of mankind's indifference to our planet and it's future - and it's potently and charmingly effective. Our eponymous robot spends it's time packaging up waste into cubes, stacking them, then retreating to it's home of an evening before the storms hit! The plan...",
+      "👤 tmdb51616167: \"Wall-E\" stands out as Pixar at its finest, delivering a captivating story with minimal dialogue and a strong focus on the journey and bond between two robots. Despite the lack of extensive verbal communication, the film successfully conveys a heartfelt narrative centered around love and adventure.\r\n\r\nDisney's bold approach to storytelling in \"Wall-E\" pays off, engaging viewers of all ages by emph..."
+    ],
+    "poster_path": "images/movie_10681_p.jpg",
+    "backdrop_path": "images/movie_10681_b.jpg"
+  },
+  {
+    "update_date": "2026-03-08",
+    "id": 22494,
+    "imdb_id": "tt0910554",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt0910554",
+    "type": "电影",
+    "title": "有关时间旅行的热门问题",
+    "original_title": "Frequently Asked Questions About Time Travel",
+    "rating": 6.9,
+    "date": "2009-04-24",
+    "genres": [
+      "喜剧",
+      "剧情",
+      "爱情",
+      "科幻"
+    ],
+    "director": [
+      "Gareth Carrivick"
+    ],
+    "actors": [
+      "克里斯·奥多德",
+      "迪恩·伦诺克斯·凯利",
+      "Marc Wootton",
+      "安娜·法瑞丝",
+      "Meredith MacNeill",
+      "Ray Gardner"
+    ],
+    "description": "　　游乐园工作的雷（克里斯•奥多德 Chris O’Dowd 饰）沉迷于时间旅行，在工作中因吓坏小游客而被解雇。朋友皮特（迪恩•里浓斯•凯利 Dean Lennox Kelly 饰）和业余作家托比（马克•伍顿 Marc Wootton 饰）在“恐龙汉堡店”扮恐龙打工，毫无前途。三人晚上来到酒吧打发时光，雷突然遇到一位叫凯西的美女（安娜•法瑞丝 Anna Faris 饰）。凯西自称来自未来，是专门负责寻找时间漏洞的技术员，她来此是拜访名人，因为雷在未来将是“伟大的雷”，并著有《时间旅行手册》。皮特和托比不相信雷遇见了“未来美女”，认为他是异想天开编排电影。皮特去卫生间小解，没曾想竟偶然进入了时间漏洞，出来后发现酒吧全是死人，包括他自己。惊慌四措的皮特将雷和托比也拽入了漏洞，从此开始了一系列前后穿梭的时间旅行冒险。",
+    "reviews": [
+      "👤 Gimly: I've never seen anything exactly like _FAQ About Time Travel_ before, but I've seen most of its elements either done before its release, or done better since. I wouldn't go so far as to say that I'm a fan of Chris O'Dowd or Anna Farris, but I certainly don't mind them, (the other players in this I'm not too familiar with), but nobody was particularly good. The story is mixed. The visual quality is..."
+    ],
+    "poster_path": "images/movie_22494_p.jpg",
+    "backdrop_path": "images/movie_22494_b.jpg"
+  },
+  {
+    "update_date": "2026-03-08",
+    "id": 15260,
+    "imdb_id": "tt1305826",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt1305826",
+    "type": "剧集",
+    "title": "探险活宝",
+    "original_title": "Adventure Time",
+    "rating": 8.5,
+    "date": "2010-04-05",
+    "genres": [
+      "动画",
+      "喜剧",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [],
+    "actors": [
+      "Jeremy Shada",
+      "约翰·迪·马吉欧",
+      "汤姆·肯尼",
+      "Hynden Walch",
+      "Olivia Olson",
+      "Niki Yang"
+    ],
+    "description": "《探险时光》即《探险活宝》（Adventure Time，原始标题为Adventure Time with Finn and Jake）是一部美国电视系列动画，原创为潘得顿·沃德，在美国的分级为TV-PG。由卡通频道委托弗雷德瑞特工作室制播。故事追随人类芬·莫顿（Finn Morton the Human，台译：阿宝）和一只拥有任意改变形状及伸缩的魔力，是他最好的朋友同时也是养兄弟的狗儿杰克（Jakethe Dog，台译：老皮）展开的探险旅程，他们生活在后末日的哇赛秘境（Land of Ooo），沿着旅途陆续遇上剧中其他的主要角色：泡泡糖公主（Princess Bubblegum）、寒冰王（The Ice King）以及马瑟琳（Marceline the Vampire Queen）。",
+    "reviews": [],
+    "poster_path": "images/tv_15260_p.jpg",
+    "backdrop_path": "images/tv_15260_b.jpg"
+  },
+  {
+    "update_date": "2026-03-08",
+    "id": 63639,
+    "imdb_id": "tt3230854",
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt3230854",
+    "type": "剧集",
+    "title": "苍穹浩瀚",
+    "original_title": "The Expanse",
+    "rating": 8.1,
+    "date": "2015-12-14",
+    "genres": [
+      "剧情",
+      "悬疑",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [],
+    "actors": [
+      "史蒂文·斯特雷特",
+      "多米尼克·蒂珀",
+      "韦斯·查塔姆",
+      "索瑞·安达斯鲁",
+      "弗兰基·亚当斯",
+      "卡拉·吉"
+    ],
+    "description": "二百年后的未来，人类殖民太阳系。由于重力的影响，太阳系的人类逐渐分成了地球人、火星人和以小行星带为主的谷神星人，彼此之间的关系由于资源的争夺而变得紧张。警探Josephus Miller连同船长Jim Holden与他的船员一起揭发了一个威胁秩序和平及人类生存的阴谋。",
+    "reviews": [
+      "👤 pocketdrummer: **One of the best Sci-Fi shows ever made!**\r\n\r\nOye! First time viewer? Make sure to make it to the episode 4 \"CQB\".\r\n\r\nAbout the books: Yes, they are fantastic. The show is also fantastic. It's okay to like both even if they aren't the same.\r\n\r\nA note on other reviews here: I'm surprised by all of the negativity in the other reviews considering how overwhelmingly positive the show has been receive...",
+      "👤 YetAnotherMovieWatcher: The Expanse is an adaptation of a series of novels by James S. A. Corey, the pen name of the two authors who co-write the book series.\r\n\r\nThis series adheres to the books quite well, though it isn't one-novel-per-episode, more like one novel per season.\r\n\r\nAll of that aside, this is an excellent series.  The characters are believable in their setting of a mostly-corporate-controlled future.  The p..."
+    ],
+    "poster_path": "images/tv_63639_p.jpg",
+    "backdrop_path": "images/tv_63639_b.jpg"
   }
 ]
