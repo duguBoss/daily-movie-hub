@@ -13,7 +13,7 @@ from datetime import datetime, timedelta
 TMDB_TOKEN = os.environ.get("TMDB_API_KEY")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 # 默认使用你指定的 3.1 flash lite，如果报错可改为 gemini-2.0-flash
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash-exp") 
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3-flash-preview") 
 
 # 仓库配置 (用于生成 HTML 里的图片 CDN 链接)
 # ⚠️⚠️⚠️ 请修改这里为你的 "用户名/仓库名" ⚠️⚠️⚠️
