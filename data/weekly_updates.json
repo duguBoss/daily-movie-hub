@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1595481,
+    "unique_id": "movie_1595481",
+    "title": "在家消失的女孩：伊丽莎白·斯马特绑架案",
+    "original_title": "Kidnapped: Elizabeth Smart",
+    "type": "电影",
+    "rating": 7.1,
+    "date": "2026-01-20",
+    "genres": [
+      "纪录",
+      "犯罪"
+    ],
+    "director": [
+      "Benedict Sanderson"
+    ],
+    "actors": [
+      "Elizabeth Smart",
+      "Steevan Glover",
+      "John Stableforth",
+      "Brian David Mitchell"
+    ],
+    "overview": "伊丽莎白·斯玛特14岁时在犹他州的家中被绑架的可怕经历，通过她自己的讲述和从未公开过的资料娓娓道来。",
+    "reviews": [],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt39140662",
+    "update_date": "2026-03-08",
+    "poster_path": "images/movie_1595481_p.jpg",
+    "backdrop_path": "images/movie_1595481_b.jpg",
+    "wx_title": "推荐：在家消失的女孩：伊丽莎白·斯马特绑架案",
+    "wx_content": "<p>生成失败</p>"
+  },
+  {
+    "id": 125623,
+    "unique_id": "movie_125623",
+    "title": "他人之子",
+    "original_title": "Le Fils de l'autre",
+    "type": "电影",
+    "rating": 6.5,
+    "date": "2012-04-04",
+    "genres": [
+      "剧情"
+    ],
+    "director": [
+      "Lorraine Lévy"
+    ],
+    "actors": [
+      "Emmanuelle Devos",
+      "Pascal Elbé",
+      "Jules Sitruk",
+      "Mehdi Dehbi"
+    ],
+    "overview": "当约瑟夫准备加入以色列军队服兵役时，发现自己不是父母的亲身儿子，在他出生时，他与约旦河西岸的一个巴勒斯坦家庭的小孩亚辛换错了。因这一发现，两个家庭的生活突然发生了翻天覆地的变化，这一发现迫使他们重新思考各自的身份、价值和信念。",
+    "reviews": [],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=tt2073016",
+    "update_date": "2026-03-08",
+    "poster_path": "images/movie_125623_p.jpg",
+    "backdrop_path": "images/movie_125623_b.jpg",
+    "wx_title": "推荐：他人之子",
+    "wx_content": "<p>生成失败</p>"
+  },
+  {
+    "id": 281401,
+    "unique_id": "tv_281401",
+    "title": "如舞薄冰",
+    "original_title": "Finding Her Edge",
+    "type": "剧集",
+    "rating": 7.6,
+    "date": "2026-01-22",
+    "genres": [
+      "剧情"
+    ],
+    "director": [],
+    "actors": [
+      "马德林·基斯",
+      "爱丽丝·马拉霍夫",
+      "亚历山大·比顿",
+      "Harmon Walsh"
+    ],
+    "overview": "该剧围绕鲁索家的三姐妹展开，她们是一个家道中落的花样滑冰家族的继承人。十七岁的二姐阿德里亚娜与新搭档布雷登一起备战世界锦标赛，但她心里仍对初恋兼前搭档弗雷迪留有情意。为了获得赞助，维持鲁索家族滑冰场的运营，阿德里亚娜和布雷登假扮情侣，这让她的生活变得更加复杂。",
+    "reviews": [],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=如舞薄冰",
+    "update_date": "2026-03-08",
+    "poster_path": "images/tv_281401_p.jpg",
+    "backdrop_path": "images/tv_281401_b.jpg",
+    "wx_title": "推荐：如舞薄冰",
+    "wx_content": "<p>生成失败</p>"
+  },
+  {
+    "id": 218539,
+    "unique_id": "tv_218539",
+    "title": "与恶魔有约",
+    "original_title": "마이데몬",
+    "type": "剧集",
+    "rating": 8.5,
+    "date": "2023-11-24",
+    "genres": [
+      "剧情",
+      "喜剧"
+    ],
+    "director": [],
+    "actors": [
+      "金裕贞",
+      "宋江",
+      "李相二",
+      "金海淑"
+    ],
+    "overview": "在与一名高冷的女继承人发生纠葛后，这个无情的恶魔失去了力量。女继承人可能是他恢复能力的关键 — 还可能是他心之所属。",
+    "reviews": [
+      "I have mixed feelings about the show due to its use of Catholicism. The show's misrepresentation of Catholicism was unacceptable, but I would have enjoyed the show more if it didn't try to mix its myt"
+    ],
+    "douban_link": "https://search.douban.com/movie/subject_search?search_text=与恶魔有约",
+    "update_date": "2026-03-08",
+    "poster_path": "images/tv_218539_p.jpg",
+    "backdrop_path": "images/tv_218539_b.jpg",
+    "wx_title": "推荐：与恶魔有约",
+    "wx_content": "<p>生成失败</p>"
+  }
+]
