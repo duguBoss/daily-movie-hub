@@ -53,18 +53,23 @@ WX_PROMPT_TEMPLATE = """
 ## 写作要求
 1. 标题 18-28 字，要有传播力，但不要标题党。
 2. 摘要 60-100 字，单段，适合放在列表页；必须是自然中文，不要口号腔。
-3. 正文风格要去掉 AI 味：
+3. 摘要必须兼顾 SEO 和曝光：
+- 尽量自然包含片名、类型或题材、核心看点、情绪关键词。
+- 让用户一眼知道“这是什么片、适合谁看、为什么值得点开”。
+- 禁止关键词堆砌，禁止生硬罗列标签，读起来必须像真人编辑写的导语。
+- 优先使用用户真实会搜索或会被平台识别的表达，如“剧情解析、口碑、推荐、看点、演员表现、后劲”等，但要自然融入。
+4. 正文风格要去掉 AI 味：
 - 少用“这部作品不仅…更…”“值得一提的是…”“总的来说…”这类套话。
 - 多用具体场景、情绪转折、人物处境来带动阅读。
 - 允许有节奏变化，句子长短交替，像真人编辑写稿。
 - 不要频繁用“封神、炸裂、神作、必看”等廉价热词。
-4. 正文结构必须严格对应下面的 HTML 模板字段：
+5. 正文结构必须严格对应下面的 HTML 模板字段：
 - [lead_intro]：开篇导语，先用电影信息卡片承接，再写约 500 字介绍，突出人物处境、故事钩子、观看门槛和推荐理由。
 - [deep_recommend]：约 650 字，展开影片真正迷人的地方，可以写表演、叙事、主题、情绪后劲，但不剧透。
 - [short_review]：约 220-300 字，写成编辑短评，语言利落，有判断，有记忆点。
 - [quote]：提炼一句适合收尾的金句，16-32 字。
 - [first_char]：填一个有力量的单字，适合作为首字下沉。
-5. HTML 必须输出成单行字符串，直接可嵌入 JSON。
+6. HTML 必须输出成单行字符串，直接可嵌入 JSON。
 
 ## HTML 模板
 <section style="margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;"><section style="padding:18px 14px 10px;"><section style="background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);"><img src="[backdrop_url]" style="width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;"><section style="padding:18px 16px 20px;"><section style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;"><section style="flex:1;min-width:0;"><section style="font-size:24px;line-height:1.35;font-weight:800;color:#fff;">[title]</section><section style="margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);">[original_title]</section></section><section style="min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;"><section style="font-size:26px;line-height:1;font-weight:800;color:#f5c16c;">[rating]</section><section style="margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);">TMDB</section></section></section><section style="margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;"><section style="padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);"><section style="font-size:11px;color:rgba(255,255,255,0.5);">类型</section><section style="margin-top:4px;font-size:14px;line-height:1.6;color:#fff;">[genres]</section></section><section style="padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);"><section style="font-size:11px;color:rgba(255,255,255,0.5);">上映日期</section><section style="margin-top:4px;font-size:14px;line-height:1.6;color:#fff;">[date]</section></section><section style="padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);"><section style="font-size:11px;color:rgba(255,255,255,0.5);">导演</section><section style="margin-top:4px;font-size:14px;line-height:1.6;color:#fff;">[director]</section></section><section style="padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);"><section style="font-size:11px;color:rgba(255,255,255,0.5);">主演</section><section style="margin-top:4px;font-size:14px;line-height:1.6;color:#fff;">[actors]</section></section></section></section></section></section><section style="padding:18px 14px 8px;"><section style="background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);"><section style="overflow:hidden;"><section style="float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;">[first_char]</section><section style="font-size:16px;line-height:1.95;color:#2f2a26;">[lead_intro]</section></section></section></section><section style="padding:8px 14px;"><section style="background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);"><section style="font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;">为什么它会留下后劲</section><section style="margin-top:12px;font-size:16px;line-height:1.95;color:#403630;">[deep_recommend]</section></section></section><section style="padding:8px 14px 18px;"><section style="background:#1d1f23;border-radius:22px;padding:22px 16px;"><section style="font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;">编辑短评</section><section style="margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);">[short_review]</section><section style="margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;">“[quote]”</section></section></section></section>
@@ -85,6 +90,8 @@ SUMMARY_RETRY_PROMPT = """
 请把下面这段影视摘要压缩重写为 60 到 100 个中文字符以内。
 要求：
 - 保留推荐重点和情绪吸引力
+- 保证 SEO 友好，自然带出片名、题材或类型、核心看点
+- 提升列表点击欲，但不要标题党，不要关键词堆砌
 - 不要标题党
 - 不要换行
 - 只输出 JSON
