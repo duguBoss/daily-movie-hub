@@ -1,127 +1,64 @@
 [
   {
-    "id": 1340110,
-    "title": "重返重生",
-    "original_title": "Redux Redux",
+    "id": 843527,
+    "title": "对你的想象",
+    "original_title": "The Idea of You",
     "type": "电影",
-    "rating": 6.4,
-    "date": "2026-02-20",
+    "rating": 7.3,
+    "date": "2024-05-02",
     "genres": [
-      "科幻",
-      "悬疑",
-      "惊悚"
-    ],
-    "director": [
-      "Matthew McManus"
-    ],
-    "actors": [
-      "Michaela McManus",
-      "Stella Marcus",
-      "Jeremy Holm",
-      "吉姆·卡明斯"
-    ],
-    "overview": "一位名叫艾琳·凯利的母亲穿越到不同的平行宇宙，找到杀害她女儿的凶手，并一次又一次地把凶手干掉。当她被复仇的火焰吞噬时，她的人性也将变得岌岌可危。",
-    "reviews": [
-      "Multiverse alert! The only butterfly effect is the butterfly...knife at your throat, perv! Turns out there are so many universes that are so minutely different that you can fuck them up as much as you want and it doesn't really matter. Just"
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1340110_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1340110_p.jpg",
-    "update_date": "2026-03-24",
-    "backdrop_path": "images/movie_1340110_b.jpg",
-    "wx_title": "今日精选：重返重生",
-    "summary": "一位名叫艾琳·凯利的母亲穿越到不同的平行宇宙，找到杀害她女儿的凶手，并一次又一次地把凶手干掉。当她被复仇的火焰吞噬时，她的人性也将变得岌岌可危。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1340110_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">重返重生</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Redux Redux</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：科幻 / 悬疑 / 惊悚<br>导演：Matthew McManus<br>主演：Michaela McManus / Stella Marcus / Jeremy Holm / 吉姆·卡明斯<br>日期：2026-02-20</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">一位名叫艾琳·凯利的母亲穿越到不同的平行宇宙，找到杀害她女儿的凶手，并一次又一次地把凶手干掉。当她被复仇的火焰吞噬时，她的人性也将变得岌岌可危。</section></section></section>"
-  },
-  {
-    "id": 1159311,
-    "title": "我的英雄学院：You're Next",
-    "original_title": "僕のヒーローアカデミア THE MOVIE ユアネクスト",
-    "type": "电影",
-    "rating": 7.2,
-    "date": "2024-08-02",
-    "genres": [
-      "动画",
-      "动作",
-      "冒险",
-      "科幻"
-    ],
-    "director": [
-      "冈村天斋"
-    ],
-    "actors": [
-      "山下大辉",
-      "生见爱瑠",
-      "宫野真守",
-      "三宅健太"
-    ],
-    "overview": "时间来到出久这群雄英高中的学生们升上二年级的春天，在英雄与敌人之间的全面战争中，出久与同学们与取得庞大力量的死柄木吊相互对峙，几番激烈交手后，英雄与敌人双方阵营尽皆元气大伤，战局在死柄木率众撤退的情况下，暂时画下句点，事实上，双方都在为更大规模的反攻做准备；于此同时，一座巨大的要塞竟毫无预警地出现在因全面战争而被摧毁的城市上空中，站在这座要塞前方的男人竟然与过去被称为「和平象征」的男人：欧尔麦特几乎完全一模一样！他究竟是敌是友？",
-    "reviews": [
-      "With \"All Might\" having lost most of his powers and now taken a back seat, it falls to the students of class 1A of the academy to do the policing of the undesirables in society and use their adaptable array of quirks to deliver these miscre"
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1159311_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1159311_p.jpg",
-    "update_date": "2026-03-24",
-    "backdrop_path": "images/movie_1159311_b.jpg",
-    "wx_title": "今日精选：我的英雄学院：You're Next",
-    "summary": "时间来到出久这群雄英高中的学生们升上二年级的春天，在英雄与敌人之间的全面战争中，出久与同学们与取得庞大力量的死柄木吊相互对峙，几番激烈交手后，英雄与敌人双方阵营尽皆元气大伤，战局在死柄木率众撤退的情况",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1159311_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">我的英雄学院：You're Next</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">僕のヒーローアカデミア THE MOVIE ユアネクスト</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动画 / 动作 / 冒险 / 科幻<br>导演：冈村天斋<br>主演：山下大辉 / 生见爱瑠 / 宫野真守 / 三宅健太<br>日期：2024-08-02</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">时间来到出久这群雄英高中的学生们升上二年级的春天，在英雄与敌人之间的全面战争中，出久与同学们与取得庞大力量的死柄木吊相互对峙，几番激烈交手后，英雄与敌人双方阵营尽皆元气大伤，战局在死柄木率众撤退的情况下，暂时画下句点，事实上，双方都在为更大规模的反攻做准备；于此同时，一座巨大的要塞竟毫无预警地出现在因全面战争而被摧毁的城市上空中，站在这座要塞前方的男人竟然与过去被称为「和平象征」的男人：欧尔麦特几乎完全一模一样！他究竟是敌是友？</section></section></section>"
-  },
-  {
-    "id": 244244,
-    "title": "危险追逃",
-    "original_title": "Run Away",
-    "type": "剧集",
-    "rating": 6.6,
-    "date": "2026-01-01",
-    "genres": [
+      "爱情",
       "剧情",
-      "悬疑"
+      "喜剧"
     ],
-    "director": [],
+    "director": [
+      "迈克尔·肖沃特"
+    ],
     "actors": [
-      "詹姆斯·内斯比特",
-      "阿尔弗雷德·伊诺奇",
-      "明妮·德里弗",
-      "Ruth Jones"
+      "安妮·海瑟薇",
+      "尼古拉斯·加利齐纳",
+      "艾拉·鲁宾",
+      "安妮·穆莫洛"
     ],
-    "overview": "女儿离家出走，这位绝望的父亲在寻女时竟意外卷入一起谋杀案，并偶然发现了一连串可能彻底毁掉全家的秘密。",
-    "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_244244_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_244244_p.jpg",
-    "update_date": "2026-03-24",
-    "backdrop_path": "images/tv_244244_b.jpg",
-    "wx_title": "今日精选：危险追逃",
-    "summary": "女儿离家出走，这位绝望的父亲在寻女时竟意外卷入一起谋杀案，并偶然发现了一连串可能彻底毁掉全家的秘密。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_244244_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">危险追逃</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Run Away</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：剧情 / 悬疑<br>导演：暂无<br>主演：詹姆斯·内斯比特 / 阿尔弗雷德·伊诺奇 / 明妮·德里弗 / Ruth Jones<br>日期：2026-01-01</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">女儿离家出走，这位绝望的父亲在寻女时竟意外卷入一起谋杀案，并偶然发现了一连串可能彻底毁掉全家的秘密。</section></section></section>"
+    "overview": "40岁的离异母亲苏菲（安妮·海瑟薇饰），她的丈夫出轨年轻姑娘而抛弃了母女俩，也取消了原计划带着女儿去科切拉音乐节之旅。苏菲收拾好心情，整装出发，带着女儿去了科切拉，并见到了女儿最喜欢的乐队——August Moon，而这支乐队是目前全球最火的乐队，主唱海耶斯·坎贝尔（尼古拉斯·加利齐纳饰）聪明、成功、自信、时髦，对女孩子有立竿见影的吸引力。而且只有24岁，而俩人竟然走到了要一起。他们从一系列秘密约会开始，很快就演变成一段真切并且充满激情的关系。这是一次跨越各大洲的旅程，苏菲和海耶斯在彼此的世界里穿梭：从体育场之旅到国际艺术博览会，再到巴黎和迈阿密的僻静之所。对于苏菲来说，这是一场自我恢复，也是一次对幸福和爱情的重新发现。但是，当苏菲和海耶斯的恋情传遍网络，她和她的女儿都成为狂热粉丝和媒体的目标时，苏菲必须直面这个问题：她自己的浪漫关系会如何影响那些她最关心的人的生活？",
+    "reviews": [
+      "FULL SPOILER-FREE REVIEW @ https://movieswetextedabout.com/the-idea-of-you-movie-review-a-formulaic-rom-com-that-struggles-to-stand-out/ \"The Idea of You can't seem to find enough standout elements to compensate for the lack of narrative",
+      "FULL SPOILER-FREE REVIEW @ https://leakedcinema.com/en/movie/843527/TheIdeaofYou the fantasy here isn't about getting to fuck Harry Styles, it's more about having money to own a house/car in Los Angeles and being able to fly to New York",
+      "When the love sparks, it does not see age, and ‘The Idea of You’ film portrays the same. The film follows Solène, a 40-year-old single mom who fell in love with a 24-year-old Hayes Campbell, the lead singer of the August Moon band. Directed"
+    ],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_843527_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_843527_p.jpg",
+    "update_date": "2026-03-25",
+    "backdrop_path": "images/movie_843527_b.jpg",
+    "wx_title": "安妮·海瑟薇重回爱情片，这场跨越年龄的爱恋，比你想象中更动人",
+    "summary": "安妮·海瑟薇主演浪漫轻喜剧《关于你的想法》，讲述40岁离异母亲与当红偶像在音乐节邂逅的动人爱恋。影片细腻刻画女性自我重塑，诠释跨越年龄的爱情奇迹，治愈且引人共鸣。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_843527_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">对你的想象</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">The Idea of You</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">7.3</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">爱情 / 剧情 / 喜剧</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2024-05-02</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">迈克尔·肖沃特</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">安妮·海瑟薇 / 尼古拉斯·加利齐纳</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">40岁的苏菲站在科切拉音乐节的后台，原本只是为了完成对女儿的承诺，却意外闯入了一场不属于她那个年龄段的绚烂梦境。当红偶像海耶斯的出现，像一颗投入平静湖面的石子，激起的不止是涟漪，还有苏菲内心深处早已封存的悸动。生活总是习惯给女性贴上标签，比如“离异”、“母亲”、“中年”，仿佛过了某个节点，浪漫与热烈就自动退出了人生清单。但苏菲的这次邂逅，打破了所有既定的社会时钟。这并非一个简单的偶像与粉丝的爱情童话，而是两个灵魂在跨越年龄与身份鸿沟时的谨慎试探。苏菲的犹豫与自持，海耶斯的直白与热烈，构成了影片最抓人的钩子。你看着她从最初的羞怯到逐渐找回那个曾经鲜活的自己，这不仅是关于爱情的重启，更是一次关于自我价值的温柔夺回。对于观众而言，最大的门槛或许不是那段世俗眼光下的年龄差，而是我们是否还有勇气，像苏菲一样，在面对生活给予的二次机会时，敢于推开那扇名为“可能”的门。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部电影最聪明的地方，在于它没有把一段不对等的恋情处理成单纯的狗血剧。导演迈克尔·肖沃特精准地捕捉到了中年女性在面对突如其来的激情时的那份复杂心态——既有久旱逢甘霖的欣喜，又时刻被社会舆论和家庭责任的阴影所笼罩。安妮·海瑟薇的表演赋予了苏菲极强的真实质感，她眼底流露出的那种“清醒地沉沦”极其迷人。她没有刻意装嫩，也没有陷入疲态，而是展示了一种成熟女性特有的、从容的优雅。影片将那些看似梦幻的约会地——从巴黎的咖啡馆到私人度假屋，拍得如诗如画，但真正动人的，是两人在聚光灯背后的静谧对话。这种化学反应并不依赖于工业糖精的堆砌，而是建立在一种深刻的共鸣之上。当外界的审视化作洪水猛兽，当隐私被曝光在公众视野，这段爱情所面临的拷问才刚刚开始。它没给出一个轻飘飘的幸福承诺，而是将这种选择带来的代价，摊开在观众面前。这种克制与真实，让电影在浪漫之余多了一层沉重的底色。看完后，你或许不会立刻产生那种“我也要去谈一场姐弟恋”的冲动，但你一定会被苏菲那种即便在舆论的风暴眼，依然坚定选择诚实面对自己内心的勇气所触动。电影的后劲，正是藏在那些关于“我是谁”和“我想要什么”的追问里。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这部片子最大的贡献，是重塑了我们对中年爱情的想象。它剥离了那些廉价的玛丽苏外壳，转而探讨女性在生活重压下，如何重拾爱的权利。尼古拉斯·加利齐纳的少年气恰到好处，而安妮·海瑟薇则贡献了极其细腻的内心戏。这是一部适合在某个平静的夜晚独自观看的电影，它不吵闹，却能精准地拨动你关于爱、遗憾与成长的弦。与其说我们在看一场偶像剧，不如说在看一个成熟女性如何与自己达成和解。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“爱不是为了证明给谁看，而是为了让当下的自己，活得更像个人。”</section></section></section></section>"
   },
   {
-    "id": 89901,
-    "title": "Dickinson",
-    "original_title": "Dickinson",
+    "id": 21650,
+    "title": "我的摇滚乐队",
+    "original_title": "I'm in the Band",
     "type": "剧集",
-    "rating": 8.5,
-    "date": "2019-11-01",
+    "rating": 8.6,
+    "date": "2009-11-27",
     "genres": [
-      "喜剧",
-      "剧情"
+      "喜剧"
     ],
     "director": [],
     "actors": [
-      "海莉·斯坦菲尔德",
-      "托比·胡斯",
-      "Adrian Enscoe",
-      "安娜·巴里什尼科夫"
+      "洛根·米勒",
+      "Steve Valentine",
+      "Caitlyn Taylor Love",
+      "Greg Baker"
     ],
-    "overview": "艾米莉·狄金森是二十世纪现代主义诗歌先驱之一。剧集将设定在她生活的时代，围绕她的家庭、她自我创造诗歌的历程等展开，见证狄金森个人的成长过程。",
-    "reviews": [
-      "My thoughts on Dickinson Dickinson is such a well-written show. The way Alena Smith took the story of a young poet (Emily Dickinson) more than 150 years ago and turned it into something so relatable to the current generation was just am"
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_89901_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_89901_p.jpg",
-    "update_date": "2026-03-24",
-    "backdrop_path": "images/tv_89901_b.jpg",
-    "wx_title": "今日精选：Dickinson",
-    "summary": "艾米莉·狄金森是二十世纪现代主义诗歌先驱之一。剧集将设定在她生活的时代，围绕她的家庭、她自我创造诗歌的历程等展开，见证狄金森个人的成长过程。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_89901_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">Dickinson</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Dickinson</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：喜剧 / 剧情<br>导演：暂无<br>主演：海莉·斯坦菲尔德 / 托比·胡斯 / Adrian Enscoe / 安娜·巴里什尼科夫<br>日期：2019-11-01</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">艾米莉·狄金森是二十世纪现代主义诗歌先驱之一。剧集将设定在她生活的时代，围绕她的家庭、她自我创造诗歌的历程等展开，见证狄金森个人的成长过程。</section></section></section>"
+    "overview": "当特里普·坎贝尔赢得一场电台比赛，与他最喜欢的乐队“铁鼬鼠”见面时，他获得了一个新吉他手的位置。不幸的是，当乐队搬进特里普家时，事情发生了意想不到的变化。",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_21650_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_21650_p.jpg",
+    "update_date": "2026-03-25",
+    "backdrop_path": "images/tv_21650_b.jpg",
+    "wx_title": "梦想与现实的荒诞碰撞，这部十年前的摇滚喜剧为何仍让人上头？",
+    "summary": "重温荒诞喜剧《我的摇滚乐队》，看天才少年加入偶像乐队后的爆笑成长史。影片以热血摇滚为底色，在鸡飞狗跳的日常中精准回响青春梦想，是献给所有曾为梦想热血沸腾者的必看佳作。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_21650_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">我的摇滚乐队</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">I'm in the Band</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.6</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">喜剧</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2009-11-27</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">洛根·米勒 / Steve Valentine / Caitlyn Taylor Love / Greg Baker</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当特里普·坎贝尔在电台比赛中胜出，兴奋地推开门，发现自己最崇拜的摇滚乐队“铁鼬鼠”竟然成了家里的新房客，这简直是每一个音乐少年的终极幻想。但很快，这种幻想就在琐碎的现实中“变质”了。这些曾经意气风发的摇滚老炮，把特里普的生活搅得天翻地覆，他们带来的不是巡演的灯光，而是数不清的麻烦和令人抓狂的搞怪行径。对于观众来说，这不仅是一部关于摇滚的轻喜剧，更是一场关于“偶遇偶像”后的幻灭与重构。如果你正在寻找一种轻松、解压且不乏温情的观看体验，这部剧就像是午后的汽水，虽带点气泡的刺激，却有着沁入心脾的爽利。它没有复杂的勾心斗角，只有一群各具性格的“怪咖”在屋檐下碰撞，这种纯粹的快乐在当下显得尤为珍贵。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部剧最迷人的地方，在于它撕掉了摇滚乐那种“必须深沉”的标签。剧中那支“铁鼬鼠”乐队，本质上是一群长不大的孩子，他们有着中年的焦虑，却怀揣着少年的执着。我们常说摇滚是年轻人的特权，但这部剧却让我们看到，即便生活磨平了棱角，只要还有一把吉他在手，那种想要证明自己的冲动就从未熄灭过。那种混杂着尴尬、沮丧却又充满希望的氛围，恰恰是许多人在迈向成人世界时所经历的真实写照。剧中人物的表演有一种极其自然的松弛感，他们不需要用力过猛地去制造冲突，仅是一个眼神或是一句反讽，就能把荒诞的摇滚梦化解在日常的笑料里。这种叙事逻辑，其实是在告诉我们：所谓的梦想，未必非要站在万人瞩目的舞台中央，它可能就藏在客厅里的一场乱七八糟的排练中。这种情绪的共鸣，让许多人在快节奏的生活里，能找到一个短暂的休憩点，回味起曾经那个天不怕地不怕的自己。它没有说教，只是带着一种顽童般的倔强，提醒着每一个被现实推着走的大人：偶尔也要把生活过得荒唐一点，因为那才是活着的证据。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部被许多人低估的情景喜剧，它不是那种一眼望到头的套路剧，而是带着一种对音乐的赤诚，将荒诞现实处理得极其平易近人。主演们的配合默契，那种“乐队即家人”的羁绊感，往往在爆笑之后留下一丝暖意。如果你厌倦了那些沉重复杂的长剧，只想找点能让自己嘴角上扬、心情舒畅的片段，选它准没错。它不仅让人笑，更让人重新审视自己对待梦想的态度。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“生活是一场没有彩排的现场演出，哪怕跑调，也要弹得尽兴。”</section></section></section></section>"
   }
 ]
