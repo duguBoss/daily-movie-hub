@@ -15,6 +15,8 @@ GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.1-flash-lite-preview")
 
 GITHUB_REPO = os.environ.get("GITHUB_REPO", "duguBoss/daily-movie-hub")
 CDN_PREFIX = f"https://cdn.jsdelivr.net/gh/{GITHUB_REPO}@main/data/images/"
+TOP_GIF = "https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif"
+BOTTOM_GIF = "https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif"
 
 if not TMDB_TOKEN or not GEMINI_API_KEY:
     print("错误: TMDB_API_KEY 或 GEMINI_API_KEY 未配置")
@@ -147,6 +149,23 @@ def safe_join(items, fallback="暂无"):
 
 def sanitize_html(html):
     return re.sub(r"\s+", " ", str(html or "")).strip()
+
+
+def wrap_with_guide_banners(html_content):
+    body = sanitize_html(html_content)
+    has_top = TOP_GIF in body
+    has_bottom = BOTTOM_GIF in body
+    if has_top and has_bottom:
+        return body
+
+    wrapped = (
+        '<section style="margin:0;padding:0;background:#ffffff;">'
+        f'<img src="{TOP_GIF}" style="width:100%;display:block;">'
+        f'<section style="padding:0;margin:0;">{body}</section>'
+        f'<img src="{BOTTOM_GIF}" style="width:100%;display:block;">'
+        "</section>"
+    )
+    return sanitize_html(wrapped)
 
 
 def download_image(url, filename):
@@ -377,6 +396,7 @@ def main():
 
         ai_res = generate_gemini_content(raw_data, backdrop_file)
         final_ai = ai_res or build_fallback_content(raw_data, backdrop_file)
+        final_ai["content"] = wrap_with_guide_banners(final_ai.get("content", ""))
 
         final_item = raw_data.copy()
         final_item["update_date"] = datetime.now().strftime("%Y-%m-%d")
