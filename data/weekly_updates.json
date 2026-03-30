@@ -1,93 +1,119 @@
 [
   {
-    "id": 1314786,
-    "title": "谍杀风暴",
-    "original_title": "Zeta",
+    "id": 1442908,
+    "title": "歌手们",
+    "original_title": "The Singers",
     "type": "电影",
-    "rating": 6.8,
-    "date": "2026-03-20",
+    "rating": 6.6,
+    "date": "2026-02-17",
+    "genres": [
+      "音乐",
+      "剧情",
+      "喜剧"
+    ],
+    "director": [
+      "Sam A. Davis"
+    ],
+    "actors": [
+      "Michael Young",
+      "Chris Smither",
+      "Will Harrington",
+      "Judah Kelly"
+    ],
+    "overview": "第98届奥斯卡金像奖最佳真人短片提名影片。在一家小酒馆里，开始了一场即兴歌唱比赛，将寂寥的夜晚变成了一场敞开心扉的快乐时光。",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1442908_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1442908_p.jpg",
+    "update_date": "2026-03-30",
+    "backdrop_path": "images/movie_1442908_b.jpg",
+    "wx_title": "今日精选：歌手们",
+    "summary": "第98届奥斯卡金像奖最佳真人短片提名影片。在一家小酒馆里，开始了一场即兴歌唱比赛，将寂寥的夜晚变成了一场敞开心扉的快乐时光。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1442908_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">歌手们</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">The Singers</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：音乐 / 剧情 / 喜剧<br>导演：Sam A. Davis<br>主演：Michael Young / Chris Smither / Will Harrington / Judah Kelly<br>日期：2026-02-17</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">第98届奥斯卡金像奖最佳真人短片提名影片。在一家小酒馆里，开始了一场即兴歌唱比赛，将寂寥的夜晚变成了一场敞开心扉的快乐时光。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 812037,
+    "title": "去年夏天",
+    "original_title": "L'Été dernier",
+    "type": "电影",
+    "rating": 6.1,
+    "date": "2023-09-13",
+    "genres": [
+      "剧情"
+    ],
+    "director": [
+      "凯瑟琳·布雷亚"
+    ],
+    "actors": [
+      "蕾雅·德吕盖",
+      "塞缪尔·基尔舍",
+      "奥利维尔·雷堡汀",
+      "克洛蒂尔·蔻洛"
+    ],
+    "overview": "安妮是一位杰出的律师，与丈夫皮埃尔和他们六岁和八岁的女儿在巴黎高地上的一所房子里和睦相处。有一天，皮埃尔前妻的儿子西奥，17岁，搬来和他们一起住。安妮被西奥所困扰，并逐渐与他陷入了一段充满激情的关系，将她的事业和家庭生活置于危险之中。",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_812037_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_812037_p.jpg",
+    "update_date": "2026-03-30",
+    "backdrop_path": "images/movie_812037_b.jpg",
+    "wx_title": "今日精选：去年夏天",
+    "summary": "安妮是一位杰出的律师，与丈夫皮埃尔和他们六岁和八岁的女儿在巴黎高地上的一所房子里和睦相处。有一天，皮埃尔前妻的儿子西奥，17岁，搬来和他们一起住。安妮被西奥所困扰，并逐渐与他陷入了一段充满激情的关系，",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_812037_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">去年夏天</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">L'Été dernier</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：剧情<br>导演：凯瑟琳·布雷亚<br>主演：蕾雅·德吕盖 / 塞缪尔·基尔舍 / 奥利维尔·雷堡汀 / 克洛蒂尔·蔻洛<br>日期：2023-09-13</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">安妮是一位杰出的律师，与丈夫皮埃尔和他们六岁和八岁的女儿在巴黎高地上的一所房子里和睦相处。有一天，皮埃尔前妻的儿子西奥，17岁，搬来和他们一起住。安妮被西奥所困扰，并逐渐与他陷入了一段充满激情的关系，将她的事业和家庭生活置于危险之中。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 262793,
+    "title": "凡妇俗女",
+    "original_title": "PONIES",
+    "type": "剧集",
+    "rating": 7.0,
+    "date": "2026-01-15",
     "genres": [
       "剧情",
-      "惊悚"
-    ],
-    "director": [
-      "Dani de la Torre"
-    ],
-    "actors": [
-      "马里奥·卡萨斯",
-      "Mariela Garriga",
-      "Luis Zahera",
-      "诺拉·纳瓦斯"
-    ],
-    "overview": "四名前西班牙特工在全球不同地点同时遇刺。西班牙国家情报中心发现，数十年前他们都在哥伦比亚参与了秘密的谢纳加行动。西班牙国家情报中心最出色的特工泽塔必须追查并保护唯一的幸存者，这将是他迄今为止最危险的全球任务。哥伦比亚顶级特工阿尔法将与泽塔并肩行动，而她似乎比他更了解谢纳加行动背后的秘密。",
-    "reviews": [
-      "\"Agent Zeta\" is a mixed bag. On the upside decent action, an interesting back story, characters with depth and plausible motivations. On the downside, political bias (ETA were an understandable response to a complex political landsc"
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1314786_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1314786_p.jpg",
-    "update_date": "2026-03-29",
-    "backdrop_path": "images/movie_1314786_b.jpg",
-    "wx_title": "深陷全球追杀：这部谍战新片，正在撕开陈年机密的伤口",
-    "summary": "马里奥·卡萨斯主演硬核谍战片《泽塔》，讲述王牌特工在四名同僚遇刺后，于全球追杀中揭开尘封档案的惊险过程。剧情紧凑悬疑，是近期不容错过的谍战佳作。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1314786_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">谍杀风暴</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Zeta</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">6.8</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">剧情 / 惊悚</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-03-20</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">Dani de la Torre</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">马里奥·卡萨斯 / Mariela Garriga / Luis Zahera / 诺拉·纳瓦斯</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当四个看似毫无关联的地点同时传出刺杀噩耗，这种精确到令人窒息的默契，预示着一场飓风将至。这就是《谍杀风暴》开篇抛给观众的钩子。马里奥·卡萨斯饰演的泽塔，是西班牙情报中心最锋利的刀，但这次，他面对的不是明处的敌人，而是被时间掩埋的灰烬。多年前的那场“谢纳加行动”，像一颗埋在泥土里的地雷，随着当事人的离去，重新被挖了出来。泽塔的处境极其被动：他既要穿梭于全球各地的险境中寻找唯一的生还者，又得时刻提防身边的盟友——那位似乎藏着比他更多真相的哥伦比亚特工阿尔法。这不单是一场简单的追逃，更像是一次与历史的博弈。对于喜爱谍战题材的观众来说，这种“谁能信任”的紧张感是核心看点，没有上帝视角的开挂，只有在错综复杂的信息网中，拼命寻找那一丝生还契机的压迫感。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部电影最迷人的地方，在于它并不执着于炫技，而是把那种“被历史裹挟”的无奈感刻画得相当真实。不同于那些飞天遁地的超人特工，这里的角色是有血有肉的个体，他们会被过去的选择所束缚，也会因为利益的纠葛而动摇。导演丹尼·德拉托雷非常擅长调度这种跨国行动的节奏，通过碎片化的信息拼凑，让观众在泽塔的视角里，一步步拼凑出“谢纳加行动”的真面目。这种叙事带来的成就感是沉浸式的。演员的表演也撑起了这部戏，马里奥·卡萨斯不仅有硬朗的动作表现，更难得的是他在面对旧日阴影时，那种眼神中的挣扎与怀疑。而阿尔法的出现，则为整部戏注入了一种不可控的变数，她不仅仅是伙伴，更像是这潭浑水里的清醒者，她的每一个动作都带着深意，让原本就扑朔迷离的局势更加难以预判。电影没有为了反转而反转，而是将人物动机与历史后果紧紧咬合，即便是在结尾，那种对真相的追寻与对现实的妥协，依然会让观众回味良久。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部非常扎实的惊悚类型片。它没有试图重新定义谍战，而是把现有的类型元素磨炼到了极致。节奏紧凑，逻辑自洽，尤其是对特工这种特殊职业在面对历史污点时那种无可奈何的心理描摹，显得非常老练。马里奥·卡萨斯在这部作品中展现了极强的驾驭能力，即便是一个简单的眼神交锋，都能让人感受到人物背后的沉重感。如果你厌倦了那些套路化的超级英雄叙事，想看一场逻辑严密、充满博弈感的硬核谍战，这片子绝对值得一刷。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“有些秘密从被尘封的那一刻起，就注定了要在未来某个时刻清算。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 1242501,
-    "title": "冰湖行动",
-    "original_title": "Icefall",
-    "type": "电影",
-    "rating": 6.4,
-    "date": "2025-10-16",
-    "genres": [
-      "动作",
-      "犯罪",
-      "惊悚"
-    ],
-    "director": [
-      "Stefan Ruzowitzky"
-    ],
-    "actors": [
-      "乔尔·金纳曼",
-      "卡拉·杰德·迈尔斯",
-      "丹尼·休斯顿",
-      "格雷厄姆·格林"
-    ],
-    "overview": "一个犯罪团伙抢劫了二千万美元，运钞飞机却因为风暴掉进了冰湖。来年冰雪融化了，盗猎者哈兰在冰面上看到了一只带着金戒指的手，捡到了一皮箱钱。他一打开皮箱就触发了信号，犯罪团伙立马跟了过来。浑然不知的哈兰在冰上悠然的走，却被原住民护林员安妮逮住了，他无法解释钱来源，也没时间解释，犯罪团伙与腐败警察闻风而至，护林员与盗猎者被迫亡命组队，必须在冰面消融前穿越险恶冰湖，开展生死大逃亡，为守护宝藏展开绝地反击。",
-    "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1242501_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1242501_p.jpg",
-    "update_date": "2026-03-29",
-    "backdrop_path": "images/movie_1242501_b.jpg",
-    "wx_title": "冰湖之上的猫鼠游戏：一场关于贪婪与生存的极寒逃亡",
-    "summary": "硬核动作片《冰湖行动》不容错过！盗猎者意外卷入赃款纷争，在冰面消融的生死时速中，与护林员联手突围。节奏紧凑、氛围压抑，带你体验极致的生存博弈与动作爽感。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1242501_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">冰湖行动</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Icefall</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">6.4</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">动作 / 犯罪 / 惊悚</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2025-10-16</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">Stefan Ruzowitzky</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">乔尔·金纳曼 / 卡拉·杰德·迈尔斯 / 丹尼·休斯顿 / 格雷厄姆·格林</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">冰</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当那一箱带着血腥味的钞票从融化的冰湖中重见天日时，哈兰本以为是生活给出的馈赠，却没意识到那是一张通往地狱的单程票。在荒凉的北方冰原，冰面不仅承载着重量，更承载着贪婪与杀机。哈兰，一个原本只想在雪地里讨生活的盗猎者，瞬间沦为了犯罪团伙眼中的猎物，以及腐败势力试图抹除的证人。最讽刺的是，在逃亡路上，他不得不与那个本该将他绳之以法的护林员安妮并肩作战。两人从最初的对立到被迫捆绑在一起，这场在极寒冰面上展开的生死大逃亡，不仅是关于宝藏的争夺，更是一场关于人性底线的博弈。电影将背景设定在一个正在消融的环境中，那种随时可能裂开坠入深渊的危机感，让每一场戏都充满了窒息的压迫力，你不知道下一秒冰面会坍塌，还是身后的追兵会扣动扳机。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部电影最抓人的地方，不在于它展示了多少动作技巧，而在于它制造了一种极致的“空间封闭感”。导演斯特凡·鲁佐维茨基非常擅长利用这种荒无人烟的地理特征，将所有角色困在这一方薄冰之上。冰湖在此处不仅仅是地标，它更像是一个无声的审判官。当人们为了那两千万美元疯狂的时候，冰层在他们脚下发出嘎吱声，那不仅是碎冰的声音，更是欲望崩塌的预告。乔尔·金纳曼的表现非常克制，他饰演的哈兰不是什么英雄，只是个试图在复杂局势中活下去的普通人，这种角色身上的脆弱感，让观众更愿意与之共情。相比于那些花哨的爆炸戏，影片更倾向于通过环境互动来营造惊悚——比如在零下几十度的环境中，一个错误的走位或者一次枪声带来的震动，都可能演变为一场灭顶之灾。这种“天时地利”对人的极限压榨，让整部影片始终保持着一种紧绷的冷冽感。你会发现，在极致的寒冷与贪婪面前，哪怕是再精密的犯罪计划，也脆弱得如同冰面上的积雪，一踩即陷。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">《冰湖行动》是一部典型的工业化类型佳作，它没有试图去探讨宏大的命题，而是将所有的预算和巧思都用在了“冰原生存”这一个点上。这种纯粹的动作惊悚片，最难得的是节奏不拖沓。当贪婪遇上绝境，所有的算计都会在寒冷中失效。它是那种适合周末晚上看，能让你全程屏住呼吸的作品，没有刻意的温情煽情，只有冰冷的现实与生存的本能。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“在消融的冰面上，贪婪比气温更让人胆寒。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 100049,
-    "title": "总之就是非常可爱",
-    "original_title": "トニカクカワイイ",
-    "type": "剧集",
-    "rating": 8.5,
-    "date": "2020-10-03",
-    "genres": [
-      "动画",
-      "喜剧"
+      "犯罪"
     ],
     "director": [],
     "actors": [
-      "鬼头明里",
-      "榎木淳弥",
-      "芹泽优",
-      "上坂堇"
+      "艾米莉亚·克拉克",
+      "海莉·卢·理查森",
+      "阿德里安·莱斯特",
+      "Artjom Gilz"
     ],
-    "overview": "写作星空读作NASA……虽然擅长学习但是有点那个的少年星空，在即将参加高中考试的某一天，遇见了一位非常可爱的少女。但，就在大意之间，星空遭遇了交通事故……星空突然向搭救了他的少女司告白。回答是“如果愿意和我结婚就跟你交往”。在那之后，司出现在了已18岁的星空的家。星空在交到“女友”前就有了“妻子”……问候了星空的父母，两个人重整心情回到家后，公寓被烧光了。不过没事的。一边接受有栖川家的照顾，一边和总之就是非常可爱的妻子展开了卿卿我我的夫妻生活！",
+    "overview": "1970年代末的莫斯科，两名美国大使馆秘书在丈夫遇害后为中情局效力，揭发悲剧事件背后天大的冷战阴谋。",
     "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_100049_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_100049_p.jpg",
-    "update_date": "2026-03-29",
-    "backdrop_path": "images/tv_100049_b.jpg",
-    "wx_title": "先结婚再谈恋爱：这部反常规的甜蜜番，藏着最纯粹的温柔",
-    "summary": "想找纯度极高的治愈系动画？《总之就是非常可爱》带你体验闪婚后的甜蜜日常。跳过繁琐拉扯，用温润细腻的叙事诠释命中注定，是快节奏生活中不可错过的治愈甜味剂，让你在琐碎婚后生活中感受浪漫诗意。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_100049_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">总之就是非常可爱</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">トニカクカワイイ</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.5</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">动画 / 喜剧</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2020-10-03</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">鬼头明里 / 榎木淳弥 / 芹泽优 / 上坂堇</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">遇</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">少年星空，名字听起来像NASA般宏大，人生却在那场突如其来的交通事故中，被一个叫司的少女彻底改写。没有漫长的暗恋，没有纠结的表白，两人在星空被撞飞的瞬间，定下了一个听起来荒谬却异常严肃的契约——“如果愿意和我结婚，就跟你交往”。于是，当星空18岁那年，司真的推开了他家门。这哪里是恋爱番，分明是一部跳过恋爱步骤，直接进入“养成系”夫妻生活的超甜剧集。故事的开场并没有太多戏剧性的冲突，却用一种极其轻盈的笔触，将两个灵魂的靠近刻画得入木三分。星空是一个典型的理科直男，司则温柔得像一团包裹住现实锋利棱角的棉花。两人在公寓被烧光后，被迫开启了同居生活。这种“白手起家”的夫妻档，没有太多狗血，只有在锅碗瓢盆的碰撞声中，一点点滋生出的温情。对于习惯了恋爱番中那种推拉、误会、吃醋的观众来说，这部剧简直是一股清流。它不试图用强情节去制造焦虑，而是通过两人在日常琐事中的笨拙与真诚，让每一个屏幕前的观众都忍不住嘴角上扬。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部作品最迷人的地方，在于它对“亲密关系”极度纯粹的探讨。在现代人的恋爱观里，我们太擅长计算成本、衡量利弊，以至于忘记了那种纯粹的、为了一个人可以不管不顾的悸动。司和星空的结合，虽然初看起来有一种宿命般的荒谬，但随着剧情推进，你会发现两人对彼此的接纳是如此自然。那种“因为是你，所以一切都好”的态度，在如今浮躁的影视作品中实在是太过稀缺。动画中的节奏把控得极好，它并没有把焦点放在琐事本身的无聊上，而是通过两人在相处中不断加深的默契，展现了爱情中最动人的部分——那是一种可以应对生活突发状况的信任感。公寓被烧毁、生活重起炉灶、父母的突然造访……这些本来能把生活搅得一团糟的事件，在他们眼中，竟然都成了增进感情的契机。这种乐观的情绪感染力，正是该剧最强大的后劲所在。你会发现，那种“只有和你在一起，日常才有意义”的底色，其实才是整部作品的灵魂所在。配音演员们的表现同样值得夸奖，那种小心翼翼的试探、偶尔流露的羞涩，都被处理得细腻至极。它不需要宏大的叙事，也不需要复杂的反转，仅仅是两人坐在桌前一起吃饭、并肩看星空的那种静谧，就足以撑起观众心中对理想婚姻的所有浪漫想象。与其说这是一个关于结婚的故事，不如说这是一个关于如何通过爱一个人，去重新定义自己世界的旅程。看的时候，你不会觉得这离你很远，反而会因为那些平凡而温馨的细节，在这个充满了不确定性的时代里，找到片刻的宁静。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部让人看完想谈恋爱的作品，而且是奔着结婚去的那种。它把爱情中最美好的部分提纯，去掉了琐碎的争执与猜忌，只留下那份坚定不移的奔赴。如果你在生活中感到些许疲惫，那么星空和司的这段“闪婚”生活，就是你最好的治愈剂。它不仅是喜剧，更是对美好生活的一种极致构想，让人重新相信，简单的陪伴本身，就是一种无需多言的幸福。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“无论世界如何改变，只想和你共度平凡的每一天。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_262793_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_262793_p.jpg",
+    "update_date": "2026-03-30",
+    "backdrop_path": "images/tv_262793_b.jpg",
+    "wx_title": "当冷战棋子觉醒：两位大使馆秘书，如何揭开莫斯科的惊天阴谋？",
+    "summary": "冷战背景下的悬疑佳作《凡妇俗女》，讲述两名美国大使馆秘书在痛失丈夫后，被迫卷入中情局的间谍游戏。当她们从外交随从转变为情报刺客，一场关乎生死与政治的博弈就此展开。如果你喜欢高智商剧情、复古质感与女性角",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_262793_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">凡妇俗女</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">PONIES</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">7.0</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">剧情 / 犯罪</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-01-15</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">艾米莉亚·克拉克 / 海莉·卢·理查森 / 阿德里安·莱斯特 / Artjom Gilz</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">那</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">那是70年代末的莫斯科，凛冽的寒风不仅吹在红场上，更吹进了每一个身处异乡的灵魂里。当艾米莉亚·克拉克饰演的角色站在冰冷的办公桌前，手里攥着一份即将改变命运的电报时，她还只是大使馆里一名看似无足轻重的秘书。然而，随着丈夫的突然离世，平静的生活瞬间崩塌，她与另一位同样深陷泥潭的同僚，被迫从琐碎的公文中抽身，踏入了一个充满背叛、监视与未知的间谍世界。这部剧最让人坐不住的地方，在于它没有把女性设定为被拯救的客体，而是让她们在夹缝中求生，甚至在冷战的棋盘上成为决定性的棋手。作为观众，你看到的不是什么大开大合的动作片，而是一种极度压抑下，人心如何一点点变硬、眼神如何从迷茫转向坚定的过程。如果你对那种充满了时代质感、阴冷色调，且有着精密逻辑架构的间谍惊悚题材感兴趣，那么这部作品绝对是近期你不该错过的选择。它没有把观众当傻子，每一处对话的言外之意，都像是在刀尖上行走。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部剧最迷人之处，在于它极为克制地处理了“普通人被卷入大时代”的恐惧感。导演没有刻意堆砌爆炸和追车，而是将所有的张力都浓缩在狭小的室内空间——灯光昏暗的办公室、窃听器的嗡鸣、以及那几句带有试探意味的寒暄。艾米莉亚·克拉克在这里贡献了非常细腻的表演，她不再是那个光芒万丈的龙妈，而是一个被悲痛裹挟，在绝望中寻找真相的、真实的女性。海莉·卢·理查森的表演则为剧集注入了另一种层次，两个性格迥异的女人，在莫斯科的寒冬里，被迫建立起一种基于相互利用却又微妙共情的联结。这种“战友”关系的变化，是整部剧最值得细品的看点。叙事节奏方面，剧集采用了精巧的多线铺陈，将冷战时期那种人人自危的氛围感营造得极其浓郁。每一集的结尾都像是一块多米诺骨牌，推倒之后，你永远猜不到下一张牌会引向哪种深渊。它探讨的不仅是情报工作，更是关于如何在谎言构筑的帝国中，坚守哪怕一丝一毫的真实。这种叙事上的高级感，让它在看完之后，依然能让你在午夜回想起那些在莫斯科街头闪烁的寒冷灯光。它不试图给你爽感，而是给你一种真实的、如坠冰窖般的沉浸体验，让你深刻体会到，在那段特殊的历史时期，生命确实轻如鸿毛，但意志却重若千钧。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部需要静下心来品味的剧，它没有那些快餐式谍战剧的浮躁，反而有着一种沉稳的古典气质。导演对于那个时代氛围的还原非常考究，从服装到场景，每一处细节都透着冷战时期的压抑感。艾米莉亚·克拉克证明了自己脱离商业大片后的演技张力，她将一个失去一切、在绝境中被迫觉醒的女性形象刻画得入木三分。剧集将个体命运与国家机器的齿轮精准地咬合在一起，通过对真相的步步逼近，揭开了冷战阴谋下的人性暗面。这不仅仅是关于间谍的故事，更是关于两个平凡女性如何在政治风暴中心存活下来的真实记录。如果你看腻了套路化的叙事，那么这部剧带来的冷冽与深度，值得你投入整晚的时间去细细咀嚼。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“在谎言编织的寒冬里，真相是她们唯一的防身武器。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 9302,
+    "title": "数码宝贝：驯兽师之王",
+    "original_title": "デジモンテイマーズ",
+    "type": "剧集",
+    "rating": 8.6,
+    "date": "2001-04-01",
+    "genres": [
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [],
+    "actors": [
+      "津村真琴",
+      "野泽雅子",
+      "折笠富美子",
+      "今井由香"
+    ],
+    "overview": "松田启人是个稍微有点率真个性极普通得小学五年级男生，现在最喜欢东西就数码宝贝！ 对他来说与朋友玩数码宝贝卡片游戏及上课时偷偷地把自己创作数码暴龙画笔记簿上最大乐趣！热爱数码宝贝少年启人某日竟偶然得到了一张能把命运大大改变的以往从未有人见过的不可思议的蓝色卡片——蓝卡！ 就在把蓝卡放读卡机读进去瞬间启人眼前冒险之门已经打开了。与接着到访的命运拍档——基尔兽相遇，现在西新宿舞台上的新故事要揭开序幕了…… 松田启人、李建良、牧野留姬、秋山辽、加藤树莉、盐田博和、北川健太、李小春八个小朋友，来到数码宝贝世界，打败堕天地狱兽后回到人类世界，并合力打败帝厉魔，拯救了世界。后来数码宝贝们都回到了数码世界。结尾启人在基尔兽的洞中又看到了通往数码世界的大门，留下了悬念……",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_9302_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_9302_p.jpg",
+    "update_date": "2026-03-30",
+    "backdrop_path": "images/tv_9302_b.jpg",
+    "wx_title": "不止是童年回忆，这部深刻的《数码宝贝》为何是系列巅峰？",
+    "summary": "重温《数码宝贝：驯兽师之王》，这部暗黑风格的经典之作，以深刻的人性探讨与羁绊刻画，成为无数观众心中的剧情巅峰，是适合成年人重拾感动的深度佳作。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_9302_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">数码宝贝：驯兽师之王</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">デジモンテイマーズ</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.6</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">动画 / 动作冒险 / Sci-Fi & Fantasy</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2001-04-01</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">津村真琴 / 野泽雅子 / 折笠富美子 / 今井由香</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">启</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">启人只是个在西新宿平凡生活的五年级男生，画画、玩卡片、偶尔幻想。当那张蓝色的读卡器出现在他手中，原本安静的课桌变成了战场，他的生活被突如其来的冒险撕开了一道口子。这不是那种英雄打怪兽的简单剧本，而是一个关于少年如何面对恐惧、如何与名为“基尔兽”的异类建立羁绊的过程。在这里，数码兽不再是单纯的工具，它们会因为驯兽师的负面情绪而进化失控，会有属于自己的哲学思考。如果你怀着“看一部轻松动画”的心态点开它，可能会被随后展开的压抑叙事和成年人世界的残酷投影所震慑。它把镜头对准了孩子内心深处最柔软也最脆弱的部分，那些关于遗失、关于成长代价的探讨，让它在当年就显得如此与众不同。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部作品最迷人的地方，在于它从未把观众当“小孩子”糊弄。它敢于处理极其复杂的伦理困境，比如当心爱的伙伴面临毁灭时，驯兽师是否还能坚持最初的善良？它探讨了数码世界与现实世界的界限，那种都市霓虹下的不安与虚无感，在现在看来依然充满前瞻性。叙事上，它放弃了单纯的升级打怪路径，转而挖掘每个人物背后的创伤与孤独。有的角色背负着天才的沉重，有的则在家庭缺失中寻找自我，数码兽的进化往往伴随着驯兽师灵魂的震颤。那种“进化”不再是力量的体现，而是自我认知的重建。即便没有宏大的特效，它仅凭细腻的情感流动和充满哲学思辨的脚本，就足以在你的记忆中扎根。看完它你会发现，它不是在讲一个关于怪兽的故事，而是在讲每个少年必经的那场蜕变：我们终将面对名为现实的敌人，即便遍体鳞伤，也要守住内心那一抹最初的纯粹。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">《驯兽师之王》是动画史上一抹极其冷峻而温柔的异色。它打破了冒险动画的套路，将科幻、存在主义与少年成长完美勾连。在那座充满金属与电流的城市背景下，数码兽与人类的羁绊被升华为一种近乎悲剧的浪漫。如果你曾觉得童年动画内容单薄，请务必看看这一部，它不仅是回忆的载体，更是一部值得成年人细细品味的深沉史诗。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“进化不仅是力量的增长，更是灵魂对现实的一次次突围。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   }
 ]
