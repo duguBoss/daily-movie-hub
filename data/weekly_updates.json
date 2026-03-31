@@ -1,119 +1,102 @@
 [
   {
-    "id": 1442908,
-    "title": "歌手们",
-    "original_title": "The Singers",
+    "id": 1263012,
+    "title": "死人开关",
+    "original_title": "Dead Man's Wire",
     "type": "电影",
-    "rating": 6.6,
-    "date": "2026-02-17",
+    "rating": 6.4,
+    "date": "2026-01-09",
     "genres": [
-      "音乐",
-      "剧情",
-      "喜剧"
-    ],
-    "director": [
-      "Sam A. Davis"
-    ],
-    "actors": [
-      "Michael Young",
-      "Chris Smither",
-      "Will Harrington",
-      "Judah Kelly"
-    ],
-    "overview": "第98届奥斯卡金像奖最佳真人短片提名影片。在一家小酒馆里，开始了一场即兴歌唱比赛，将寂寥的夜晚变成了一场敞开心扉的快乐时光。",
-    "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1442908_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1442908_p.jpg",
-    "update_date": "2026-03-30",
-    "backdrop_path": "images/movie_1442908_b.jpg",
-    "wx_title": "今日精选：歌手们",
-    "summary": "第98届奥斯卡金像奖最佳真人短片提名影片。在一家小酒馆里，开始了一场即兴歌唱比赛，将寂寥的夜晚变成了一场敞开心扉的快乐时光。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1442908_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">歌手们</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">The Singers</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：音乐 / 剧情 / 喜剧<br>导演：Sam A. Davis<br>主演：Michael Young / Chris Smither / Will Harrington / Judah Kelly<br>日期：2026-02-17</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">第98届奥斯卡金像奖最佳真人短片提名影片。在一家小酒馆里，开始了一场即兴歌唱比赛，将寂寥的夜晚变成了一场敞开心扉的快乐时光。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 812037,
-    "title": "去年夏天",
-    "original_title": "L'Été dernier",
-    "type": "电影",
-    "rating": 6.1,
-    "date": "2023-09-13",
-    "genres": [
+      "犯罪",
       "剧情"
     ],
     "director": [
-      "凯瑟琳·布雷亚"
+      "格斯·范桑特"
     ],
     "actors": [
-      "蕾雅·德吕盖",
-      "塞缪尔·基尔舍",
-      "奥利维尔·雷堡汀",
-      "克洛蒂尔·蔻洛"
+      "比尔·斯卡斯加德",
+      "科尔曼·多明戈",
+      "阿尔·帕西诺",
+      "戴克·蒙哥马利"
     ],
-    "overview": "安妮是一位杰出的律师，与丈夫皮埃尔和他们六岁和八岁的女儿在巴黎高地上的一所房子里和睦相处。有一天，皮埃尔前妻的儿子西奥，17岁，搬来和他们一起住。安妮被西奥所困扰，并逐渐与他陷入了一段充满激情的关系，将她的事业和家庭生活置于危险之中。",
-    "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_812037_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_812037_p.jpg",
-    "update_date": "2026-03-30",
-    "backdrop_path": "images/movie_812037_b.jpg",
-    "wx_title": "今日精选：去年夏天",
-    "summary": "安妮是一位杰出的律师，与丈夫皮埃尔和他们六岁和八岁的女儿在巴黎高地上的一所房子里和睦相处。有一天，皮埃尔前妻的儿子西奥，17岁，搬来和他们一起住。安妮被西奥所困扰，并逐渐与他陷入了一段充满激情的关系，",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_812037_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">去年夏天</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">L'Été dernier</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：剧情<br>导演：凯瑟琳·布雷亚<br>主演：蕾雅·德吕盖 / 塞缪尔·基尔舍 / 奥利维尔·雷堡汀 / 克洛蒂尔·蔻洛<br>日期：2023-09-13</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">安妮是一位杰出的律师，与丈夫皮埃尔和他们六岁和八岁的女儿在巴黎高地上的一所房子里和睦相处。有一天，皮埃尔前妻的儿子西奥，17岁，搬来和他们一起住。安妮被西奥所困扰，并逐渐与他陷入了一段充满激情的关系，将她的事业和家庭生活置于危险之中。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "overview": "故事发生在1977年2月8日，围绕一名44岁的前房地产开发商Tony Kiritsis展开。他用枪劫持了贷款公司总裁Richard O. Hall，并在其身上绑了一个“死亡开关”，以此胁迫这位总裁在几近零度的天气里当着警察和记者的面穿过市中心的街道……",
+    "reviews": [
+      "At a time when many of us may feel like we’re being systematically shafted by big business and powerful financial institutions, it’s natural that some of us might feel justified in seeking retribution against them for their deceitful action",
+      "Back in 1977, Tony Kiritsis (Bill Skarsgård) took the law into his own hands by brazenly kidnapping the son of the owner of a mortgage company that he felt had left him high, dry and broke. Now we are not taking about a child here, Richard"
+    ],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1263012_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1263012_p.jpg",
+    "update_date": "2026-03-31",
+    "backdrop_path": "images/movie_1263012_b.jpg",
+    "wx_title": "当一个绝望者绑上“死亡开关”：一场发生在1977年的惊世对峙",
+    "summary": "格斯·范桑特新作《死人开关》改编自真实劫持案，讲述绝望开发商向权贵发起极限反击。影片融合高压犯罪博弈与深刻正义探讨，在冬日寒意中呈现一场震撼人心的绝境抗争。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1263012_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">死人开关</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Dead Man's Wire</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">6.4</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">犯罪 / 剧情</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-01-09</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">格斯·范桑特</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">比尔·斯卡斯加德 / 科尔曼·多明戈 / 阿尔·帕西诺 / 戴克·蒙哥马利</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">那</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">那是1977年的寒冬，城市沉浸在一种压抑的铁灰色调里。托尼，一个曾经意气风发的房地产开发商，此刻正站在人生的悬崖边上。他把那个贷款公司总裁强行拖入这冰天雪地的街道，而他身上那道名为“死人开关”的装置，成了连接两人命运的唯一纽带。只要他的手松开，或者稍有异动，这就是一场同归于尽的葬礼。格斯·范桑特的镜头向来不热衷于单纯的暴力，他更擅长捕捉那种“困兽犹斗”的呼吸感。当围观的群众、闪烁的警灯、冰冷的镜头交织在一起，托尼不再是一个单纯的劫持者，他更像是一个被体制逻辑彻底碾碎后的残影。对于观众而言，这部片子的观看门槛不在于动作场面，而在于你是否愿意进入这个男人的绝望深渊。这种以命搏命的姿态，是那个年代特有的狂躁，也是某种无声的愤怒。看着他在零度的街道上蹒跚，你会忍不住思考：当一个人失去了一切合法渠道，他剩下的选择，究竟是英雄的壮举，还是毁灭的狂欢？</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部电影最迷人的地方，在于它对“权力不对称”的极度刻画。比尔·斯卡斯加德饰演的托尼，那双布满血丝的眼睛里，既有着对社会的控诉，也有着对自己悲剧性的清晰认知。这不是一部爽片，它剥去了所有犯罪类型的商业外壳，只剩下那一层薄薄的、随时会断裂的弦。格斯·范桑特并没有给出一个非黑即白的裁决，他把选择权交给了观众。影片中那个被绑着的总裁，在恐惧中被迫与劫持者共享寒风与时间，这种“贴身相处”的张力，让每一场对话都像是在刀尖上行走。阿尔·帕西诺等人的加入，更是为这出戏注入了厚重的底色，他们的出现让那种旧时代的粗粝质感瞬间立住。影片没有用廉价的快节奏剪辑去制造焦虑，而是通过漫长、粘稠的对峙时间，逼迫你直视那个人的绝望。当这种绝望感被无限放大，你会发现，所谓的“犯罪”背后，其实是一整代人对于资本机器的无力感。这种后劲不是那种看完想大喊大叫的刺激，而是一种看完后会坐在黑暗中久久不想离去的沉默。它提醒我们，在巨大的规则齿轮面前，个人的抗争有时显得如此笨拙，却又如此惊心动魄。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">《死人开关》是一部极其冷峻的现实主义寓言。格斯·范桑特用极简的笔触，解剖了一个被时代抛弃者的最后疯狂。比尔·斯卡斯加德贡献了职业生涯中极具爆发力的表演，他那种游走在崩溃边缘的神经质，让每一次对峙都充满了变数。影片没有预设的道德立场，它只是冷冷地展示了当一个人被逼进死胡同，他会如何用生命去博取那一点点被看见的权利。这是一部关于愤怒、绝望与自我毁灭的佳作，如果你厌倦了那些逻辑严丝合缝的爆米花犯罪片，这部电影独特的叙事节奏和那种令人窒息的社会批判感，一定会让你印象深刻。它不提供答案，它只负责让你心跳加速，然后长久地沉默下去。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“当一个人失去了一切，他的愤怒就是这世界上最沉重的砝码。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   },
   {
-    "id": 262793,
-    "title": "凡妇俗女",
-    "original_title": "PONIES",
-    "type": "剧集",
-    "rating": 7.0,
-    "date": "2026-01-15",
+    "id": 812,
+    "title": "阿拉丁",
+    "original_title": "Aladdin",
+    "type": "电影",
+    "rating": 7.7,
+    "date": "1992-11-25",
     "genres": [
-      "剧情",
-      "犯罪"
+      "动画",
+      "家庭",
+      "冒险",
+      "奇幻",
+      "爱情"
     ],
-    "director": [],
+    "director": [
+      "罗恩·克莱蒙兹"
+    ],
     "actors": [
-      "艾米莉亚·克拉克",
-      "海莉·卢·理查森",
-      "阿德里安·莱斯特",
-      "Artjom Gilz"
+      "斯科特·维内尔",
+      "罗宾·威廉姆斯",
+      "琳达·拉金",
+      "乔纳森·弗里曼"
     ],
-    "overview": "1970年代末的莫斯科，两名美国大使馆秘书在丈夫遇害后为中情局效力，揭发悲剧事件背后天大的冷战阴谋。",
-    "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_262793_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_262793_p.jpg",
-    "update_date": "2026-03-30",
-    "backdrop_path": "images/tv_262793_b.jpg",
-    "wx_title": "当冷战棋子觉醒：两位大使馆秘书，如何揭开莫斯科的惊天阴谋？",
-    "summary": "冷战背景下的悬疑佳作《凡妇俗女》，讲述两名美国大使馆秘书在痛失丈夫后，被迫卷入中情局的间谍游戏。当她们从外交随从转变为情报刺客，一场关乎生死与政治的博弈就此展开。如果你喜欢高智商剧情、复古质感与女性角",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_262793_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">凡妇俗女</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">PONIES</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">7.0</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">剧情 / 犯罪</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-01-15</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">艾米莉亚·克拉克 / 海莉·卢·理查森 / 阿德里安·莱斯特 / Artjom Gilz</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">那</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">那是70年代末的莫斯科，凛冽的寒风不仅吹在红场上，更吹进了每一个身处异乡的灵魂里。当艾米莉亚·克拉克饰演的角色站在冰冷的办公桌前，手里攥着一份即将改变命运的电报时，她还只是大使馆里一名看似无足轻重的秘书。然而，随着丈夫的突然离世，平静的生活瞬间崩塌，她与另一位同样深陷泥潭的同僚，被迫从琐碎的公文中抽身，踏入了一个充满背叛、监视与未知的间谍世界。这部剧最让人坐不住的地方，在于它没有把女性设定为被拯救的客体，而是让她们在夹缝中求生，甚至在冷战的棋盘上成为决定性的棋手。作为观众，你看到的不是什么大开大合的动作片，而是一种极度压抑下，人心如何一点点变硬、眼神如何从迷茫转向坚定的过程。如果你对那种充满了时代质感、阴冷色调，且有着精密逻辑架构的间谍惊悚题材感兴趣，那么这部作品绝对是近期你不该错过的选择。它没有把观众当傻子，每一处对话的言外之意，都像是在刀尖上行走。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部剧最迷人之处，在于它极为克制地处理了“普通人被卷入大时代”的恐惧感。导演没有刻意堆砌爆炸和追车，而是将所有的张力都浓缩在狭小的室内空间——灯光昏暗的办公室、窃听器的嗡鸣、以及那几句带有试探意味的寒暄。艾米莉亚·克拉克在这里贡献了非常细腻的表演，她不再是那个光芒万丈的龙妈，而是一个被悲痛裹挟，在绝望中寻找真相的、真实的女性。海莉·卢·理查森的表演则为剧集注入了另一种层次，两个性格迥异的女人，在莫斯科的寒冬里，被迫建立起一种基于相互利用却又微妙共情的联结。这种“战友”关系的变化，是整部剧最值得细品的看点。叙事节奏方面，剧集采用了精巧的多线铺陈，将冷战时期那种人人自危的氛围感营造得极其浓郁。每一集的结尾都像是一块多米诺骨牌，推倒之后，你永远猜不到下一张牌会引向哪种深渊。它探讨的不仅是情报工作，更是关于如何在谎言构筑的帝国中，坚守哪怕一丝一毫的真实。这种叙事上的高级感，让它在看完之后，依然能让你在午夜回想起那些在莫斯科街头闪烁的寒冷灯光。它不试图给你爽感，而是给你一种真实的、如坠冰窖般的沉浸体验，让你深刻体会到，在那段特殊的历史时期，生命确实轻如鸿毛，但意志却重若千钧。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部需要静下心来品味的剧，它没有那些快餐式谍战剧的浮躁，反而有着一种沉稳的古典气质。导演对于那个时代氛围的还原非常考究，从服装到场景，每一处细节都透着冷战时期的压抑感。艾米莉亚·克拉克证明了自己脱离商业大片后的演技张力，她将一个失去一切、在绝境中被迫觉醒的女性形象刻画得入木三分。剧集将个体命运与国家机器的齿轮精准地咬合在一起，通过对真相的步步逼近，揭开了冷战阴谋下的人性暗面。这不仅仅是关于间谍的故事，更是关于两个平凡女性如何在政治风暴中心存活下来的真实记录。如果你看腻了套路化的叙事，那么这部剧带来的冷冽与深度，值得你投入整晚的时间去细细咀嚼。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“在谎言编织的寒冬里，真相是她们唯一的防身武器。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "overview": "本片叙述少年阿拉丁的冒险故事。市井小民阿拉丁和猴子好友阿布原本过着快乐自在的生活，一场意外让他获的一张飞天魔毯以及一盏神灯。逗趣的神灯精灵把阿拉丁变成风度翩翩的王子。阿拉丁要赢得茉莉公主的芳心，可是王宫里邪恶的巫师贾方却掳走了神灯和公主。在猴子阿布及飞天魔毯的帮忙下，阿拉丁能够克服自己不是真正王子的心理障碍，勇敢面对挑战，把心爱的公主从贾方的魔掌中救出吗？而且，阿拉丁的第三个愿望也面临抉择：他是要继续假扮王子身份以追求公主，还是要信守诺言放精灵自由呢？本片中由罗宾·威廉姆斯配音的精灵是最抢眼的人物，在片中模仿许多美国的明星、政要，实在令人捧腹。片中利用电脑科技作出神奇洞穴一景，给人视觉上的震撼，是迪士尼电脑动画部门继《美女与野兽》的舞池后又一杰作。本片推出虽然大受欢迎，但却遭到回教组织的强烈抗议，因为在“天方夜谭”的歌词中把他们说成一群“不喜欢你就砍你耳朵”的民族，后来迪士尼在发行录影带时，硬是把这段歌词给换掉，把原声带和录影带这首歌的部分听来比较看看即可发现。",
+    "reviews": [
+      "If you enjoy reading my Spoiler-Free reviews, please follow my blog :) Aladdin is one of Disney‘s most adored classics, being the indisputable favorite of many, many fans. The Lion King will always have that spot in my heart, but I also",
+      "Certainly one of the better animations from the reinvigorated 1990's Disney Studio. It still has the schmaltzy, over sentimental treatment that seems to torment me every time I watch a Disney film, but the characterisations of the \"Genie\" (",
+      "It's a classic. Grew up watching Aladdin all the time. Great movie still."
+    ],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_812_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_812_p.jpg",
+    "update_date": "2026-03-31",
+    "backdrop_path": "images/movie_812_b.jpg",
+    "wx_title": "重温迪士尼巅峰之作：阿拉丁与那盏藏着无数奇迹的神灯",
+    "summary": "重温迪士尼经典动画《阿拉丁》，在飞天魔毯与神灯的奇幻冒险中，见证自我认同的成长。罗宾·威廉姆斯配音的精灵鲜活依旧，无论是找寻童年回忆还是享受视听盛宴，这部影史佳作都值得你再次沉浸体验。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_812_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">阿拉丁</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Aladdin</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">7.7</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">动画 / 家庭 / 冒险 / 奇幻 / 爱情</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">1992-11-25</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">罗恩·克莱蒙兹</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">斯科特·维内尔 / 罗宾·威廉姆斯 / 琳达·拉金 / 乔纳森·弗里曼</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">那</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">那盏尘封的神灯，或许是每个人童年里最渴望得到的“外挂”。在《阿拉丁》的世界里，故事的底色是关于“身份”与“真实”的博弈。一个是穿梭在集市、不得不靠偷窃维持生计的市井少年，一个是困在金丝笼里渴望自由的茉莉公主。当阿拉丁意外获得神灯，拥有了变身为王子的机会，他面临的不仅仅是魔法带来的华丽排场，更是那个最核心的困境：如果褪去王子这层伪装，他是否还值得被爱？动画并没有止步于一场简单的冒险，它用充满异域色彩的笔触，描绘了一个关于勇气与诚实的课题。对于成年观众而言，这不仅是视觉上的怀旧，更是对现实中我们不断为自己贴上标签的某种投射。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部作品最令人动容的，并非那些天马行空的魔法奇观，而是罗宾·威廉姆斯赋予“精灵”的灵魂。他不仅是一个会变魔术的蓝胖子，更像是一个拥有无数段子、能洞察世间冷暖的灵魂向导。他那种近乎疯狂的模仿秀，让原本单薄的配角瞬间有了温度与厚度。这种在欢笑中裹挟着孤独的特质，是那个时代迪士尼动画难以复制的灵光一现。叙事节奏方面，影片将一场典型的英雄成长路，精巧地拆解为三个愿望的抉择。每一步冒险，阿拉丁都在失去与获得之间摇摆。真正的力量不是来源于神灯的魔法，而是当他在面对巨大诱惑时，依然敢于承认自己“只是阿拉丁”的勇气。那种在华丽包装下依然闪烁的诚挚，让它在多年后重看，依然能击中人心最柔软的地方。它提醒我们，真正的自由不是成为谁，而是接纳那个平凡却真实的自己。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">如果你需要一场毫无负担的视听冒险，这部作品是最好的选择。它完美平衡了百老汇式的音乐剧编排与奇幻叙事，虽然是九十年代的旧作，但其动画的细腻程度与幽默感依然鲜活如初。它不是那种高深莫测的电影，却能让你在疲惫的下午，找回那种简单而纯粹的快乐。尤其是关于“诚实”的命题，在今天看来依然有着不过时的现实意义。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“比起成为万人敬仰的王子，做回你自己才拥有真正的魔法。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   },
   {
-    "id": 9302,
-    "title": "数码宝贝：驯兽师之王",
-    "original_title": "デジモンテイマーズ",
+    "id": 86031,
+    "title": "石纪元",
+    "original_title": "Dr.STONE",
     "type": "剧集",
-    "rating": 8.6,
-    "date": "2001-04-01",
+    "rating": 8.5,
+    "date": "2019-07-05",
     "genres": [
       "动画",
       "动作冒险",
+      "喜剧",
       "Sci-Fi & Fantasy"
     ],
     "director": [],
     "actors": [
-      "津村真琴",
-      "野泽雅子",
-      "折笠富美子",
-      "今井由香"
+      "小林裕介",
+      "古川慎",
+      "市之濑加那",
+      "沼仓爱美"
     ],
-    "overview": "松田启人是个稍微有点率真个性极普通得小学五年级男生，现在最喜欢东西就数码宝贝！ 对他来说与朋友玩数码宝贝卡片游戏及上课时偷偷地把自己创作数码暴龙画笔记簿上最大乐趣！热爱数码宝贝少年启人某日竟偶然得到了一张能把命运大大改变的以往从未有人见过的不可思议的蓝色卡片——蓝卡！ 就在把蓝卡放读卡机读进去瞬间启人眼前冒险之门已经打开了。与接着到访的命运拍档——基尔兽相遇，现在西新宿舞台上的新故事要揭开序幕了…… 松田启人、李建良、牧野留姬、秋山辽、加藤树莉、盐田博和、北川健太、李小春八个小朋友，来到数码宝贝世界，打败堕天地狱兽后回到人类世界，并合力打败帝厉魔，拯救了世界。后来数码宝贝们都回到了数码世界。结尾启人在基尔兽的洞中又看到了通往数码世界的大门，留下了悬念……",
+    "overview": "全人类被神奇的现象一瞬间石化后过了几千年——拥有超人般头脑、天生的科学少年·千空苏醒了。在文明遭到毁灭的石头世界（STONE WORLD）里，千空决定要用科学的力量复原整个世界。而与此同时苏醒过来的有，以有着过人体力的儿时玩伴·大木大树为首的伙伴们，从零开始创造文明——从石器时代到现代文明，一定要赶上这科学史的200万年差距！前所未闻的创世冒险谭，就此开幕！",
     "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_9302_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_9302_p.jpg",
-    "update_date": "2026-03-30",
-    "backdrop_path": "images/tv_9302_b.jpg",
-    "wx_title": "不止是童年回忆，这部深刻的《数码宝贝》为何是系列巅峰？",
-    "summary": "重温《数码宝贝：驯兽师之王》，这部暗黑风格的经典之作，以深刻的人性探讨与羁绊刻画，成为无数观众心中的剧情巅峰，是适合成年人重拾感动的深度佳作。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_9302_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">数码宝贝：驯兽师之王</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">デジモンテイマーズ</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.6</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">动画 / 动作冒险 / Sci-Fi & Fantasy</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2001-04-01</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">津村真琴 / 野泽雅子 / 折笠富美子 / 今井由香</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">启</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">启人只是个在西新宿平凡生活的五年级男生，画画、玩卡片、偶尔幻想。当那张蓝色的读卡器出现在他手中，原本安静的课桌变成了战场，他的生活被突如其来的冒险撕开了一道口子。这不是那种英雄打怪兽的简单剧本，而是一个关于少年如何面对恐惧、如何与名为“基尔兽”的异类建立羁绊的过程。在这里，数码兽不再是单纯的工具，它们会因为驯兽师的负面情绪而进化失控，会有属于自己的哲学思考。如果你怀着“看一部轻松动画”的心态点开它，可能会被随后展开的压抑叙事和成年人世界的残酷投影所震慑。它把镜头对准了孩子内心深处最柔软也最脆弱的部分，那些关于遗失、关于成长代价的探讨，让它在当年就显得如此与众不同。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部作品最迷人的地方，在于它从未把观众当“小孩子”糊弄。它敢于处理极其复杂的伦理困境，比如当心爱的伙伴面临毁灭时，驯兽师是否还能坚持最初的善良？它探讨了数码世界与现实世界的界限，那种都市霓虹下的不安与虚无感，在现在看来依然充满前瞻性。叙事上，它放弃了单纯的升级打怪路径，转而挖掘每个人物背后的创伤与孤独。有的角色背负着天才的沉重，有的则在家庭缺失中寻找自我，数码兽的进化往往伴随着驯兽师灵魂的震颤。那种“进化”不再是力量的体现，而是自我认知的重建。即便没有宏大的特效，它仅凭细腻的情感流动和充满哲学思辨的脚本，就足以在你的记忆中扎根。看完它你会发现，它不是在讲一个关于怪兽的故事，而是在讲每个少年必经的那场蜕变：我们终将面对名为现实的敌人，即便遍体鳞伤，也要守住内心那一抹最初的纯粹。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">《驯兽师之王》是动画史上一抹极其冷峻而温柔的异色。它打破了冒险动画的套路，将科幻、存在主义与少年成长完美勾连。在那座充满金属与电流的城市背景下，数码兽与人类的羁绊被升华为一种近乎悲剧的浪漫。如果你曾觉得童年动画内容单薄，请务必看看这一部，它不仅是回忆的载体，更是一部值得成年人细细品味的深沉史诗。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“进化不仅是力量的增长，更是灵魂对现实的一次次突围。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_86031_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_86031_p.jpg",
+    "update_date": "2026-03-31",
+    "backdrop_path": "images/tv_86031_b.jpg",
+    "wx_title": "如果在石器时代重启文明？这部让人热血沸腾的科学冒险神作，强推！",
+    "summary": "全人类石化后文明倒退，天才少年千空如何用科学之力重建世界？《石纪元》带你重走从石器时代到现代文明的进化之路，这是一场关于智慧、传承与生存的热血冒险，硬核科普与极致挑战不容错过。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_86031_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">石纪元</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Dr.STONE</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.5</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">动画 / 动作冒险 / 喜剧 / Sci-Fi & Fantasy</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2019-07-05</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">小林裕介 / 古川慎 / 市之濑加那 / 沼仓爱美</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">如果有一天，人类文明的齿轮突然停转，世界退回到了原始蛮荒的石器时代，你还能活下去吗？《石纪元》把这个残酷的生存命题，拍成了一场极具浪漫色彩的智力探险。当主人公千空从石化中苏醒，面对的是一片荒芜：没有电，没有抗生素，没有网络，甚至没有基本的生存工具。他不仅要解决温饱，还要凭一己之力从零开始重建科学文明。这个设定本身就极其抓人，它不是那种枯燥的科普番，而是一个拥有超强头脑的天才少年，带着一群原始伙伴，在一片废墟上“手搓”现代文明的各种不可能。这种原始与现代的错位感，是这部剧最致命的吸引力，当你看到他们用树皮做纸，用矿物提炼药物，那种从无到有的成就感，会让你在屏幕前忍不住屏住呼吸。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">《石纪元》最动人的地方，在于它对“科学精神”的本质挖掘。它没有把科学包装成冷冰冰的公式，而是将其视作人类最古老的浪漫——一种对未知的探索渴望。在荒蛮的石之世界里，科学不是为了炫技，而是为了拯救生命。看到主角利用最原始的材料制造出万能药，那种将绝望转化为希望的时刻，是对人类文明智慧最诚挚的礼赞。除了硬核的文明重建，它对人际关系的刻画也极为细腻，一群从石化中苏醒的原始人类，在面对文明断层的冲击时，表现出的挣扎、信任与协作，构成了这个故事深厚的情感底色。它不贩卖焦虑，而是通过千空那句口头禅“真是令人兴奋不已”，把科学探索过程中的挫败感消解掉，转而带给观众一种极为纯粹的昂扬感。这是一种罕见的，能让你在疲惫的日常中感受到力量的作品，它让你相信，只要有智慧与勇气，文明的火种永远不会熄灭。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这不仅仅是一部给年轻人看的科普番，它更像是给现代都市人的一份“文明避难所”。《石纪元》的叙事节奏极佳，它极其擅长把复杂的科学原理变成推动剧情的爽点。当你看着主角把一堆石块变成精密的机械，那份快感是不言而喻的。它最厉害的地方在于，始终保持着乐观的基调，即使在文明崩塌的极端环境下，依然强调科学作为人类共同遗产的伟大意义，让人看完后不仅想去翻翻初中的化学课本，更想去重新审视我们当下所拥有的这一切便捷。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“科学，就是人类文明在蛮荒中开出的最亮那朵花。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   }
 ]
