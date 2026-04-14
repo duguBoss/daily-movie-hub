@@ -1,69 +1,126 @@
 [
   {
-    "id": 10193,
-    "title": "玩具总动员3",
-    "original_title": "Toy Story 3",
+    "id": 1596291,
+    "title": "国际象棋女王",
+    "original_title": "Queen of Chess",
     "type": "电影",
-    "rating": 7.8,
-    "date": "2010-06-16",
+    "rating": 7.7,
+    "date": "2026-01-27",
     "genres": [
-      "动画",
-      "家庭",
-      "喜剧"
+      "纪录"
     ],
     "director": [
-      "李·昂克里奇"
+      "Rory Kennedy"
     ],
     "actors": [
-      "汤姆·汉克斯",
-      "蒂姆·艾伦",
-      "琼·库萨克",
-      "唐纳德·杰伊·里克尔斯"
+      "Judit Polgar",
+      "Garry Kasparov"
     ],
-    "overview": "安迪已经高中毕业了，即将成为大学生，而他的玩具，包括胡迪、巴斯光年都面临将要被放在阁楼上的命运。在他们被放到阁楼之前，却意外的被丢弃，并被一个清理垃圾的人所捡起。玩具们发现自己被带到了一个当地的日间托儿所，他们必须要在那儿想办法面对一群调皮且粗鲁的学龄前小孩。胡迪打算要带领他的朋友们逃离托儿所，并为自己和他们找到一个新的安身之处。但巴斯光年在一次尝试逃离的行动中受到了损伤，使得整件事情变得更复杂了……",
-    "reviews": [
-      "Great for the kids!",
-      "Just like any other Pixar movies, Toy Story 3 was great. The story flowed really well with the two Toy Story movies. And just like the two other movies, it was funny, has a lot of action and adventure, and it was really touching. I gue",
-      "When I first watched this nearly a decade ago in the cinema, I believe it was (and still is) the only movie I've ever watched in 3D that I've enjoyed. I was worried that it was that great theatrical experience I'd had that coloured my opini"
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_10193_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_10193_p.jpg",
-    "update_date": "2026-04-13",
-    "backdrop_path": "images/movie_10193_b.jpg",
-    "wx_title": "今日精选：玩具总动员3",
-    "summary": "安迪已经高中毕业了，即将成为大学生，而他的玩具，包括胡迪、巴斯光年都面临将要被放在阁楼上的命运。在他们被放到阁楼之前，却意外的被丢弃，并被一个清理垃圾的人所捡起。玩具们发现自己被带到了一个当地的日间托",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_10193_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">玩具总动员3</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Toy Story 3</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动画 / 家庭 / 喜剧<br>导演：李·昂克里奇<br>主演：汤姆·汉克斯 / 蒂姆·艾伦 / 琼·库萨克 / 唐纳德·杰伊·里克尔斯<br>日期：2010-06-16</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">安迪已经高中毕业了，即将成为大学生，而他的玩具，包括胡迪、巴斯光年都面临将要被放在阁楼上的命运。在他们被放到阁楼之前，却意外的被丢弃，并被一个清理垃圾的人所捡起。玩具们发现自己被带到了一个当地的日间托儿所，他们必须要在那儿想办法面对一群调皮且粗鲁的学龄前小孩。胡迪打算要带领他的朋友们逃离托儿所，并为自己和他们找到一个新的安身之处。但巴斯光年在一次尝试逃离的行动中受到了损伤，使得整件事情变得更复杂了……</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "overview": "聚焦国际象棋最伟大的女棋手、史上最知名的天才棋手之一“小波尔加”Judit Polgar。彼时国际象棋界由男性统治，女性被认为不如男人，不被允许加入男性参加的锦标赛，“不具备理解象棋的智力和能够擅长象棋的性格特征”。此时，一个12岁的匈牙利女学生横空出世……",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1596291_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1596291_p.jpg",
+    "update_date": "2026-04-14",
+    "backdrop_path": "images/movie_1596291_b.jpg",
+    "wx_title": "今日精选：国际象棋女王",
+    "summary": "聚焦国际象棋最伟大的女棋手、史上最知名的天才棋手之一“小波尔加”Judit Polgar。彼时国际象棋界由男性统治，女性被认为不如男人，不被允许加入男性参加的锦标赛，“不具备理解象棋的智力和能够擅长象",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1596291_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">国际象棋女王</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Queen of Chess</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：纪录<br>导演：Rory Kennedy<br>主演：Judit Polgar / Garry Kasparov<br>日期：2026-01-27</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">聚焦国际象棋最伟大的女棋手、史上最知名的天才棋手之一“小波尔加”Judit Polgar。彼时国际象棋界由男性统治，女性被认为不如男人，不被允许加入男性参加的锦标赛，“不具备理解象棋的智力和能够擅长象棋的性格特征”。此时，一个12岁的匈牙利女学生横空出世……</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   },
   {
-    "id": 124834,
-    "title": "Heartstopper",
-    "original_title": "Heartstopper",
-    "type": "剧集",
-    "rating": 8.6,
-    "date": "2022-04-22",
+    "id": 299537,
+    "title": "惊奇队长",
+    "original_title": "Captain Marvel",
+    "type": "电影",
+    "rating": 6.8,
+    "date": "2019-03-06",
     "genres": [
-      "剧情"
+      "动作",
+      "冒险",
+      "科幻"
     ],
     "director": [
-      "Andy Newbery"
+      "瑞安·弗雷克"
     ],
     "actors": [
-      "乔·洛克",
-      "基特·康纳",
-      "高鑫",
-      "雅斯敏·芬尼"
+      "布丽·拉尔森",
+      "塞缪尔·杰克逊",
+      "本·门德尔森",
+      "裘德·洛"
     ],
-    "overview": "男孩与男孩相遇、成为朋友并坠入爱河。性情温和的查理和热爱橄榄球的尼克在中学相遇，两人意外成为朋友，很快这场友谊发展成了一段意想不到的爱情。查理、尼克和朋友们踏上紧密相连的自我发现和接纳之旅，众人相互支持着寻找真正的自我。",
+    "overview": "在围剿斯克鲁人的战斗中，克里人星际战队成员弗斯（布丽·拉尔森 Brie Larson 饰）不幸成为对方的俘虏。斯克鲁人尝试探究弗斯的记忆，最终发现连弗斯本人都不知道的一段往事，进而也得知名为温迪·劳森博士的女子掌握着他们急于得到的时空引擎。趁对方不备，拥有强大超能力的弗斯摆脱束缚，逃到了代号为 C-53 的地球，而这里也正是她那段失落的记忆的发生地。未过多久，神盾局探员弗瑞特工（塞缪尔·杰克逊 Samuel L. Jackson 饰）找上门来，而紧随其后的斯克鲁人更是引发了地球人前所未见的大骚动。在这一过程中，弗瑞特工意识到事态的严重性，并且帮助弗斯认清本来的自己。倔强的弗斯，终于找到了真正需要保护的东西……",
     "reviews": [
-      "When i saw the people on social media talking about Heartstopper the first though that came to my mind was ooh another gay teen show *rolling eyes*, but i could never have imagined the story that i was going to find. Since the beginning of",
-      "> Almost every character has my characteristics, and so when we add up the whole series, **it's exactly me.** That's something **I love.** The moment I realised that the series is very similar to me, this series **became a safe place** for"
+      "I would not pay to see it. I did see it for free already...so at least, I was not cheated of my money [\"I laughed, I cried, I kissed $10 good-bye!\"--most other movies]. I saw sneak preview a few months back and it was the full-length featur",
+      "Went in not paying attention to any of the drama surrounding the movie. The movie was just like the trailers, boring. Terrible fight choreography and all in acting by Brie. Cinematography was so bad, way too many cuts. Samuel L Jackson and",
+      "If you enjoy reading my Spoiler-Free reviews, please follow my blog :) As a fair and impartial film critic, I need to state this: I don't care about the controversy surrounding Brie Larson or the agendas this movie is trying to push or n"
     ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_124834_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_124834_p.jpg",
-    "update_date": "2026-04-13",
-    "backdrop_path": "images/tv_124834_b.jpg",
-    "wx_title": "少年心事如此明亮：这部治愈系剧集，拍出了暗恋最美好的样子",
-    "summary": "如果你曾经历过那段青涩的青春，或者正渴望一份纯粹的温暖，那么《心跳漏一拍》绝对值得一看。它不像刻板的青春剧，而是用细腻的情感捕捉，精准还原了暗恋时那种心脏骤停的瞬间，是一场关于自我接纳的温柔告白。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_124834_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">Heartstopper</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Heartstopper</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.6</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">剧情</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2022-04-22</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">Andy Newbery</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">乔·洛克 / 基特·康纳 / 高鑫 / 雅斯敏·芬尼</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当查理在走廊里远远望见尼克，那种空气凝固般的紧张感，或许是每个暗恋过的人都无比熟悉的瞬间。查理是一个心思细腻、总带着温和笑意的男孩，而尼克则是球场上阳光帅气的橄榄球选手。这两个原本轨迹迥异的人，在一次偶然的排位中产生交集。这并非那种大开大合的戏剧化冲突，更像是一场关于自我认知与成长的静谧叙事。它没有试图去解释什么是爱，而是通过每一次目光的停留、每一次试探性的靠近，去还原那些藏在琐碎日常里的悸动。对于观众而言，这部剧最大的门槛或许就是“沉浸感”——你需要放下对青春剧的刻板印象，去感受那种不加修饰的真实。看着他们在探索自我边界的过程中，小心翼翼地向对方靠近，你会发现，那种为了一个人而想要变得更好的心情，有着跨越标签的动人力量。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">《心跳漏一拍》最迷人的地方，在于它对“脆弱感”的极度尊重。剧中的少年们，都在尝试弄明白“我是谁”以及“我在这个世界上的位置”。这种困惑不是苦大仇深的，而是伴随着日常琐事的阵阵涟漪。比如查理在橄榄球课上的笨拙，尼克在面对内心冲突时的眼神闪躲，这些细节都被导演用一种温柔的镜头语言捕捉了下来。它不去刻意放大痛苦，而是强调了支持与接纳的重要性。当两人在友情与爱情的边缘不断试探，那些画外音般的动画特效，将那种无法言说的雀跃视觉化了。这种叙事技巧，让整部剧呈现出一种如漫画般轻盈、却又如日记般私密的质感。它没有试图给所有问题提供标准答案，反而告诉我们：迷茫、迟疑、甚至那些不敢说出口的心事，都是成长中不可或缺的注脚。直到你看完，那种被温暖包裹的后劲依然会在心头盘旋，让你重新审视起自己记忆中那些关于“第一次心动”的画面。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">如果你还没看，请把它当作睡前最柔软的枕头。这部剧的可贵之处在于，它没有将角色困在某种特定的标签里，而是将目光投向了最朴素的成长议题——爱人之前，先学会拥抱那个真实的自己。它拍出了那种“只要你出现在我视线里，整个世界都明亮了”的微妙氛围，节奏轻快，情感真挚。不需要什么惊心动魄的转折，仅仅是那种在午后阳光下逐渐靠近的勇气，就足以让人在屏幕前露出会心的微笑。这不仅仅是一部关于少年的爱情故事，更是一封写给所有在成长中感到孤独之人的情书。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“爱是最好的防线，让我们在成长的风雨里拥有彼此。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_299537_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_299537_p.jpg",
+    "update_date": "2026-04-14",
+    "backdrop_path": "images/movie_299537_b.jpg",
+    "wx_title": "今日精选：惊奇队长",
+    "summary": "在围剿斯克鲁人的战斗中，克里人星际战队成员弗斯（布丽·拉尔森 Brie Larson 饰）不幸成为对方的俘虏。斯克鲁人尝试探究弗斯的记忆，最终发现连弗斯本人都不知道的一段往事，进而也得知名为温迪·劳森",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_299537_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">惊奇队长</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Captain Marvel</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动作 / 冒险 / 科幻<br>导演：瑞安·弗雷克<br>主演：布丽·拉尔森 / 塞缪尔·杰克逊 / 本·门德尔森 / 裘德·洛<br>日期：2019-03-06</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">在围剿斯克鲁人的战斗中，克里人星际战队成员弗斯（布丽·拉尔森 Brie Larson 饰）不幸成为对方的俘虏。斯克鲁人尝试探究弗斯的记忆，最终发现连弗斯本人都不知道的一段往事，进而也得知名为温迪·劳森博士的女子掌握着他们急于得到的时空引擎。趁对方不备，拥有强大超能力的弗斯摆脱束缚，逃到了代号为 C-53 的地球，而这里也正是她那段失落的记忆的发生地。未过多久，神盾局探员弗瑞特工（塞缪尔·杰克逊 Samuel L. Jackson 饰）找上门来，而紧随其后的斯克鲁人更是引发了地球人前所未见的大骚动。在这一过程中，弗瑞特工意识到事态的严重性，并且帮助弗斯认清本来的自己。倔强的弗斯，终于找到了真正需要保护的东西……</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 270600,
+    "title": "地狱来的芳邻",
+    "original_title": "The 'Burbs",
+    "type": "剧集",
+    "rating": 5.0,
+    "date": "2026-02-08",
+    "genres": [
+      "喜剧",
+      "悬疑"
+    ],
+    "director": [],
+    "actors": [
+      "琪琪·帕玛",
+      "杰克·怀特豪尔",
+      "Julia Duffy",
+      "保拉·佩尔"
+    ],
+    "overview": "改编自 1989 年同名恐怖喜剧电影，故事发生在现代郊区。",
+    "reviews": [
+      "The Message is loud and clear in this one, I watched a bit of it and was extremely disappointed. Absolutely zero chemistry with any of the actors, and I didn't buy the main couple as authentic whatsoever. Atrocious acting, jokes that do",
+      "DOnt know who has time to watch all the episodes and rate them 1/10 but this isfine. A good enough watch, interesting so far. Most shows can be a little corney setting up the characters and casting but hot damn, people love complaining abou"
+    ],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_270600_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_270600_p.jpg",
+    "update_date": "2026-04-14",
+    "backdrop_path": "images/tv_270600_b.jpg",
+    "wx_title": "今日精选：地狱来的芳邻",
+    "summary": "改编自 1989 年同名恐怖喜剧电影，故事发生在现代郊区。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_270600_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">地狱来的芳邻</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">The 'Burbs</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：喜剧 / 悬疑<br>导演：暂无<br>主演：琪琪·帕玛 / 杰克·怀特豪尔 / Julia Duffy / 保拉·佩尔<br>日期：2026-02-08</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">改编自 1989 年同名恐怖喜剧电影，故事发生在现代郊区。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 72637,
+    "title": "逐梦绿茵场",
+    "original_title": "O11CE",
+    "type": "剧集",
+    "rating": 8.6,
+    "date": "2017-06-19",
+    "genres": [
+      "喜剧",
+      "家庭",
+      "肥皂剧"
+    ],
+    "director": [
+      "Sebastián Pivotto"
+    ],
+    "actors": [
+      "Mariano González",
+      "Juan David Penagos",
+      "Sebastián Athié",
+      "Luan Brum"
+    ],
+    "overview": "剧集讲述了热爱足球，与祖母住在干白杨小镇的少年加博·莫雷蒂（马里亚诺·冈萨雷斯饰）的故事。著名的体育学院（IAD）的主教练弗朗西斯科（尼古拉斯·保罗斯饰）注意到了他出色的球技，并决定给他颁发奖学金。加博开始了前往布宜诺斯艾利斯，住进IAD宿舍的冒险之旅。他的梦想是成为一名伟大的足球运动员，但他不知道的是，在这期间，命运将会让他发现自己的家庭秘密。",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_72637_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_72637_p.jpg",
+    "update_date": "2026-04-14",
+    "backdrop_path": "images/tv_72637_b.jpg",
+    "wx_title": "今日精选：逐梦绿茵场",
+    "summary": "剧集讲述了热爱足球，与祖母住在干白杨小镇的少年加博·莫雷蒂（马里亚诺·冈萨雷斯饰）的故事。著名的体育学院（IAD）的主教练弗朗西斯科（尼古拉斯·保罗斯饰）注意到了他出色的球技，并决定给他颁发奖学金。加",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_72637_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">逐梦绿茵场</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">O11CE</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：喜剧 / 家庭 / 肥皂剧<br>导演：Sebastián Pivotto<br>主演：Mariano González / Juan David Penagos / Sebastián Athié / Luan Brum<br>日期：2017-06-19</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">剧集讲述了热爱足球，与祖母住在干白杨小镇的少年加博·莫雷蒂（马里亚诺·冈萨雷斯饰）的故事。著名的体育学院（IAD）的主教练弗朗西斯科（尼古拉斯·保罗斯饰）注意到了他出色的球技，并决定给他颁发奖学金。加博开始了前往布宜诺斯艾利斯，住进IAD宿舍的冒险之旅。他的梦想是成为一名伟大的足球运动员，但他不知道的是，在这期间，命运将会让他发现自己的家庭秘密。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   }
 ]
