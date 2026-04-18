@@ -1,130 +1,128 @@
 [
   {
-    "id": 1316092,
-    "title": "呼啸山庄",
-    "original_title": "\"Wuthering Heights\"",
+    "id": 1620551,
+    "title": "心之高歌",
+    "original_title": "Non abbiam bisogno di parole",
     "type": "电影",
     "rating": 6.5,
-    "date": "2026-02-11",
+    "date": "2026-04-03",
     "genres": [
-      "爱情",
-      "剧情"
+      "音乐",
+      "剧情",
+      "喜剧"
     ],
     "director": [
-      "Emerald Fennell"
+      "Luca Ribuoli"
     ],
     "actors": [
-      "玛格特·罗比",
-      "雅各布·艾洛蒂",
-      "周洪",
-      "艾莉森·奥利弗"
+      "莎拉·托斯卡诺",
+      "Serena Rossi",
+      "Carola Insolera",
+      "Emilio Insolera"
     ],
-    "overview": "故事以十八世纪英格兰北部的约克郡荒原为背景，围绕恩萧家族和林顿家族之间紧张而又具有破坏性的关系，讲述恩萧先生收养的孤儿希斯克利夫和恩萧先生的女儿凯瑟琳之间充满激情和悲剧的爱情故事。",
-    "reviews": [
-      "Rating: C- Walking into Emerald Fennell's latest venture, I carried a cautious optimism, hoping for a reimagining that justified its existence beyond mere aesthetics. In many ways, WUTHERING HEIGHTS is a triumph of technical artistry; th",
-      "Poking fun at the supposedly sacred can sometimes be a source of perverse glee, particularly when targeted against works of art and literature that many might consider off limits and untouchable. Undertakings like that, however, were made f",
-      "Over the top, ridiculously dramatic, and a total blast. I loved this movie and have seen it twice now."
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1316092_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1316092_p.jpg",
-    "update_date": "2026-04-17",
-    "backdrop_path": "images/movie_1316092_b.jpg",
-    "wx_title": "当艾默拉德·芬内尔重构《呼啸山庄》，一场关于爱与毁灭的荒原美学",
-    "summary": "艾默拉德·芬内尔执导，玛格特·罗比与雅各布·艾洛蒂主演。电影《呼啸山庄》以独特视觉重构经典，深刻探讨执念与宿命，为古典文学改编注入极致情感张力，值得品味。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1316092_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">呼啸山庄</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">\"Wuthering Heights\"</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">6.5</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">爱情 / 剧情</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-02-11</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">Emerald Fennell</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">玛格特·罗比 / 雅各布·艾洛蒂 / 周洪 / 艾莉森·奥利弗</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">荒</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">原上的风从未停过，它们仿佛带着十八世纪英格兰泥土的腥气，吹进每一个试图靠近恩萧家族的人心里。当艾默拉德·芬内尔接过这个被改编过无数次的经典故事，她显然不想拍一部安分守己的古装戏。玛格特·罗比饰演的凯瑟琳与雅各布·艾洛蒂饰演的希斯克利夫，他们的出场不再是柔情的低语，而是一种近乎毁灭的角力。这是一个关于孤儿、领地与社会隔阂的故事，但内核却是两个灵魂在贫瘠荒原上进行的绝望博弈。如果你曾被名著里的宿命论所困，或者单纯想看看当下的先锋审美如何解构古典文学的内核，这部作品提供了一个极具侵略性的视角。它不求讨好所有读者，只求让你在那种狂野与压抑交织的氛围中，窥见人性最扭曲却又最真实的渴求。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部电影最迷人的地方，在于它拒绝将“爱情”处理成温吞的浪漫。芬内尔显然对原著中那份令人战栗的占有欲情有独钟，她通过极其考究的视听语言，将荒原变成了一个巨大的情绪载体。镜头下，光影的每一次游走都精准捕捉着角色内心的动荡：是凯瑟琳在优雅礼服下的窒息，也是希斯克利夫在权欲与情欲间的挣扎。这种美学表达让整部电影呈现出一种“病态”的优雅感，你会被那场看似戏剧化过头的冲突所裹挟，仿佛自己也置身于那片被诅咒的土地。演员的表现也充满爆发力，雅各布·艾洛蒂那双沉郁的眼睛，精准地传达了什么是“爱是毁掉自己后再去重塑世界”的执念。它不讲大道理，只讲那股从骨子里透出来的疯劲。那些在道德边缘徘徊的试探、家族间细微的权力倾轧，都被拆解得淋漓尽致。当故事进入中段，观众会发现，所谓的爱情不过是阶级与自尊的遮羞布，而真正的悲剧早就在那场决定性的告别中埋下伏笔。这并非是那种让你看完感到舒适的作品，它是一记沉闷的重锤，余味中带着荒原特有的寒意，久久不散。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一次极具野心的重构。芬内尔并没有被文学原著的厚重压垮，反而利用这种沉重感搭建了一座属于她个人的审美迷宫。虽然部分观众可能会被这种高浓度的戏剧冲突冲击到，但不可否认，这种张力正是当今影视作品中难得的“活物”。它不仅是视觉上的饕餮，更是一场关于爱与执念的冷思考。不管你是否熟悉原著，那种如潮水般涌来的情绪后劲，都足以让你在电影结束后盯着黑屏发呆许久。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“爱是荒原上的一场风，吹过时，我们都成了废墟。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "overview": "作为聋人家庭唯一能听见声音的成员，含羞的少女发现自己拥有唱歌天赋，她不得不在履行责任和寻找自己的道路之间做出抉择。",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1620551_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1620551_p.jpg",
+    "update_date": "2026-04-18",
+    "backdrop_path": "images/movie_1620551_b.jpg",
+    "wx_title": "在无声的世界里放声歌唱，这部细腻的成长之作触动人心",
+    "summary": "音乐剧情片《心之高歌》讲述了一位聋人家庭中唯一的“听人”少女，如何在家庭羁绊与个人歌唱梦想间寻找自我的故事。影片以细腻的情感捕捉，探讨了亲情、沟通与天赋的抉择，是一部充满共鸣与后劲的成长佳作。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1620551_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">心之高歌</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Non abbiam bisogno di parole</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">6.5</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">音乐 / 剧情 / 喜剧</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-04-03</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">Luca Ribuoli</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">莎拉·托斯卡诺 / Serena Rossi / Carola Insolera / Emilio Insolera</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">歌</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">在这个世界上，有些声音是听不见的，但有些情感却能穿越寂静直抵人心。电影《心之高歌》将镜头对准了一个特殊的家庭：父母与兄弟姐妹皆为聋人，唯独少女一人拥有听力。这种身份上的“唯一性”，让她从小就成为了家庭与外界沟通的桥梁。当一个性格含羞的女孩，发现自己体内潜藏着一颗想要高歌的灵魂时，故事的矛盾便在平静的日常下暗流涌动。这不是那种充满激昂对抗的励志片，它更像是一场缓慢的自我发现之旅。女孩在清晨为家人翻译手语，在深夜独自哼唱旋律，这种割裂的生活状态让影片呈现出一种极具张力的氛围感。为什么值得看？因为导演没有把重心放在“苦难叙事”上，而是将笔触落在了那个名为“成长的困境”的细微缝隙里：当你的天赋需要你离开家门去拥抱世界，而你的家人却紧紧依附着你的存在时，那份两难的重量，是每个人在走向独立时都曾体味过的酸涩。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">影片真正的高明之处在于对“声音”的处理。它不仅仅是关于歌唱，更是关于如何在沉默中理解他人。对于主角而言，音乐不仅是梦想的载体，更是一种无法对手语表达的、复杂情感的出口。当她站在舞台上，台下的家人虽听不到旋律，却能通过她肢体的震动和眼里的光，感受到那股喷薄而出的生命力。这种跨越听觉屏障的共鸣，让许多桥段变得格外动人。镜头语言非常克制，没有刻意煽情的配乐，很多时候正是这种对无声空间的留白，反而让音符落下时更显沉重与深情。影片并没有简单地让女孩在家庭与自我之间做一个非黑即白的切割，而是细致地展示了那种“不得不放手”的哀伤，以及“必须长出翅膀”的必然。演员们的表演非常扎实，尤其是对手语的运用，让整部片子充满了真实的生活气息。那种在无声与有声之间摇摆的孤独感，被刻画得淋漓尽致，以至于当影片落幕时，你依然会被那种试图打破禁锢的渴望所包围。它提醒着我们，无论生活在怎样的环境里，每个人心中都有一首未曾唱出的歌，而寻找出口的勇气，本身就是人生最动人的乐章。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部在安静处积攒能量的电影。它不试图用高亢的旋律去轰炸观众的耳朵，而是用那种清澈、坚定的成长叙事，缓缓撬开你心底关于“责任”与“自我”的防御。虽然题材上略显温和，但其核心的细腻度足以让人在看完后久久回味。它不卖惨，不强求戏剧冲突，只是静静地拍出了一个人如何从家庭的附属品，变成一个独立发光的个体。如果你近来感到迷茫，或者正处于某种身份带来的困境中，这部电影或许能给你一份温柔却有力的启示。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“爱是沟通的桥梁，也是奔向自我的起点。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   },
   {
-    "id": 1033148,
-    "title": "去死吧，我的爱",
-    "original_title": "Die My Love",
+    "id": 1007734,
+    "title": "小人物2",
+    "original_title": "Nobody 2",
     "type": "电影",
-    "rating": 6.2,
-    "date": "2025-10-06",
+    "rating": 6.9,
+    "date": "2025-08-13",
     "genres": [
+      "动作",
+      "惊悚"
+    ],
+    "director": [
+      "Timo Tjahjanto"
+    ],
+    "actors": [
+      "鲍勃·奥登科克",
+      "康妮·尼尔森",
+      "约翰·奥提兹",
+      "科林·汉克斯"
+    ],
+    "overview": "昔日“小人物”哈奇携妻小赴偏远小镇度假，却被恶警与黑帮围剿。枪火惊梦，全家被迫联手反击。在枪火与尖叫交织的旋转木马上，哈奇终于明白：真正的“退休”不是金盆洗手，而是让家人活下来的那一刻。",
+    "reviews": [
+      "FULL SPOILER-FREE REVIEW @ https://movieswetextedabout.com/nobody-2-movie-review-bob-odenkirk-returns-in-an-action-sequel-that-knows-its-audience/ \"Nobody 2 isn't going to redefine the genre or make anyone's top-ten lists of the year, bu",
+      "I must admit, I’d completely forgotten “Nobody” (2021) when I sat down to watch this, but once it picks up an head of steam it’s actually quite a good fun, entirely senseless, stream of violence that does raise a smile. Still beholden to “T",
+      "If I'm recalling George Orwell's 1984 correctly, one passage in the book talked about the blandness and general awfulness of the food offered by the authoritarian state. Cabbage that stank and coffee that wasn't real coffee. I have to s"
+    ],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1007734_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1007734_p.jpg",
+    "update_date": "2026-04-18",
+    "backdrop_path": "images/movie_1007734_b.jpg",
+    "wx_title": "鲍勃·奥登科克回归：在这场荒诞与暴力的博弈中，小人物如何守住底线？",
+    "summary": "动作片《小人物2》回归，鲍勃·奥登科克再次饰演哈奇。当平静的家庭生活被恶势力打破，曾经隐退的“清道夫”被迫再次握枪。影片以硬核的动作场面与紧凑的节奏，展现了小人物在极端困境下的生存哲学。如果你喜欢纯粹",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1007734_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">小人物2</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Nobody 2</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">6.9</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">动作 / 惊悚</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2025-08-13</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">Timo Tjahjanto</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">鲍勃·奥登科克 / 康妮·尼尔森 / 约翰·奥提兹 / 科林·汉克斯</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">哈</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">奇·曼塞尔大概是影史上最让人心疼的“退休特工”。在第一部里，他不过是想做个普通的居家好男人，却因为一次深夜的入室抢劫，被迫撕开了沉寂已久的生活裂缝。来到《小人物2》，他原本以为偏远小镇的度假能换来片刻安宁，然而现实从不给人喘息的机会。当恶警与黑帮像阴影般缠上他和家人，那种熟悉的紧迫感再次袭来。这不再是关于救赎或荣誉的故事，而是关于“生存”的原始本能。对于没看过前作的观众来说，这是一次低门槛的暴力美学体验；对于老粉而言，看到奥登科克那种平实中透着狠劲的表演，本身就是一种回归的仪式感。影片没有纠缠于复杂的权谋，而是将视角牢牢锁定在一个人如何为了守护底线，在崩坏的秩序中强行撕开一条活路。这种在琐碎日常与极度对抗之间的反复横跳，构成了本片最扎实的钩子。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">《小人物2》最迷人的地方，在于它对“暴力”的处理方式。它不追求花哨的特技，而是赋予了每一次碰撞、每一声枪响极强的物理质感。导演Timo Tjahjanto精准地捕捉到了主角那种“被迫营业”的无奈，那种为了让家人活下去，不得不重新化身为野兽的挣扎，在奥登科克的眼神里被表现得淋漓尽致。这种后劲不是源于宏大叙事的压迫感，而是一种极为真实的代入感：当你把一个人的安稳生活夺走，他会迸发出怎样惊人的反击力？影片通过层层递进的动作戏，把这种情绪推向极致，让观众在肾上腺素飙升的同时，也能感受到一种深层的孤独——即便赢了整场战斗，那种回不去平凡生活的悲凉，始终像幽灵一样如影随形。叙事上，本片没有浪费一秒钟去铺陈煽情的桥段，所有的角色动机都简单直接，这种纯粹的叙事风格反而让动作设计成为了主角的另一层叙事语言，每一次出招都带着哈奇此时此地的愤怒与不安。这种对平衡感的把控，让影片在动作片类型中显得格外清醒。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">《小人物2》是一部非常克制的动作片，它深知自己的受众是谁，因此在每一个爽点上都落得很准。它没有试图用哲学思辨去包装暴力，而是用极其利落的节奏，完成了对前作逻辑的延续。鲍勃·奥登科克再次证明了，有时候动作戏的灵魂不在于招式有多华丽，而在于主角那副“被逼到墙角”的倔强神情。如果你在寻找一部不需要动太多脑子，但依然能让你在午后提神醒脑的作品，那么这部片子就是你的首选。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“真正的退休，是拼尽全力让家人活下来的那一刻。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 273160,
+    "title": "美丽毒素",
+    "original_title": "The Beauty",
+    "type": "剧集",
+    "rating": 6.4,
+    "date": "2026-01-21",
+    "genres": [
+      "剧情",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [],
+    "actors": [
+      "埃文·彼得斯",
+      "安东尼·拉莫斯",
+      "杰瑞米·波普",
+      "阿什顿·库彻"
+    ],
+    "overview": "国际超模接连以骇人听闻的诡异方式惨死，两名FBI探员奉命前往巴黎、威尼斯、罗马和纽约，誓言揭开离奇死亡背后的真相，却意外发现一桩威胁到全人类未来的阴谋。",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_273160_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_273160_p.jpg",
+    "update_date": "2026-04-18",
+    "backdrop_path": "images/tv_273160_b.jpg",
+    "wx_title": "今日精选：美丽毒素",
+    "summary": "国际超模接连以骇人听闻的诡异方式惨死，两名FBI探员奉命前往巴黎、威尼斯、罗马和纽约，誓言揭开离奇死亡背后的真相，却意外发现一桩威胁到全人类未来的阴谋。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_273160_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">美丽毒素</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">The Beauty</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：剧情 / Sci-Fi & Fantasy<br>导演：暂无<br>主演：埃文·彼得斯 / 安东尼·拉莫斯 / 杰瑞米·波普 / 阿什顿·库彻<br>日期：2026-01-21</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">国际超模接连以骇人听闻的诡异方式惨死，两名FBI探员奉命前往巴黎、威尼斯、罗马和纽约，誓言揭开离奇死亡背后的真相，却意外发现一桩威胁到全人类未来的阴谋。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 200709,
+    "title": "弱美男英雄",
+    "original_title": "약한영웅",
+    "type": "剧集",
+    "rating": 8.7,
+    "date": "2022-11-18",
+    "genres": [
+      "动作冒险",
       "剧情"
     ],
     "director": [
-      "琳恩·拉姆塞"
+      "Park Dan-hee"
     ],
     "actors": [
-      "詹妮弗·劳伦斯",
-      "罗伯特·帕丁森",
-      "茜茜·斯派塞克",
-      "拉基思·斯坦菲尔德"
+      "朴志训",
+      "崔显旭",
+      "红炅",
+      "厉云"
     ],
-    "overview": "葛蕾丝（珍妮弗劳伦斯 饰）和杰克森（罗伯派汀森 饰）的第一个孩子诞生后，搬回了杰克森的老家蒙大拿州生活，葛蕾丝在这个陌生的环境，面对帮不上忙的丈夫和吵闹的婴儿与狗，她在努力保持理智的同时愈加执着于对爱的追求......。",
+    "overview": "在意想不到的朋友的帮助下，一名富有天赋却内向的学生对抗霸凌者和暴力的敌人，却不知他的世界将会变得多么危险。",
     "reviews": [
-      "“Grace” (Jennifer Lawrence) and boyfriend “Jackson” (Robert Pattinson) arrive at the remote Montana home that used to belong to his uncle. She’s not exactly enamoured of the place but they are so loved up that it is quickly a case of gettin",
-      "die my love is intense, messy, and strangely beautiful. the film dives deep into its character’s unraveling without ever feeling fake, and the performances really carry the chaos. it’s not always easy to watch, but it sticks with you in a g",
-      "Postpartum depression is a subject that, arguably, doesn’t receive enough attention, especially outside of a clinical context. That’s why it’s somewhat surprising to see it addressed in an entertainment vehicle. It’s unfortunate, however, t"
+      "An entire TV show about school bullying. Performances are ok, but there is very little to recommend here as it's been done a thousand times before.",
+      "What a masterpiece. Weak Hero is a rare 10/10 where not a single second is wasted. Unlike cringe high school romances, this is a raw, brutal look at the cycle of violence, friendship, and the sting of betrayal. Park Ji-hoon’s performance is"
     ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1033148_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1033148_p.jpg",
-    "update_date": "2026-04-17",
-    "backdrop_path": "images/movie_1033148_b.jpg",
-    "wx_title": "詹妮弗·劳伦斯与罗伯特·帕丁森联手，在极致的家庭困境中探寻爱的边缘",
-    "summary": "琳恩·拉姆塞执导，詹妮弗·劳伦斯与罗伯特·帕丁森联袂主演。影片深度剖析产后情绪与婚姻困境，展现女性在崩溃边缘守护自我的挣扎，是一部值得在生活压力中细细品味的现实主义佳作。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1033148_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">去死吧，我的爱</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Die My Love</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">6.2</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">剧情</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2025-10-06</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">琳恩·拉姆塞</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">詹妮弗·劳伦斯 / 罗伯特·帕丁森</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">爱</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当葛蕾丝抱着孩子，搬进蒙大拿州那栋空旷、冷清的祖屋时，她以为自己正在奔向一种名为“安定”的未来。然而现实却像是一场缓慢的窒息。琳恩·拉姆塞导演以她极具标志性的视觉语言，将一个女性从产后焦虑到彻底心碎的过程，撕开了一道口子。詹妮弗·劳伦斯饰演的葛蕾丝，不再是那个所向披靡的英雄，她只是个在琐事中消磨殆尽的母亲，面对着无法共情的丈夫，以及永无止境的婴儿啼哭与荒野寒风。这不仅仅是一个家庭琐碎的故事，它是一场关于“自我”如何被婚姻与母职蚕食的心理惊悚。如果你也曾感到过那种被生活困住、即便是在最亲密的人身边也感到无比孤独的时刻，那么走进这个故事，你会发现里面藏着一面真实得让人心惊的镜子。这里没有廉价的温情，只有对爱与绝望之间那条模糊边界的冷静注视。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部电影最迷人的地方，在于它拒绝提供任何廉价的安慰剂。它没有试图去美化母职，也没有把婚姻简化为单纯的对错之争。导演琳恩·拉姆塞捕捉的是情绪的潮汐，是那种在深夜里，看着枕边人安稳睡去时，内心却在疯狂尖叫的错位感。詹妮弗·劳伦斯的表演极具爆发力，她那种紧绷的神经质，与罗伯特·帕丁森饰演的丈夫那种钝感的、甚至是无意识的疏离，形成了一种微妙而残酷的张力。影片在叙事上非常克制，它不需要大开大合的冲突，仅仅是日常生活的缝隙，就足以让人感到如坠冰窖。这种真实的窒息感并非为了单纯的虐心，而是为了让你真切地感受到：在所谓的“爱”的包装下，个体灵魂是如何在日复一日的琐碎中被磨损。影片后劲在于它对产后心理状态的精准剖析，这种往往被主流叙事掩盖的真实，被镜头剥离得血淋淋。它不仅在讲一个女人的崩溃，更是在拷问我们如何在高压的现代生活中，去维护那一丁点儿属于自己的尊严与爱。这不是一部让你看完后感到轻松的片子，但它的每一帧画面，都像是在你心底扎下的一根刺，提醒着你在爱与自我之间，那道难以逾越的鸿沟。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这部电影是一次勇敢的冒险。琳恩·拉姆塞用一种近乎偏执的艺术美感，强行拽着观众进入一个女性最隐秘、最脆弱的内心世界。詹妮弗·劳伦斯卸下了所有的明星光环，将那种被生活剥皮抽筋后的疲惫演到了骨子里。它当然不是那种让你愉悦的爆米花电影，甚至在某种程度上，它是令人不安的。但电影的本质难道不就是为了呈现真相吗？那些被婚姻生活掩盖的裂痕，那些在婴儿啼哭声中被牺牲掉的自我，在光影下被无限放大，最终汇成了一场关于爱与自我解构的壮阔悲剧。如果你近期有勇气审视生活，这会是一次深刻的凝视。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“在爱与被困之间，我们都在寻找那个能够安放破碎自我的出口。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 279471,
-    "title": "马尔科姆的一家：生活依旧不公",
-    "original_title": "Malcolm in the Middle: Life's Still Unfair",
-    "type": "剧集",
-    "rating": 8.1,
-    "date": "2026-04-10",
-    "genres": [
-      "喜剧",
-      "剧情"
-    ],
-    "director": [],
-    "actors": [
-      "弗朗基·穆尼兹",
-      "简·卡兹玛瑞克",
-      "布莱恩·克兰斯顿",
-      "Justin Berfield"
-    ],
-    "overview": "在与家人疏远十余年后，马尔科姆（弗朗基·穆尼兹 饰）被父亲哈尔（布莱恩·克兰斯顿 饰）和母亲露易丝（简·卡兹玛拉克 饰）叫回家里，出席他们的结婚40周年纪念派对。",
-    "reviews": [
-      "If you just want to see characters from the show one last time, you'll have a decent enough time. But if you were looking a story that really showcases family dysfunction in the way the show did, you'll be disappointed. I'm willing to bet a"
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_279471_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_279471_p.jpg",
-    "update_date": "2026-04-17",
-    "backdrop_path": "images/tv_279471_b.jpg",
-    "wx_title": "那个搞怪的马尔科姆一家回来了：40年婚姻，依然兵荒马乱",
-    "summary": "经典喜剧《马尔科姆的一家：生活依旧不公》温情回归。主角重返混乱原生家庭，在笑泪交织中探讨成年后的复杂心境，这部满载情怀的续作，定能触动每一位曾被该剧治愈的观众。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_279471_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">马尔科姆的一家：生活依旧不公</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Malcolm in the Middle: Life's Still Unfair</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.1</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">喜剧 / 剧情</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-04-10</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">弗朗基·穆尼兹 / 简·卡兹玛瑞克 / 布莱恩·克兰斯顿 / Justin Berfield</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">久</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">隔了整整十几年，那个曾经把生活过得鸡飞狗跳、把“不公”当成日常调侃的家庭，终于在父母四十周年结婚纪念日这天重新聚齐了。当你看到马尔科姆推开那扇熟悉的门，看到哈尔那一如既往有些神经质的笑容，以及露易丝那还没开口就让你感到压迫的眼神，你会发现，时间似乎在他们身上停滞了。这个家庭最迷人的地方，从来不是什么宏大叙事，而是那种被琐碎、争吵和偶尔溢出的温情填满的真实感。这次回归，没有刻意的煽情，也没有强行美化那些难以调和的家庭矛盾，它只是把我们拉回那个充满混乱的客厅。对于老观众来说，这是一场带着怀旧滤镜的重逢，仿佛你也跟着他们一起，从当年的少年成长到了如今的复杂心境，而对于新观众，这也是一次理解那种“剪不断理还乱”亲密关系的绝佳窗口。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部作品最动人的，其实是它诚实地展示了成年后的我们，面对原生家庭时那种难以名状的拉扯感。马尔科姆不再是那个愤世嫉俗的少年，他带着成人的视角审视曾经让他感到窒息的家庭生活，这种视角的转换本身就极具张力。哈尔和露易丝的婚姻，像极了许多人童年记忆中那个既稳固又脆弱的核，四十年的琐碎磨合，让他们在彼此面前呈现出一种近乎原始的、毫无防备的荒诞感。它没有试图去解决所有的家庭症结，而是告诉你：生活本身就是一团乱麻，无论你走多远，回到原点时，你依然会面对那些熟悉的琐事和脾气。这种叙事极其克制，表演上也保留了那股独特的“家庭幽默感”，这种幽默不是为了搞笑而搞笑，而是源于每个人物性格里那点儿无伤大雅的倔强。当你看着屏幕上的他们，仿佛也在审视自己记忆里的某个角落。它让你明白，即使生活依然不公，但只要那个混乱的家还在，有些事情就依然有意义。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">回归之作往往面临极高的期待，而这部剧聪明地选择了“不改变”。它并没有试图将过去的故事强行升华，而是保留了那份难得的烟火气和那种“生活依然不公，但我们还得过下去”的黑色幽默。布莱恩·克兰斯顿的表演依然是定海神针，那种在严肃与滑稽之间游走的尺度感，让人拍案叫绝。如果你在找一部能让你在怀旧中会心一笑，又能触动内心深处那块关于家庭、关于成长柔软地带的剧集，这部作品就是最好的陪伴。它不需要什么跌宕起伏的剧情，光是看到那一群人在一起拌嘴，就已经足够了。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“无论世界如何变化，家永远是那个最乱也最暖的地方。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 61222,
-    "title": "马男波杰克",
-    "original_title": "BoJack Horseman",
-    "type": "剧集",
-    "rating": 8.5,
-    "date": "2014-08-22",
-    "genres": [
-      "动画",
-      "喜剧",
-      "剧情"
-    ],
-    "director": [],
-    "actors": [
-      "威尔·阿内特",
-      "亚伦·保尔",
-      "艾莉森·布里",
-      "艾米·塞达里斯"
-    ],
-    "overview": "本剧的世界设定是普通人类和拟人化的动物共同生活在一起，除了外形，这些动物跟人类没什么不同。马男波杰克（威尔·阿奈特 Will Arnett 配音）就是一匹中年过气明星马，他年轻时主演的电视剧《胡闹的小马》风靡一时，而今他已是无人问津的过气明星，与人类废柴陶德（亚伦·保尔 Aaron Paul 配音）一同生活在LA的一所别墅里。为了重整旗鼓，波杰克在经纪人兼前女友卡罗琳公主（艾米·塞德丽丝 Amy Sedaris 配音）催促下决定出版一部自传，希望回到大众视野里。但是由于波杰克过分拖延迟迟不肯下笔，出版社介绍了一位枪手作者戴安（爱丽森·布里 Alison Brie 配音）给他。波杰克多番拒绝，终于，在一个派对上，他与戴安相遇了，却发现她竟是自己的死对头花生酱先生的女朋友。",
-    "reviews": [
-      "An animated show about real life - celebrity, relationship, addiction, depression and every other thing life is made up of."
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_61222_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_61222_p.jpg",
-    "update_date": "2026-04-17",
-    "backdrop_path": "images/tv_61222_b.jpg",
-    "wx_title": "为什么说《马男波杰克》是成年人最不愿面对的深夜镜子",
-    "summary": "《马男波杰克》是一部深刻的成人动画，以好莱坞过气明星的荒诞生活为镜，精准剖析当代人的孤独与破碎。它虽非传统喜剧，却能让你在深夜直面内心，与真实的自己达成和解。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_61222_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">马男波杰克</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">BoJack Horseman</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.5</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">动画 / 喜剧 / 剧情</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2014-08-22</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">威尔·阿内特 / 亚伦·保尔 / 艾莉森·布里 / 艾米·塞达里斯</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当你看到那匹穿着毛衣、瘫在沙发上宿醉的马时，千万别被他荒诞的设定骗了。波杰克，这位曾经风靡90年代的国民偶像，如今正困在洛杉矶的豪华别墅里，在酒精、药物与漫无止境的虚无中消磨余生。他不是什么反英雄，他只是一个被时代抛弃后，又试图通过出版自传重新定义自己价值的普通中年人。故事的开篇，波杰克的生活是一团乱麻：无业游民陶德赖在他家不走，经纪人卡罗琳公主不断催促他工作，而新出现的代笔人戴安，则成了他不得不面对的一面镜子。这部剧的魅力在于它极其精准的“颗粒感”。它不给你讲那些热血沸腾的成名史，而是撕开好莱坞华丽的幕布，让我们看到那些光鲜背后的脆弱与不堪。观看门槛其实很低，只要你经历过一次职场的乏味、一次人际的崩坏，或者仅仅是某个深夜里难以名状的空虚，你就能瞬间与这匹丧气满满的马产生共鸣。这不是一部用来“下饭”的剧，它更像是在你疲惫不堪时递来的一杯苦咖啡，清醒，却也扎心。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">《马男波杰克》最令人难受又无法自拔的地方，在于它从不试图用温情的谎言来安慰你。大多数影视剧喜欢让主角通过一次努力就重回巅峰，但在这里，波杰克一次次尝试改变，却又一次次在自己性格的惯性中沉沦。编剧把成年人那点掩藏得极好的阴暗面——嫉妒、自私、对他人的依赖与对他人的伤害——全都揉碎了塞进这些角色的生活里。它有一种独特的叙事节奏，上一秒你还在为波杰克荒唐的举动捧腹大笑，下一秒，某种细小的、关于生活的真相就会像针一样刺痛你。比如那种“努力工作却依旧不快乐”的无力感，或者“明明爱着身边的人，却总是用错误的方式表达”的懊悔，这些情绪被细致地刻画出来，没有任何廉价的煽情，只有最真实的人性博弈。它探讨的不是马，而是我们每一个人。那种在喧嚣繁华的都市里，却始终感到无法融入的孤独感，在每一集的回响中被放大。很多人说看这部剧需要“心理建设”，是因为它强迫我们直视那个并不完美的自己，不再通过忙碌来逃避痛苦。这不仅是一场关于成长的漫长叙事，更是一场与自我内耗的和解之旅。当片尾曲响起，那种余韵往往能在心中盘桓许久，让你不得不停下脚步，重新审视当下的生活。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这恐怕是近年来最残忍也最温柔的动画。它没有把波杰克塑造成一个悲剧英雄，而是呈现了一个活生生的、充满裂痕的灵魂。剧中那些关于抑郁、成瘾与原生家庭的讨论，精准得让人害怕。它不提供答案，只是在平静地告诉你：这世界很糟，生活很难，但你依然得在破碎中继续往前走。如果你正在寻找一部能精准刺中内心深处、让你在看完后沉默良久的剧，这就是答案。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“这就是人生，当你终于学会如何生活，生命就已经结束了。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_200709_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_200709_p.jpg",
+    "update_date": "2026-04-18",
+    "backdrop_path": "images/tv_200709_b.jpg",
+    "wx_title": "今日精选：弱美男英雄",
+    "summary": "在意想不到的朋友的帮助下，一名富有天赋却内向的学生对抗霸凌者和暴力的敌人，却不知他的世界将会变得多么危险。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_200709_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">弱美男英雄</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">약한영웅</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动作冒险 / 剧情<br>导演：Park Dan-hee<br>主演：朴志训 / 崔显旭 / 红炅 / 厉云<br>日期：2022-11-18</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">在意想不到的朋友的帮助下，一名富有天赋却内向的学生对抗霸凌者和暴力的敌人，却不知他的世界将会变得多么危险。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   }
 ]
