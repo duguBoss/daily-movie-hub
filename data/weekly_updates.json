@@ -1,99 +1,93 @@
 [
   {
-    "id": 1493859,
-    "title": "披萨电影",
-    "original_title": "Pizza Movie",
+    "id": 1445363,
+    "title": "传奇：演唱的猫王",
+    "original_title": "EPiC: Elvis Presley in Concert",
     "type": "电影",
-    "rating": 6.4,
-    "date": "2026-03-13",
+    "rating": 8.1,
+    "date": "2026-02-18",
+    "genres": [
+      "音乐",
+      "纪录"
+    ],
+    "director": [
+      "巴兹·鲁赫曼"
+    ],
+    "actors": [
+      "埃尔维斯·普雷斯利",
+      "James Burton",
+      "John Wilkinson",
+      "Charlie Hodge"
+    ],
+    "overview": "一部关于埃尔维斯·普雷斯利（猫王）的纪录片，特别收录了首度公开的影像与录音资料。",
+    "reviews": [
+      "If you enjoyed the David Bowie “Moonage Daydream” (2022) documentary, then you’ll probably enjoy this similarly constructed film that follows Elvis as he gears up for one of his residency concerts in Las Vegas. Using an engaging array of ar"
+    ],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1445363_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1445363_p.jpg",
+    "update_date": "2026-05-13",
+    "backdrop_path": "images/movie_1445363_b.jpg",
+    "wx_title": "今日精选：传奇：演唱的猫王",
+    "summary": "一部关于埃尔维斯·普雷斯利（猫王）的纪录片，特别收录了首度公开的影像与录音资料。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1445363_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">传奇：演唱的猫王</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">EPiC: Elvis Presley in Concert</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：音乐 / 纪录<br>导演：巴兹·鲁赫曼<br>主演：埃尔维斯·普雷斯利 / James Burton / John Wilkinson / Charlie Hodge<br>日期：2026-02-18</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">一部关于埃尔维斯·普雷斯利（猫王）的纪录片，特别收录了首度公开的影像与录音资料。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 406997,
+    "title": "奇迹男孩",
+    "original_title": "Wonder",
+    "type": "电影",
+    "rating": 8.1,
+    "date": "2017-11-13",
+    "genres": [
+      "家庭",
+      "剧情"
+    ],
+    "director": [
+      "斯蒂芬·乔博斯基"
+    ],
+    "actors": [
+      "雅各布·特伦布莱",
+      "朱莉娅·罗伯茨",
+      "欧文·威尔逊",
+      "伊莎贝拉·维多维奇"
+    ],
+    "overview": "10 岁的奥古斯特天生脸部畸形，此前一直在家中和妈妈自学。这是他第一天上公共学校，他不寻常的外表让他成为同学讨论的焦点。终日受到嘲笑和排斥的奥古斯特尽自己最大的努力在这残忍的环境中生存，就连好不容易交到的新朋友也似乎不太值得信任。当班上的恶霸 Julian 将他锁定为霸凌目标后，奥古斯特萌生了退学的念头。但就在此时，一个善良又美丽的女同学与他交好，帮助他走出困难。前路漫漫，奥古斯特必须向周遭的人证明，与他善良、聪敏、勇敢的心灵相比，外表一点也不重要。",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_406997_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_406997_p.jpg",
+    "update_date": "2026-05-13",
+    "backdrop_path": "images/movie_406997_b.jpg",
+    "wx_title": "今日精选：奇迹男孩",
+    "summary": "10 岁的奥古斯特天生脸部畸形，此前一直在家中和妈妈自学。这是他第一天上公共学校，他不寻常的外表让他成为同学讨论的焦点。终日受到嘲笑和排斥的奥古斯特尽自己最大的努力在这残忍的环境中生存，就连好不容易交",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_406997_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">奇迹男孩</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Wonder</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：家庭 / 剧情<br>导演：斯蒂芬·乔博斯基<br>主演：雅各布·特伦布莱 / 朱莉娅·罗伯茨 / 欧文·威尔逊 / 伊莎贝拉·维多维奇<br>日期：2017-11-13</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">10 岁的奥古斯特天生脸部畸形，此前一直在家中和妈妈自学。这是他第一天上公共学校，他不寻常的外表让他成为同学讨论的焦点。终日受到嘲笑和排斥的奥古斯特尽自己最大的努力在这残忍的环境中生存，就连好不容易交到的新朋友也似乎不太值得信任。当班上的恶霸 Julian 将他锁定为霸凌目标后，奥古斯特萌生了退学的念头。但就在此时，一个善良又美丽的女同学与他交好，帮助他走出困难。前路漫漫，奥古斯特必须向周遭的人证明，与他善良、聪敏、勇敢的心灵相比，外表一点也不重要。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 36189,
+    "title": "幕后花絮",
+    "original_title": "Boris",
+    "type": "剧集",
+    "rating": 8.6,
+    "date": "2007-04-16",
     "genres": [
       "喜剧"
     ],
     "director": [
-      "Nick Kocher"
+      "Giacomo Ciarrapico"
     ],
     "actors": [
-      "伽塔·马塔拉佐",
-      "Sean Giambrone",
-      "露露·威尔逊",
-      "Jack Martin"
+      "Francesco Pannofino",
+      "Alessandro Tiberi",
+      "Pietro Sermonti",
+      "Carolina Crescentini"
     ],
-    "overview": "一个害羞的大学生和他鲁莽的室友开始了一个简单的任务去拿披萨，但在服用了一剂奇怪的令人心智的实验药物后，他们陷入了一个混乱的夜晚，荒谬的遭遇、疯狂的幻觉和意外的启示，这些启示可能会永远改变他们的生活。",
-    "reviews": [
-      "This movie hit hard and had me laughing right from the start! On the surface it seems like a pretty predictable, cheesy college stoner movie, but the insane choices this movie made really had me thrown for a loop. Of course it's probably no"
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1493859_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1493859_p.jpg",
-    "update_date": "2026-05-12",
-    "backdrop_path": "images/movie_1493859_b.jpg",
-    "wx_title": "今日精选：披萨电影",
-    "summary": "一个害羞的大学生和他鲁莽的室友开始了一个简单的任务去拿披萨，但在服用了一剂奇怪的令人心智的实验药物后，他们陷入了一个混乱的夜晚，荒谬的遭遇、疯狂的幻觉和意外的启示，这些启示可能会永远改变他们的生活。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1493859_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">披萨电影</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Pizza Movie</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：喜剧<br>导演：Nick Kocher<br>主演：伽塔·马塔拉佐 / Sean Giambrone / 露露·威尔逊 / Jack Martin<br>日期：2026-03-13</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">一个害羞的大学生和他鲁莽的室友开始了一个简单的任务去拿披萨，但在服用了一剂奇怪的令人心智的实验药物后，他们陷入了一个混乱的夜晚，荒谬的遭遇、疯狂的幻觉和意外的启示，这些启示可能会永远改变他们的生活。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 1893,
-    "title": "星球大战1：幽灵的威胁",
-    "original_title": "Star Wars: Episode I - The Phantom Menace",
-    "type": "电影",
-    "rating": 6.6,
-    "date": "1999-05-19",
-    "genres": [
-      "冒险",
-      "动作",
-      "科幻"
-    ],
-    "director": [
-      "乔治·卢卡斯"
-    ],
-    "actors": [
-      "连姆·尼森",
-      "伊万·麦克格雷格",
-      "娜塔莉·波特曼",
-      "杰克·洛伊德"
-    ],
-    "overview": "作为星球大战前传系列的首部曲，这部电影诞生了一个重要的人物：阿纳金（杰克·洛伊德 Jake Lloyd 饰）。银河国会会议上出现了利益争执，纳布星的女王阿米达拉（娜塔丽·波特曼 Natalie Portman 饰）被贸易联盟绑架并威胁签署新的贸易协议。绝地武士奎刚·金（连姆·尼森 Liam Neeson 饰）及徒弟欧比旺·肯诺比（伊万·麦克格雷格 Ewan McGregor 饰）受命前去解决纠纷，维护和平。他们的飞船在塔图因星意外降落的时候遇到了阿纳金并且带走了他。在奇异天才少年阿纳金等人的帮助下，奎刚及欧比旺与贸易联盟的机器人部队和西斯武士展开了决斗……",
-    "reviews": [
-      "If it were the first \"Star Wars\" movie, \"The Phantom Menace\" would be hailed as a visionary breakthrough. But this is the fourth movie of the famous series, and we think we know the territory; many of the early reviews have been blase, payi",
-      "Frankly, this film is terrible, and the producers were obviously banking on the original Star Wars coming back all excited, and didn't bother come up with a good story. What's wrong? Well -- (1) The virtuous Obiwan Kenobi talks an",
-      "***Solid return of the franchise after 16 years, highlighted by Liam Neeson*** A Jedi Knight & his apprentice (Liam Neeson and Ewan McGregor) escape a blockade with their new Gungan friend, Jar Jar Binks, and the handmaiden of Queen Amid"
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1893_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1893_p.jpg",
-    "update_date": "2026-05-12",
-    "backdrop_path": "images/movie_1893_b.jpg",
-    "wx_title": "今日精选：星球大战1：幽灵的威胁",
-    "summary": "作为星球大战前传系列的首部曲，这部电影诞生了一个重要的人物：阿纳金（杰克·洛伊德 Jake Lloyd 饰）。银河国会会议上出现了利益争执，纳布星的女王阿米达拉（娜塔丽·波特曼 Natalie Por",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1893_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">星球大战1：幽灵的威胁</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Star Wars: Episode I - The Phantom Menace</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：冒险 / 动作 / 科幻<br>导演：乔治·卢卡斯<br>主演：连姆·尼森 / 伊万·麦克格雷格 / 娜塔莉·波特曼 / 杰克·洛伊德<br>日期：1999-05-19</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">作为星球大战前传系列的首部曲，这部电影诞生了一个重要的人物：阿纳金（杰克·洛伊德 Jake Lloyd 饰）。银河国会会议上出现了利益争执，纳布星的女王阿米达拉（娜塔丽·波特曼 Natalie Portman 饰）被贸易联盟绑架并威胁签署新的贸易协议。绝地武士奎刚·金（连姆·尼森 Liam Neeson 饰）及徒弟欧比旺·肯诺比（伊万·麦克格雷格 Ewan McGregor 饰）受命前去解决纠纷，维护和平。他们的飞船在塔图因星意外降落的时候遇到了阿纳金并且带走了他。在奇异天才少年阿纳金等人的帮助下，奎刚及欧比旺与贸易联盟的机器人部队和西斯武士展开了决斗……</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 80564,
-    "title": "战栗杀机",
-    "original_title": "BANANA FISH",
-    "type": "剧集",
-    "rating": 8.6,
-    "date": "2018-07-06",
-    "genres": [
-      "动画",
-      "剧情",
-      "动作冒险",
-      "悬疑",
-      "犯罪"
-    ],
-    "director": [],
-    "actors": [
-      "内田雄马",
-      "野岛健儿",
-      "石冢运升",
-      "平田广明"
-    ],
-    "overview": "纽约。有着非凡的姿容，和卓越战斗力的少年·亚修。统领街头暴力团的他听到了，被手下所杀的男人在临死之际说出的“BANANA FISH”的神秘话语。与此同时，他与作为摄影师的助手来取材的日本少年·奥村英二相遇。两人决定一同追寻“BANANA FISH”之谜——",
+    "overview": "10多年过去了，《幕后花絮》原班人马华丽转身，放弃电视剧，拥抱当下炙手可热的网剧。所有人负责制作新剧《耶稣传》，其中斯坦尼斯同时担任主演和制片人。最新引入的严苛的平台规则及其背后神秘的算法给剧组带来了诸多挑战。",
     "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_80564_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_80564_p.jpg",
-    "update_date": "2026-05-12",
-    "backdrop_path": "images/tv_80564_b.jpg",
-    "wx_title": "今日精选：战栗杀机",
-    "summary": "纽约。有着非凡的姿容，和卓越战斗力的少年·亚修。统领街头暴力团的他听到了，被手下所杀的男人在临死之际说出的“BANANA FISH”的神秘话语。与此同时，他与作为摄影师的助手来取材的日本少年·奥村英二",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_80564_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">战栗杀机</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">BANANA FISH</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动画 / 剧情 / 动作冒险 / 悬疑 / 犯罪<br>导演：暂无<br>主演：内田雄马 / 野岛健儿 / 石冢运升 / 平田广明<br>日期：2018-07-06</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">纽约。有着非凡的姿容，和卓越战斗力的少年·亚修。统领街头暴力团的他听到了，被手下所杀的男人在临死之际说出的“BANANA FISH”的神秘话语。与此同时，他与作为摄影师的助手来取材的日本少年·奥村英二相遇。两人决定一同追寻“BANANA FISH”之谜——</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_36189_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_36189_p.jpg",
+    "update_date": "2026-05-13",
+    "backdrop_path": "images/tv_36189_b.jpg",
+    "wx_title": "今日精选：幕后花絮",
+    "summary": "10多年过去了，《幕后花絮》原班人马华丽转身，放弃电视剧，拥抱当下炙手可热的网剧。所有人负责制作新剧《耶稣传》，其中斯坦尼斯同时担任主演和制片人。最新引入的严苛的平台规则及其背后神秘的算法给剧组带来了",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_36189_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">幕后花絮</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Boris</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：喜剧<br>导演：Giacomo Ciarrapico<br>主演：Francesco Pannofino / Alessandro Tiberi / Pietro Sermonti / Carolina Crescentini<br>日期：2007-04-16</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">10多年过去了，《幕后花絮》原班人马华丽转身，放弃电视剧，拥抱当下炙手可热的网剧。所有人负责制作新剧《耶稣传》，其中斯坦尼斯同时担任主演和制片人。最新引入的严苛的平台规则及其背后神秘的算法给剧组带来了诸多挑战。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   }
 ]
