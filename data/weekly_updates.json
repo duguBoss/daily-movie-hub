@@ -1,98 +1,120 @@
 [
   {
-    "id": 1455079,
-    "title": "你我在托斯卡纳",
-    "original_title": "You, Me & Tuscany",
+    "id": 1007757,
+    "title": "奇幻变身大冒险",
+    "original_title": "Swapped",
     "type": "电影",
-    "rating": 7.3,
-    "date": "2026-04-09",
+    "rating": 9.0,
+    "date": "2026-05-01",
     "genres": [
-      "爱情",
-      "喜剧"
+      "冒险",
+      "动画",
+      "家庭",
+      "奇幻"
     ],
     "director": [
-      "Kat Coiro"
+      "内森·格雷诺"
     ],
     "actors": [
-      "Halle Bailey",
-      "雷吉-让·佩吉",
-      "Marco Calvani",
-      "Lorenzo de Moor"
+      "迈克尔·B·乔丹",
+      "朱诺·坦普尔",
+      "特雷西·摩根",
+      "塞德里克·凯尔斯"
     ],
-    "overview": "一位女子误入一栋无人看管的意大利别墅，并假扮成主人的未婚妻暂住于此。在那里，她迎来了一场意想不到的浪漫邂逅，而这段关系可能会彻底改变她的人生。",
+    "overview": "森林中的一个小生物和一只高贵的鸟突然互换了身体，他们不得不结伴而行，共同应对此生最疯狂的冒险。",
     "reviews": [
-      "They say that “imitation is the highest form of flattery,” but, when that sincere admiration begins teetering on the brink of becoming derivative, much of the magic and charm is lost. And that, for what it’s worth, is the downfall of this m",
-      "Anyone recall 'Made in Italy' (2020)? This has a similar vibe to it as it showcases the beauty of traditional rural Italian life as a backdrop to a quirkier than usual romance. 'Anna' (Halle Bailey) was an aspiring chef until her mother die"
+      "I recently watched this movie and found it to be an enjoyable experience overall. The performances were solid, the visuals were impressive, and the story kept me interested from beginning to end. While some parts felt predictable, the emoti"
     ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1455079_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1455079_p.jpg",
-    "update_date": "2026-05-25",
-    "backdrop_path": "images/movie_1455079_b.jpg",
-    "wx_title": "当一场谎言成了浪漫的避难所，托斯卡纳的阳光是否能治愈迷茫？",
-    "summary": "一部充满托斯卡纳风情的轻喜剧。女主因误会假扮未婚妻闯入意大利奢华别墅，在这场温情的谎言中，她不仅寻获了意想不到的浪漫，更在意大利乡村的慢节奏里重新审视了自我。适合在疲惫时观看，感受跨越身份的治愈之旅。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1455079_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">你我在托斯卡纳</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">You, Me & Tuscany</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">7.3</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">爱情 / 喜剧</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-04-09</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">Kat Coiro</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">Halle Bailey / 雷吉-让·佩吉</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">错</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">有时候，人生的转机往往藏在一次荒唐的误会里。故事从一个胆大妄为的决定开始：一位正处于人生困顿期的女子，阴差阳错地闯入了一栋无人看管的意大利别墅。或许是出于对逃离现实的渴望，又或许是命运的推手，她鬼使神差地假扮成了主人的未婚妻，心安理得地住进了这间充满托斯卡纳阳光的避难所。这不仅是一场关于身份的伪装，更是一场与自我的博弈。在那座被岁月遗忘的乡村别墅里，每一寸空气都弥漫着橄榄树的味道和地中海的微风。在这里，她遇见了那个本不该产生交集的人。导演Kat Coiro并没有试图讲述一个复杂深奥的阴谋，而是将镜头对准了这种“假戏真做”背后的心理拉扯。对于观众而言，这部片子的门槛极低，它不需要你预设任何复杂的逻辑，只需要你带上一颗想去意大利度假的心，就能沉浸在那些充满笑点与温情的日常中。它探讨的不是谎言如何拆穿，而是当一个人被迫停下脚步，在异国他乡的安逸中，那些被生活琐事掩盖的渴望是如何一点点苏醒的。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部电影最抓人的地方，不在于它那套经典的“身份互换”叙事，而在于它构建的那种极具质感的慢节奏生活空间。托斯卡纳不仅仅是一个地理名词，它是所有厌倦了快节奏都市生活之人的精神寄托。电影通过细腻的视听语言，捕捉了乡村生活里的那些微光时刻：晨间的露水、午后的长影、以及那份即便假扮身份也要保持体面的生活仪式感。Halle Bailey的表演赋予了角色一种脆弱而又坚韧的生命力，她将那种“深陷谎言却又不舍得醒来”的纠结展现得非常到位。而雷吉-让·佩吉则用一种内敛的优雅，让这段不期而遇的浪漫显得真实可信。他们之间的化学反应，没有大开大合的冲突，全靠眼神和生活细节的堆叠。这种创作方式避开了廉价的狗血反转，而是将重心放在了人物内心的成长轨迹上。随着剧情的推进，你会发现，那栋别墅其实是她人生的缓冲期。谎言终会被揭开，但在这段真空时间里积攒的勇气，却成了她后续面对真实人生的底气。这种关于“自我发现”的主题，即便是在爱情喜剧的包裹下，依然有着足够的重量，让观众在合上电脑时，还能感受到那种被托斯卡纳阳光照暖的余韵。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部非常标准的“假日电影”，它不要求你思考什么宏大叙事，而是提供了一个完美的逃离出口。如果你的生活恰好被琐事挤压得透不过气，那么托斯卡纳的阳光和这份关于“善意谎言”的温情，会是最好的解压药。它没有过度消费浪漫，而是让爱情在琐碎的乡村生活中自然生长。虽然剧情套路略显熟悉，但胜在节奏轻快，画面极度舒适，演员间的火花也足够支撑这90分钟的沉浸。看完之后，你会想去查一下下一班去往意大利的机票。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“谎言或许只是为了掩盖，我们内心深处对另一种生活的渴望。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1007757_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1007757_p.jpg",
+    "update_date": "2026-05-26",
+    "backdrop_path": "images/movie_1007757_b.jpg",
+    "wx_title": "今日精选：奇幻变身大冒险",
+    "summary": "森林中的一个小生物和一只高贵的鸟突然互换了身体，他们不得不结伴而行，共同应对此生最疯狂的冒险。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1007757_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">奇幻变身大冒险</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Swapped</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：冒险 / 动画 / 家庭 / 奇幻<br>导演：内森·格雷诺<br>主演：迈克尔·B·乔丹 / 朱诺·坦普尔 / 特雷西·摩根 / 塞德里克·凯尔斯<br>日期：2026-05-01</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">森林中的一个小生物和一只高贵的鸟突然互换了身体，他们不得不结伴而行，共同应对此生最疯狂的冒险。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   },
   {
-    "id": 78192,
-    "title": "迈克尔·杰克逊：偶像的一生",
-    "original_title": "Michael Jackson: The Life of an Icon",
+    "id": 1057491,
+    "title": "不听话的女孩",
+    "original_title": "Непослушная",
     "type": "电影",
-    "rating": 8.1,
-    "date": "2011-11-02",
+    "rating": 6.2,
+    "date": "2023-02-14",
     "genres": [
-      "纪录",
-      "音乐"
+      "剧情"
     ],
     "director": [
-      "Andrew Eastel"
+      "Дмитрий Суворов"
     ],
     "actors": [
-      "迈克尔·杰克逊",
-      "David Gest",
-      "蒂托·杰克逊",
-      "Rebbie Jackson"
+      "Анастасия Резник",
+      "亚历山大·佩特罗夫",
+      "Семен Арзуманов",
+      "扬·察普尼克"
     ],
-    "overview": "这部纪录片将呈现迈克尔最亲密朋友和家人口中的故事，铺开公开和私人的回忆，并将首度公开部分前所未见的家庭照片和演出视频。这部电影也将关注迈克尔人生中最困难的时期，包括因为娈童案而被捕和接受审判，以及2005年的审判是怎样影响了他和家人的生活。这部由迈克尔的挚友执导的影片，得到了杰克逊家族的认可，首度披露了众多珍贵私藏影像，从“杰克逊五兄弟”时代，到不断受丑闻困扰的流行巨星，迈克尔到底是神还是人......",
+    "overview": "20 岁的伊莉雅是一名生态环境学的学生， 一天，一家建筑公司的负责人马特维来到她的大学，讨论一个旧森林公园的开发计划，伶牙俐齿的伊莉雅毫不犹豫地将马特维的计划粉碎， 马特维被这个女孩的自信所吸引，并使用他惯用的手法——花钱“收买”她，但伊莉雅不为钱财所动，马特维开始正视这个特别的女孩，并逐渐沦陷其中....",
     "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_78192_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_78192_p.jpg",
-    "update_date": "2026-05-25",
-    "backdrop_path": "images/movie_78192_b.jpg",
-    "wx_title": "回看迈克尔·杰克逊：当灯光熄灭，舞台下的他究竟是谁？",
-    "summary": "纪录片《迈克尔·杰克逊：偶像的一生》通过珍贵影像与亲友视角，剥离媒体偏见，带你走进流行巨星孤独而真实的内心世界，深度还原这位艺术天才辉煌又沉重的一生。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_78192_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">迈克尔·杰克逊：偶像的一生</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Michael Jackson: The Life of an Icon</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.1</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">纪录 / 音乐</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2011-11-02</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">Andrew Eastel</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">迈克尔·杰克逊 / David Gest / 蒂托·杰克逊 / Rebbie Jackson</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当舞台上的光束逐渐黯淡，那个被全世界追逐的迈克尔·杰克逊，究竟是何模样？我们看过太多他华丽的舞步，听过太多关于他的神话与传言，但关于他作为“人”的挣扎，却往往被淹没在镁光灯的轰鸣声中。这部纪录片并非简单的生平回顾，它更像是一次穿越时间的深度对话，由那些真正陪他走过童年、成名与风暴的挚友与亲人，亲手揭开那些从未被公开的家庭胶片。你会看到一个在杰克逊五兄弟时期就展露出的纯粹热忱，也能看到他在成名后被舆论围猎时的疲惫与脆弱。尤其是关于那段争议缠身的审判岁月，纪录片并没有选择回避，而是通过身边人的视角，还原了他在高墙内外的孤独与无助。对于不了解那段历史的观众，这里可能没有高能的演出特效，却有着最真实的人性切面。它提醒我们，在成为偶像之前，他先是一个被推向极致、又被时代重重挤压的灵魂。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部作品最动人的地方，在于它撕掉了“流行天王”那层金光闪闪的标签。在很多人的印象里，迈克尔·杰克逊是遥远的，是新闻标题里那个离奇又神秘的存在。但在这里，他是一个会因为家人的离去而沉默、会因为背叛而深受打击的普通男人。那些琐碎的家庭影像，那些从未曝光过的私下交谈，构筑起了一个立体的、有血有肉的形象。导演 Andrew Eastel 极为克制，他没有试图在镜头里寻找某种对立或洗白，而是将麦克风交给了那些与他共生共存的人。当看到他面对审判时的那种无力感，你会发现，即便拥有全世界的掌声，在庞大的、工业化的舆论机器面前，他依然是如此渺小。这种后劲，不是来自于音乐的共鸣，而是来自于对一个“被囚禁在偶像躯壳下”的生命的哀怜。它让我们重新审视那些被消费的明星，他们也是人，也有被理解的渴望，也有被误解的痛苦。影片在叙事上的那种温柔，与残酷的现实形成了剧烈的反差，让人看完之后，久久无法平静。这不仅是关于一个人的传记，更是一场关于名利与代价的深层反思。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">如果你看腻了各种浮夸的传记纪录片，这部作品是一份沉稳的慰藉。它没有刻意贩卖焦虑或悲情，只是用一种近乎虔诚的姿态，去打捞那些即将消失的片段。迈克尔·杰克逊的一生，是一场极致的狂欢，也是一场极致的流放。这片子最大的价值，在于它教会我们如何剥离掉那些媒体编织的假象，从而在镜头的细微处，看到一个真实灵魂的闪回。别带任何预设去观看，你会发现，他其实比我们想象中更孤独，也更纯粹。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“名利能给予一切，却唯独给不了他安宁的归处。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1057491_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1057491_p.jpg",
+    "update_date": "2026-05-26",
+    "backdrop_path": "images/movie_1057491_b.jpg",
+    "wx_title": "今日精选：不听话的女孩",
+    "summary": "20 岁的伊莉雅是一名生态环境学的学生， 一天，一家建筑公司的负责人马特维来到她的大学，讨论一个旧森林公园的开发计划，伶牙俐齿的伊莉雅毫不犹豫地将马特维的计划粉碎， 马特维被这个女孩的自信所吸引，并使",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1057491_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">不听话的女孩</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Непослушная</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：剧情<br>导演：Дмитрий Суворов<br>主演：Анастасия Резник / 亚历山大·佩特罗夫 / Семен Арзуманов / 扬·察普尼克<br>日期：2023-02-14</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">20 岁的伊莉雅是一名生态环境学的学生， 一天，一家建筑公司的负责人马特维来到她的大学，讨论一个旧森林公园的开发计划，伶牙俐齿的伊莉雅毫不犹豫地将马特维的计划粉碎， 马特维被这个女孩的自信所吸引，并使用他惯用的手法——花钱“收买”她，但伊莉雅不为钱财所动，马特维开始正视这个特别的女孩，并逐渐沦陷其中....</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   },
   {
-    "id": 1399,
-    "title": "权力的游戏",
-    "original_title": "Game of Thrones",
+    "id": 259819,
+    "title": "公鸡斗士",
+    "original_title": "Rooster Fighter",
     "type": "剧集",
-    "rating": 8.5,
-    "date": "2011-04-17",
+    "rating": 8.8,
+    "date": "2026-03-15",
     "genres": [
-      "Sci-Fi & Fantasy",
-      "剧情",
-      "动作冒险"
+      "动画",
+      "动作冒险",
+      "Sci-Fi & Fantasy"
     ],
     "director": [],
     "actors": [
-      "彼特·丁拉基",
-      "基特·哈灵顿",
-      "尼古拉·科斯特-瓦尔道",
-      "琳娜·海蒂"
+      "三宅健太",
+      "本多真梨子",
+      "远野光"
     ],
-    "overview": "维斯特洛大陆边境处发现远古传说中早已灭绝的生物，危险也渐渐靠近这里。危情一触即发，整个王国看似平和的表面下却是波涛暗涌。权高位重的拜拉席恩家族、勇敢善良的史塔克家族、企图谋取王位的坦格利安家族、有着不可告人秘密的兰尼斯特家族。这些家族各怀鬼胎，这个国家将会陷入一场混战.....",
+    "overview": "咯咯助（Keiji）绝非一只普通的公鸡——他是人类最伟大的捍卫者！他的对手或许高达十层楼，但没有什么能比得上他那颗勇敢无畏的心，以及那声威震四方的战斗怒吼——鸪鴂鹘䴔（Kokekokko）！",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_259819_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_259819_p.jpg",
+    "update_date": "2026-05-26",
+    "backdrop_path": "images/tv_259819_b.jpg",
+    "wx_title": "今日精选：公鸡斗士",
+    "summary": "咯咯助（Keiji）绝非一只普通的公鸡——他是人类最伟大的捍卫者！他的对手或许高达十层楼，但没有什么能比得上他那颗勇敢无畏的心，以及那声威震四方的战斗怒吼——鸪鴂鹘䴔（Kokekokko）！",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_259819_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">公鸡斗士</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Rooster Fighter</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动画 / 动作冒险 / Sci-Fi & Fantasy<br>导演：暂无<br>主演：三宅健太 / 本多真梨子 / 远野光<br>日期：2026-03-15</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">咯咯助（Keiji）绝非一只普通的公鸡——他是人类最伟大的捍卫者！他的对手或许高达十层楼，但没有什么能比得上他那颗勇敢无畏的心，以及那声威震四方的战斗怒吼——鸪鴂鹘䴔（Kokekokko）！</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 89456,
+    "title": "史前战纪",
+    "original_title": "Primal",
+    "type": "剧集",
+    "rating": 8.6,
+    "date": "2019-10-08",
+    "genres": [
+      "动作冒险",
+      "动画"
+    ],
+    "director": [],
+    "actors": [
+      "Aaron LaPlante"
+    ],
+    "overview": "《史前战纪》讲述一个正走向进化之路的穴居人以及一只濒临灭绝的恐龙，他们因为悲剧而意外地成为朋友，一人一兽得联合起来才能在这暴力的原始世界中生存下去。",
     "reviews": [
-      "I started watching when it came out as I heard that fans of LOTR also liked this. I stopped watching after Season 1 as I was devastated lol kinda. Only 2015 I decided to continue watching and got addicted like it seemed complicated at first",
-      "Cruel, bloody, vulgar, Machiavellian, unrepentant. And that is just the writing. The camera angles, the score, the pacing mesh together for grand storytelling: a mix of horror, swords and sorcery, and endless treachery. And all of that",
-      "LOTR meets House of Cards. Imagine a fantasy novel if all of the beasts and mythologies were transported to the real world. There's no such thing as a happy ending, or an ending for that matter (unless you're dead). So as you watch the show"
+      "<b><i>Primal, for the very brief run it has been on in 3 years, sets an exemplary tone of adult animated shows can be more than \"complex inter galactic warfare brimmed with meta-humour and anti-meta-narrative\" or to simply put \"haha, sex is"
     ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_1399_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_1399_p.jpg",
-    "update_date": "2026-05-25",
-    "backdrop_path": "images/tv_1399_b.jpg",
-    "wx_title": "当你凝视维斯特洛的深渊，一场关于权力的冷酷博弈才刚刚拉开序幕",
-    "summary": "重温史诗剧集《权力的游戏》，走进维斯特洛大陆的权力漩涡。当各大家族博弈进入白热化，你会发现这不仅是奇幻冒险，更是对人性最深刻的剖析。它残酷、真实、不可预测，至今仍是剧集史上的巅峰之作。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_1399_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">权力的游戏</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Game of Thrones</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.5</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">Sci-Fi & Fantasy / 剧情 / 动作冒险</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2011-04-17</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">彼特·丁拉基 / 基特·哈灵顿 / 尼古拉·科斯特-瓦尔道 / 琳娜·海蒂</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">权</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">如果说这个世界上有一种故事，能让你在某个深夜看完一集后，久久无法平复心情，甚至盯着屏幕发呆，那大概就是《权力的游戏》。故事的起点在维斯特洛，那是一个寒冬将至、远古传说复苏的世界。表面上，这里有着体面的封建秩序，史塔克家族坚守着荣誉，兰尼斯特家族操纵着金钱，而坦格利安的后裔在异乡等待着复辟。但当你深入其中，会发现荣誉往往通往坟墓，而背叛才是活下去的唯一通途。这部剧最让人欲罢不能的地方，在于它撕碎了所有常规剧集的“主角光环”。你以为的英雄可能在下一秒突然陨落，而你厌恶的反派，却往往有着最复杂的人性弧光。它不仅是在讲一个中世纪风格的奇幻故事，更像是一场关于权力的冷酷实验。对于初次入坑的观众，可能需要一点时间去适应庞大的人物图谱和那缓慢铺陈的叙事节奏，但一旦你跨过了那道门槛，维斯特洛大陆的每一个细节都会变得鲜活且致命，让你深陷其中，无法自拔。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部剧的迷人之处，在于它从不吝啬对人性的解剖。它不是在堆砌魔法和巨龙，而是在极端的环境下，去测试一个人到底能走多远。当权力的天平倾斜，当死亡的威胁悬于头顶，谁会选择坚守底线，谁会为了王座出卖灵魂？这不仅仅是剧情的推进，更是一种极具沉浸感的心理博弈。它的叙事就像是一部精密的钟表，每一个角色的选择，都会在后续章节引发巨大的涟漪。这种因果链条的精密程度，在当今的剧集市场中依然罕见。此外，它的影像质感有着极强的现实主义倾向，即使是奇幻设定，你也能从铠甲的锈迹、酒杯的纹理、或者是酒馆里嘈杂的咒骂声中，感受到那种潮湿、冰冷且真实的质感。那些关于权利、信仰、血缘与爱的交织，被放置在残酷的生存逻辑下，产生了一种名为“悲剧美学”的强烈冲击力。你不需要了解复杂的历史背景，只要你能感受到那种“世事无常”的重量，便能与剧中的角色共鸣。这种后劲，不是让你看完后欢呼雀跃，而是让你在合上屏幕后的很长一段时间里，依然会在脑海中反复回味那些曾经的决定，思考如果换作是自己，又该如何面对那残酷的抉择。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这并非一部适合下饭的轻松剧集，它要求你投入全部的专注。它用最冷峻的手法，向我们展示了权力的本质——它是诱惑，也是囚笼。在维斯特洛，死亡不是结局，而是每个人都必须面对的日常。如果你厌倦了那些千篇一律的爽文逻辑，这部剧会给你一种久违的震撼：没有绝对的对错，只有永恒的利益与人性深处的博弈。它不仅塑造了电视史上最复杂的人物群像，更建立了一套属于自己的生存哲学，每一帧都散发着那种让人战栗的宿命感。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“权力的漩涡里，没人能全身而退，唯有生存与真相，在寒风中长存。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_89456_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_89456_p.jpg",
+    "update_date": "2026-05-26",
+    "backdrop_path": "images/tv_89456_b.jpg",
+    "wx_title": "今日精选：史前战纪",
+    "summary": "《史前战纪》讲述一个正走向进化之路的穴居人以及一只濒临灭绝的恐龙，他们因为悲剧而意外地成为朋友，一人一兽得联合起来才能在这暴力的原始世界中生存下去。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_89456_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">史前战纪</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Primal</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动作冒险 / 动画<br>导演：暂无<br>主演：Aaron LaPlante<br>日期：2019-10-08</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">《史前战纪》讲述一个正走向进化之路的穴居人以及一只濒临灭绝的恐龙，他们因为悲剧而意外地成为朋友，一人一兽得联合起来才能在这暴力的原始世界中生存下去。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   }
 ]
