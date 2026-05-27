@@ -1,120 +1,95 @@
 [
   {
-    "id": 1007757,
-    "title": "奇幻变身大冒险",
-    "original_title": "Swapped",
+    "id": 1442669,
+    "title": "电动维纳斯",
+    "original_title": "La Vénus électrique",
     "type": "电影",
-    "rating": 9.0,
-    "date": "2026-05-01",
+    "rating": 7.0,
+    "date": "2026-05-12",
     "genres": [
-      "冒险",
-      "动画",
-      "家庭",
-      "奇幻"
+      "喜剧",
+      "剧情",
+      "历史"
     ],
     "director": [
-      "内森·格雷诺"
+      "皮埃尔·沙尔瓦多利"
     ],
     "actors": [
-      "迈克尔·B·乔丹",
-      "朱诺·坦普尔",
-      "特雷西·摩根",
-      "塞德里克·凯尔斯"
+      "皮奥·马麦",
+      "阿娜伊斯·德穆斯蒂埃",
+      "吉尔·勒卢什",
+      "Vimala Pons"
     ],
-    "overview": "森林中的一个小生物和一只高贵的鸟突然互换了身体，他们不得不结伴而行，共同应对此生最疯狂的冒险。",
-    "reviews": [
-      "I recently watched this movie and found it to be an enjoyable experience overall. The performances were solid, the visuals were impressive, and the story kept me interested from beginning to end. While some parts felt predictable, the emoti"
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1007757_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1007757_p.jpg",
-    "update_date": "2026-05-26",
-    "backdrop_path": "images/movie_1007757_b.jpg",
-    "wx_title": "今日精选：奇幻变身大冒险",
-    "summary": "森林中的一个小生物和一只高贵的鸟突然互换了身体，他们不得不结伴而行，共同应对此生最疯狂的冒险。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1007757_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">奇幻变身大冒险</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Swapped</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：冒险 / 动画 / 家庭 / 奇幻<br>导演：内森·格雷诺<br>主演：迈克尔·B·乔丹 / 朱诺·坦普尔 / 特雷西·摩根 / 塞德里克·凯尔斯<br>日期：2026-05-01</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">森林中的一个小生物和一只高贵的鸟突然互换了身体，他们不得不结伴而行，共同应对此生最疯狂的冒险。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 1057491,
-    "title": "不听话的女孩",
-    "original_title": "Непослушная",
-    "type": "电影",
-    "rating": 6.2,
-    "date": "2023-02-14",
-    "genres": [
-      "剧情"
-    ],
-    "director": [
-      "Дмитрий Суворов"
-    ],
-    "actors": [
-      "Анастасия Резник",
-      "亚历山大·佩特罗夫",
-      "Семен Арзуманов",
-      "扬·察普尼克"
-    ],
-    "overview": "20 岁的伊莉雅是一名生态环境学的学生， 一天，一家建筑公司的负责人马特维来到她的大学，讨论一个旧森林公园的开发计划，伶牙俐齿的伊莉雅毫不犹豫地将马特维的计划粉碎， 马特维被这个女孩的自信所吸引，并使用他惯用的手法——花钱“收买”她，但伊莉雅不为钱财所动，马特维开始正视这个特别的女孩，并逐渐沦陷其中....",
+    "overview": "二十世纪初，巴黎。当红一时的画家安托万·巴莱斯特罗，深信其妻伊雷娜乃因己之过而死，遂再也无法重拾画笔，令画廊老板阿曼德绝望。一天晚上，为了寻求原谅，安托万喝醉了酒，试图通过一个灵媒与艾琳取得联系。他不知道，他实际上是在与苏珊娜说话，一个卑微的街头艺人，她对来世一无所知，只是溜进了算命者的马车里偷食物……",
     "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1057491_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1057491_p.jpg",
-    "update_date": "2026-05-26",
-    "backdrop_path": "images/movie_1057491_b.jpg",
-    "wx_title": "今日精选：不听话的女孩",
-    "summary": "20 岁的伊莉雅是一名生态环境学的学生， 一天，一家建筑公司的负责人马特维来到她的大学，讨论一个旧森林公园的开发计划，伶牙俐齿的伊莉雅毫不犹豫地将马特维的计划粉碎， 马特维被这个女孩的自信所吸引，并使",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1057491_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">不听话的女孩</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Непослушная</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：剧情<br>导演：Дмитрий Суворов<br>主演：Анастасия Резник / 亚历山大·佩特罗夫 / Семен Арзуманов / 扬·察普尼克<br>日期：2023-02-14</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">20 岁的伊莉雅是一名生态环境学的学生， 一天，一家建筑公司的负责人马特维来到她的大学，讨论一个旧森林公园的开发计划，伶牙俐齿的伊莉雅毫不犹豫地将马特维的计划粉碎， 马特维被这个女孩的自信所吸引，并使用他惯用的手法——花钱“收买”她，但伊莉雅不为钱财所动，马特维开始正视这个特别的女孩，并逐渐沦陷其中....</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1442669_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1442669_p.jpg",
+    "update_date": "2026-05-27",
+    "backdrop_path": "images/movie_1442669_b.jpg",
+    "wx_title": "今日精选：电动维纳斯",
+    "summary": "二十世纪初，巴黎。当红一时的画家安托万·巴莱斯特罗，深信其妻伊雷娜乃因己之过而死，遂再也无法重拾画笔，令画廊老板阿曼德绝望。一天晚上，为了寻求原谅，安托万喝醉了酒，试图通过一个灵媒与艾琳取得联系。他不",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1442669_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">电动维纳斯</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">La Vénus électrique</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：喜剧 / 剧情 / 历史<br>导演：皮埃尔·沙尔瓦多利<br>主演：皮奥·马麦 / 阿娜伊斯·德穆斯蒂埃 / 吉尔·勒卢什 / Vimala Pons<br>日期：2026-05-12</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">二十世纪初，巴黎。当红一时的画家安托万·巴莱斯特罗，深信其妻伊雷娜乃因己之过而死，遂再也无法重拾画笔，令画廊老板阿曼德绝望。一天晚上，为了寻求原谅，安托万喝醉了酒，试图通过一个灵媒与艾琳取得联系。他不知道，他实际上是在与苏珊娜说话，一个卑微的街头艺人，她对来世一无所知，只是溜进了算命者的马车里偷食物……</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   },
   {
-    "id": 259819,
-    "title": "公鸡斗士",
-    "original_title": "Rooster Fighter",
+    "id": 615453,
+    "title": "哪吒之魔童降世",
+    "original_title": "哪吒之魔童降世",
+    "type": "电影",
+    "rating": 7.9,
+    "date": "2019-07-26",
+    "genres": [
+      "动画",
+      "奇幻",
+      "冒险"
+    ],
+    "director": [
+      "饺子"
+    ],
+    "actors": [
+      "吕艳婷",
+      "囧森瑟夫",
+      "瀚墨",
+      "陈浩"
+    ],
+    "overview": "天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸，灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。元始天尊启动了天劫咒语，3年后天雷将会降临，摧毁魔丸。太乙受命将灵珠托生于陈塘关李靖家的儿子哪吒身上。然而阴差阳错，灵珠和魔丸竟然被掉包。本应是灵珠英雄的哪吒却成了混世大魔王。调皮捣蛋顽劣不堪的哪吒却徒有一颗做英雄的心。然而面对众人对魔丸的误解和即将来临的天雷的降临，哪吒是否命中注定会立地成魔？他将何去何从？",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_615453_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_615453_p.jpg",
+    "update_date": "2026-05-27",
+    "backdrop_path": "images/movie_615453_b.jpg",
+    "wx_title": "今日精选：哪吒之魔童降世",
+    "summary": "天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸，灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。元始天尊启动了天劫咒语，3年后天雷将会降临，摧毁魔丸。太乙受命将灵",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_615453_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">哪吒之魔童降世</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">哪吒之魔童降世</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动画 / 奇幻 / 冒险<br>导演：饺子<br>主演：吕艳婷 / 囧森瑟夫 / 瀚墨 / 陈浩<br>日期：2019-07-26</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸，灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。元始天尊启动了天劫咒语，3年后天雷将会降临，摧毁魔丸。太乙受命将灵珠托生于陈塘关李靖家的儿子哪吒身上。然而阴差阳错，灵珠和魔丸竟然被掉包。本应是灵珠英雄的哪吒却成了混世大魔王。调皮捣蛋顽劣不堪的哪吒却徒有一颗做英雄的心。然而面对众人对魔丸的误解和即将来临的天雷的降临，哪吒是否命中注定会立地成魔？他将何去何从？</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 284445,
+    "title": "章鱼哔的原罪",
+    "original_title": "タコピーの原罪",
     "type": "剧集",
     "rating": 8.8,
-    "date": "2026-03-15",
+    "date": "2025-06-28",
     "genres": [
       "动画",
-      "动作冒险",
+      "剧情",
       "Sci-Fi & Fantasy"
     ],
     "director": [],
     "actors": [
-      "三宅健太",
-      "本多真梨子",
-      "远野光"
+      "间宫胡桃",
+      "上田丽奈",
+      "小原好美",
+      "永濑安奈"
     ],
-    "overview": "咯咯助（Keiji）绝非一只普通的公鸡——他是人类最伟大的捍卫者！他的对手或许高达十层楼，但没有什么能比得上他那颗勇敢无畏的心，以及那声威震四方的战斗怒吼——鸪鴂鹘䴔（Kokekokko）！",
-    "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_259819_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_259819_p.jpg",
-    "update_date": "2026-05-26",
-    "backdrop_path": "images/tv_259819_b.jpg",
-    "wx_title": "今日精选：公鸡斗士",
-    "summary": "咯咯助（Keiji）绝非一只普通的公鸡——他是人类最伟大的捍卫者！他的对手或许高达十层楼，但没有什么能比得上他那颗勇敢无畏的心，以及那声威震四方的战斗怒吼——鸪鴂鹘䴔（Kokekokko）！",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_259819_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">公鸡斗士</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Rooster Fighter</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动画 / 动作冒险 / Sci-Fi & Fantasy<br>导演：暂无<br>主演：三宅健太 / 本多真梨子 / 远野光<br>日期：2026-03-15</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">咯咯助（Keiji）绝非一只普通的公鸡——他是人类最伟大的捍卫者！他的对手或许高达十层楼，但没有什么能比得上他那颗勇敢无畏的心，以及那声威震四方的战斗怒吼——鸪鴂鹘䴔（Kokekokko）！</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 89456,
-    "title": "史前战纪",
-    "original_title": "Primal",
-    "type": "剧集",
-    "rating": 8.6,
-    "date": "2019-10-08",
-    "genres": [
-      "动作冒险",
-      "动画"
-    ],
-    "director": [],
-    "actors": [
-      "Aaron LaPlante"
-    ],
-    "overview": "《史前战纪》讲述一个正走向进化之路的穴居人以及一只濒临灭绝的恐龙，他们因为悲剧而意外地成为朋友，一人一兽得联合起来才能在这暴力的原始世界中生存下去。",
+    "overview": "“章鱼哔的原罪”是一个关于“为了在宇宙中传播快乐而旅行的快乐星球人”，与不会笑的少女静香在地球上相遇的故事。被静香命名为“章鱼噼”的快乐星球人，试图用拥有神奇力量的“快乐道具”让静香露出笑容，但却屡屡失败。就在这时，满身伤痕的静香向章鱼哔求助，章鱼哔违反了规定，将快乐道具借给了她，从而引发了一系列严重的问题……",
     "reviews": [
-      "<b><i>Primal, for the very brief run it has been on in 3 years, sets an exemplary tone of adult animated shows can be more than \"complex inter galactic warfare brimmed with meta-humour and anti-meta-narrative\" or to simply put \"haha, sex is"
+      "Takopi’s Original Sin follows an innocent alien whose attempt to help two deeply troubled children unravels layers of trauma, blurred morality, and fragile emotional worlds. As their intertwined struggles lead to tragedy and a powerful twis"
     ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_89456_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_89456_p.jpg",
-    "update_date": "2026-05-26",
-    "backdrop_path": "images/tv_89456_b.jpg",
-    "wx_title": "今日精选：史前战纪",
-    "summary": "《史前战纪》讲述一个正走向进化之路的穴居人以及一只濒临灭绝的恐龙，他们因为悲剧而意外地成为朋友，一人一兽得联合起来才能在这暴力的原始世界中生存下去。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_89456_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">史前战纪</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Primal</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动作冒险 / 动画<br>导演：暂无<br>主演：Aaron LaPlante<br>日期：2019-10-08</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">《史前战纪》讲述一个正走向进化之路的穴居人以及一只濒临灭绝的恐龙，他们因为悲剧而意外地成为朋友，一人一兽得联合起来才能在这暴力的原始世界中生存下去。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_284445_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_284445_p.jpg",
+    "update_date": "2026-05-27",
+    "backdrop_path": "images/tv_284445_b.jpg",
+    "wx_title": "今日精选：章鱼哔的原罪",
+    "summary": "“章鱼哔的原罪”是一个关于“为了在宇宙中传播快乐而旅行的快乐星球人”，与不会笑的少女静香在地球上相遇的故事。被静香命名为“章鱼噼”的快乐星球人，试图用拥有神奇力量的“快乐道具”让静香露出笑容，但却屡屡",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_284445_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">章鱼哔的原罪</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">タコピーの原罪</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动画 / 剧情 / Sci-Fi & Fantasy<br>导演：暂无<br>主演：间宫胡桃 / 上田丽奈 / 小原好美 / 永濑安奈<br>日期：2025-06-28</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">“章鱼哔的原罪”是一个关于“为了在宇宙中传播快乐而旅行的快乐星球人”，与不会笑的少女静香在地球上相遇的故事。被静香命名为“章鱼噼”的快乐星球人，试图用拥有神奇力量的“快乐道具”让静香露出笑容，但却屡屡失败。就在这时，满身伤痕的静香向章鱼哔求助，章鱼哔违反了规定，将快乐道具借给了她，从而引发了一系列严重的问题……</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   }
 ]
