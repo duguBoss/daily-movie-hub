@@ -1,99 +1,131 @@
 [
   {
-    "id": 1242332,
-    "title": "替补悍警",
-    "original_title": "Normal",
+    "id": 1084244,
+    "title": "玩具总动员5",
+    "original_title": "Toy Story 5",
     "type": "电影",
-    "rating": 6.5,
-    "date": "2026-04-16",
+    "rating": 7.5,
+    "date": "2026-06-17",
     "genres": [
-      "动作",
-      "犯罪",
-      "惊悚"
-    ],
-    "director": [
-      "本·维特利"
-    ],
-    "actors": [
-      "鲍勃·奥登科克",
-      "亨利·温克勒",
-      "琳娜·海蒂",
-      "比利·麦克莱伦"
-    ],
-    "overview": "故事发生在一个名为“诺莫”的偏远小镇，这里看似风平浪静，实则暗流涌动。尤利西斯在上一任警长离奇意外身亡后，被委任为临时警长。当镇上的银行被一对来自外地的夫妇抢劫时，尤利西斯赶到现场，却发现这座小镇平静的表象下隐藏着更为险恶的深层秘密——从酒保到神父，镇上的每个人都是秘密的参与者。而一直试图逃避过去心魔的尤利西斯，此刻必须揭开这场犯罪阴谋的全部真相。",
-    "reviews": [
-      "Normal is a flawed action film, but it uses its basic concept effectively. Its throwaway characters are used to a kick ass and bullet-heavy advantage while the action is swift, brutal, and doesn’t overstay its welcome. This is a bite-sized",
-      "I thought there something of the \"Twin Peaks\" about this as a temporary sheriff arrives in the town of Normal for a short stint following the untimely death of his predecessor. \"Ulysses\" (Bob Odenkirk) is about as laid back as a man can get",
-      "Enjoyable and refreshing. There's a lot of police movie tropes that people revert to when writing their scripts. There's a certain amount of side characters, plots and twists you can introduce. This movie does something interesting with al"
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1242332_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1242332_p.jpg",
-    "update_date": "2026-06-20",
-    "backdrop_path": "images/movie_1242332_b.jpg",
-    "wx_title": "鲍勃·奥登科克的新片，把一个小镇的伪善撕得粉碎",
-    "summary": "鲍勃·奥登科克主演的动作惊悚片《替补悍警》，讲述一位临时警长深入偏远小镇，意外撞破全员恶人的犯罪阴谋。动作干脆利落，悬疑氛围拉满，不仅是一场感官刺激，更是对人性伪善的黑色解构。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1242332_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">替补悍警</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Normal</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">6.5</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">动作 / 犯罪 / 惊悚</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-04-16</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">本·维特利</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">鲍勃·奥登科克 / 亨利·温克勒 / 琳娜·海蒂</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">尤</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">尤利西斯踏进“诺莫”小镇时，大概以为这只是又一份无聊的差事。上一任警长死得不明不白，留下的空缺等着人填补，而小镇看起来就像那种会在明信片上出现的、宁静到让人打瞌睡的地方。但《替补悍警》的故事钩子，恰恰就藏在这层薄薄的静谧之下。当一起看似寻常的银行劫案发生，尤利西斯才惊觉，这里每一个微笑着打招呼的居民，似乎都戴着名为“普通”的面具。酒保、神父，甚至路边看似无害的邻居，他们的眼神里藏着某种集体式的缄默。这不仅是一场关于追踪犯罪的动作戏，更像是一个外来者闯入封闭生态后的应激反应。对于喜欢《风骚律师》中奥登科克那种“隐忍而克制”表演的观众来说，尤利西斯这个角色几乎是量身定制的：他带着不愿提及的过去，想在混乱中寻求一丝秩序，却发现秩序本身就是最大的谎言。你不需要准备太多背景知识，只需要跟着镜头，看这位临时警长如何从步步退让，到被迫在枪火中撕开小镇的虚伪外壳。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">本·维特利导演最擅长的，就是把荒诞的暴力植入最平庸的日常，这种反差在《替补悍警》里被发挥到了极致。影片没有选择堆砌那些冗长的警匪套路，而是将笔墨集中在“全员同谋”这种极具张力的设定上。当观众意识到尤利西斯面对的不是一两个罪犯，而是一个精密运作的社会肌理时，那种压迫感是不言而喻的。动作戏份的处理极其精干，没有那种为了炫技而拉长的慢动作，每一场交火都带着一种粗粝的真实感。它让你感到疼，让你感到那种被逼入墙角后的绝地反击。这种电影的迷人之处不在于宏大的叙事，而在于对那种“小镇阴影”的精准捕捉——你越是渴望平静，平静之下掩盖的腐烂就越是让你不安。这种不安并非来自恐怖片的突发惊吓，而是来自一种清醒的认知：当你揭开了一个人的谎言，你可能就得面对整个世界的恶意。影片的叙事节奏极快，像是一种冷峻的审视。它不试图给你一个英雄主义的结局，而是让主角在不断的试探与反击中，一点点磨损掉那些原本的温和。看到最后，你会发现，这种“后劲”其实来自于角色在道德困境里的挣扎——当你为了正义不得不成为那个打破平衡的人，你是否还能维持最初的那种“Normal”？这便是本片在动作外壳下，留给观众的一点点余味。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部非常克制的动作惊悚片，它聪明地避开了大制作电影常见的逻辑漏洞。奥登科克的表演是灵魂所在，他赋予了尤利西斯一种疲惫而坚韧的质感，让观众能迅速代入那个孤立无援的境地。如果你厌倦了那些逻辑松散的警匪爽片，这部电影提供了一种更扎实、更具冷峻美感的选择。它没有试图讲一个多么宏大的故事，但它把“平庸之恶”这个概念拍得足够惊心动魄。作为一部犯罪题材，它够狠，也够冷静，看完之后会让你对身边的平静产生一种微妙的审视。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“当所有人都守口如瓶，真相就成了小镇最危险的违禁品。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 453395,
-    "title": "奇异博士2：疯狂多元宇宙",
-    "original_title": "Doctor Strange in the Multiverse of Madness",
-    "type": "电影",
-    "rating": 7.2,
-    "date": "2022-05-04",
-    "genres": [
-      "奇幻",
-      "动作",
+      "动画",
+      "家庭",
+      "喜剧",
       "冒险"
     ],
     "director": [
-      "山姆·雷米"
+      "安德鲁·斯坦顿"
     ],
     "actors": [
-      "本尼迪克特·康伯巴奇",
-      "克索斯利尔·戈麦斯",
-      "伊丽莎白·奥尔森",
-      "切瓦特·埃加福"
+      "汤姆·汉克斯",
+      "蒂姆·艾伦",
+      "琼·库萨克",
+      "格蕾塔·李"
     ],
-    "overview": "奇异博士史蒂芬·斯特兰奇正在参加克里斯汀·帕尔默的婚礼，这时外面的街道上出了乱子，一只巨大的章鱼怪正在跨越维度追逐名叫阿美莉卡·查维兹的女孩。奇异博士和王联手救下女孩，并得知阿美莉卡遭追杀是因其拥有穿越平行宇宙的能力，不过她无法真正控制自己的能力。奇异博士怀疑这其中涉及巫术，遂向旺达求助。不料，正是因失去孩子而悲痛的旺达要不惜一切代价生活在她仍然有孩子的宇宙中，才给奇异博士、王和阿美莉卡带来了一系列的大麻烦……",
+    "overview": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
     "reviews": [
-      "_Doctor Strange in the Multiverse of Madness_ is dark, silly, and fan pleasing. The film is at is most bewitching when Sam Raimi can let his horror roots be showcased. It will satisfy horror and superhero film fans alike, but would have and",
-      "FULL SPOILER-FREE REVIEW @ https://www.msbreviews.com/movie-reviews/doctor-strange-multiverse-madness-spoiler-free-review \"Doctor Strange in the Multiverse of Madness is undoubtedly one of the most unique installments in the MCU, thanks",
-      "Whilst I really did quite enjoy this - and it was great to be in a busy cinema again - it's really more of a testament to the skills of the VFX guys rather than to any of the writers. The story is really pretty thin with the engaging and co"
+      "Toy Story 5 is a heartwarming return to the beloved franchise that combines nostalgia with fresh storytelling. The animation is stunning, the voice cast delivers exceptional performances, and the emotional depth rivals even the original fil"
     ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_453395_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_453395_p.jpg",
-    "update_date": "2026-06-20",
-    "backdrop_path": "images/movie_453395_b.jpg",
-    "wx_title": "当漫威遇上“鬼才”：这可能是你见过最不循规蹈矩的奇异博士",
-    "summary": "山姆·雷米执导《奇异博士2：疯狂多元宇宙》，将漫威超英与邪典惊悚美学完美融合。当多元宇宙陷入混乱，旺达的执念引发情感风暴，这部充满导演个人风格的视觉奇观，绝对不容错过。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_453395_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">奇异博士2：疯狂多元宇宙</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Doctor Strange in the Multiverse of Madness</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">7.2</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">奇幻 / 动作 / 冒险</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2022-05-04</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">山姆·雷米</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">本尼迪克特·康伯巴奇 / 克索斯利尔·戈麦斯 / 伊丽莎白·奥尔森 / 切瓦特·埃加福</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当“恐怖片教父”山姆·雷米接手漫威，你会发现，这部电影甚至比它的前作多出了一种诡谲的呼吸感。史蒂芬·斯特兰奇不再只是那个高傲的法师，他正在经历一场被现实撕裂的旅程。故事的起因很简单：一名拥有跳跃维度能力的少女阿美莉卡闯入了斯特兰奇的生活，一场跨越多元宇宙的逃亡随之展开。这不仅是关于魔法与反派的对垒，更是一场关于“执念”的深度拷问。如果你期待的只是标准的超级英雄拯救世界，那么这次的叙事可能会让你感到一丝冒犯，但如果你喜欢那种游走在光怪陆离边缘的奇幻体验，这部作品的氛围感绝对能把你牢牢锁在座位上。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">它最大的魅力，在于打破了那种整齐划一的漫威工业糖精感。山姆·雷米并没有掩饰自己的恶趣味，他把那些被主流超英片避之不及的惊悚元素——干枯的肢体、扭曲的视觉错位、甚至带着一点B级片色彩的狂暴镜头，统统塞进了多元宇宙的缝隙里。伊丽莎白·奥尔森饰演的旺达，是整部影片最令人心碎的锚点。她那种“即便世界毁灭我也要找回孩子”的偏执，被导演拍出了一种悲剧性的壮美，这使得影片在光影交错的喧嚣中，有了一种沉甸甸的内核。你不会看到那种苍白的善恶对决，而是看到两个在不同宇宙中被生活磨损的灵魂，如何对抗自己的宿命。摄影机在不同宇宙间穿梭时，那种色彩的剧烈转换，既是视觉的享受，也是对角色内心破碎感的隐喻。虽然在剧情逻辑上，它有时显得有些急促，但这种在混乱中寻找秩序的叙事方式，恰恰呼应了“疯狂”二字。它没有为了博取好感而降低门槛，反而用一种近乎任性的姿态，去探索超级英雄电影到底能走多远。看完后，那种萦绕在脑海里的不是爆炸特效，而是那种名为遗憾的余温。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">如果你看腻了流水线式的超级英雄片，这部《奇异博士2》一定能给你带来意外的冲击。它不是完美的，但它是独特的。山姆·雷米的风格标签如此鲜明，以至于在某些瞬间，你会忘记这还是在看漫威，反而像是在看一场关于魔法与疯狂的哥特式童话。它敢于让角色脆弱，敢于让叙事走钢丝，这份“不安分”的诚意，值得被看见。这不是那种适合在倍速下观看的作品，你需要一点耐心，去品味那些隐藏在诡谲画面背后的孤独与挣扎。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“在每一个宇宙的尽头，我们都在寻找那个未曾拥有的自己。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1084244_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1084244_p.jpg",
+    "update_date": "2026-06-21",
+    "backdrop_path": "images/movie_1084244_b.jpg",
+    "wx_title": "当玩具遇见屏幕：胡迪与巴斯光年的时代困局与回归",
+    "summary": "《玩具总动员5》带着熟悉的伙伴归来，在数字浪潮下探讨童年的本质。面对科技产品的冲击，玩具们如何守护纯粹的陪伴？这是一场关于成长与告别的温暖冒险，值得所有大朋友重温那份最初的感动。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1084244_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">玩具总动员5</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Toy Story 5</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">7.5</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">动画 / 家庭 / 喜剧 / 冒险</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-06-17</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">安德鲁·斯坦顿</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">汤姆·汉克斯 / 蒂姆·艾伦 / 琼·库萨克 / 格蕾塔·李</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">我们第一次见到胡迪和巴斯光年时，世界还没被屏幕完全占领。那时，一个牛仔玩偶就能支撑起整个童年的想象力。而到了这一部，当邦妮房间里的空气开始充斥着发光屏幕和电子音效，这群“元老级”的老朋友们，第一次感受到了什么叫作“被时代边缘化”。电影不仅是在讲述玩偶的故事，更像是在问我们所有人：当科技取代了触感，我们还剩下什么？胡迪依然是那个操心的牛仔，巴斯光年依然挺拔，但面对智能平板小荷这些新面孔，他们显得有些手足无措。这不是那种充满敌意的对抗，而是关于“存在感”的焦虑。导演安德鲁·斯坦顿这次把镜头对准了一个极其现实的命题：在数字化生存的今天，实体玩具是否还有存在的必要？这不仅是一场关于生存危机的冒险，更是一次对童年意义的重新确认。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">《玩具总动员》系列最迷人的地方，永远不在于技术更新了多少，而在于它始终在探讨“陪伴的终点”。这一部最触动我的，是那种温和的妥协。胡迪他们没有试图去摧毁科技，而是在思考如何与这个新世界共存。这种挣扎极具代入感，就像我们看着自己曾经热爱的东西渐渐变成老古董，那种失落与无奈，被精准地捕捉到了。表演方面，汤姆·汉克斯赋予了胡迪一种超越金属与塑料的灵魂，那是几十年的沉淀，只要他开口，你就能感觉到那种为了使命而燃烧的义气。新加入的科技玩具们并非单纯的反派，它们同样渴望被爱，这种多视角的叙事，让本就温情的基调多了一层深刻的哲思。叙事节奏非常克制，没有刻意的煽情，却在每一个细节里都藏着对往昔的致敬。它没有要求观众去否定进步，而是提醒我们，无论世界如何演变，那种无需Wi-Fi、无需充电，仅仅是拥抱就能带来的安全感，是任何高科技产品都无法替代的。这种后劲，会在电影散场后，让你想回到那个塞满旧玩具的角落，摸摸那些沉默的老朋友。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部关于“告别”的练习册。它并没有沉溺在怀旧中不可自拔，而是站在时代的转角，审视着那些被我们遗忘的童年信物。画面依旧保持着顶级水准，但最珍贵的是那份不被时代磨损的情感内核。看完你会明白，玩具不会真正消失，它们只是在等待，等待某一天你再次想起它们，等待再次被握在手心的那一刻。如果你也曾有过一个视若珍宝的玩偶，这部电影就是为你准备的。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“无论屏幕有多闪亮，都无法取代旧日暖阳下，紧握手中玩具时的那份温度。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   },
   {
-    "id": 77696,
-    "title": "奔跑吧，防弹！",
-    "original_title": "달려라 방탄!",
-    "type": "剧集",
-    "rating": 8.6,
-    "date": "2015-08-01",
+    "id": 680,
+    "title": "低俗小说",
+    "original_title": "Pulp Fiction",
+    "type": "电影",
+    "rating": 8.5,
+    "date": "1994-09-10",
     "genres": [
-      "真人秀"
+      "惊悚",
+      "犯罪",
+      "喜剧"
     ],
-    "director": [],
+    "director": [
+      "昆汀·塔伦蒂诺"
+    ],
     "actors": [
-      "RM",
-      "진",
-      "슈가",
-      "제이홉"
+      "约翰·特拉沃尔塔",
+      "塞缪尔·杰克逊",
+      "乌玛·瑟曼",
+      "布鲁斯·威利斯"
     ],
-    "overview": "《Run BTS!》（《奔跑吧，防弹！》）是一档由防弹少年团（BTS）全员出演的网络综艺节目，目前会不定期在Weverse和YouTube平台免费播出，此前曾在V LIVE平台每周更新并免费供观众观看。",
+    "overview": "由序幕、尾声及三个独立又环环相扣的故事构成。早餐店两名劫匪打劫时，偶遇黑道打手朱尔斯与文森特；文森特奉命陪伴老大马沙的妻子，深陷诱惑困境；拳击手布奇因祖传金表，和马沙结下恩怨。",
+    "reviews": [
+      "***The cream of the crop of quirky crime thrillers*** RELEASED IN 1994 and written & directed by Quentin Tarantino, \"Pulp Fiction\" is a drama/thriller/black comedy about two hit men in Los Angeles (John Travolta and Samuel L. Jackson), t",
+      "Insane movie! One of the bests(if not the best) Tarantino's movies!",
+      "Ving Rhames (\"Wallace\") is the kingpin who provides the loosest of templates for a couple of inter-twining tales that are amusing, bizarre and sometimes down right dangerous before we get a sort of alignment at the conclusion. \"Winnfield\" ("
+    ],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_680_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_680_p.jpg",
+    "update_date": "2026-06-21",
+    "backdrop_path": "images/movie_680_b.jpg",
+    "wx_title": "今日精选：低俗小说",
+    "summary": "由序幕、尾声及三个独立又环环相扣的故事构成。早餐店两名劫匪打劫时，偶遇黑道打手朱尔斯与文森特；文森特奉命陪伴老大马沙的妻子，深陷诱惑困境；拳击手布奇因祖传金表，和马沙结下恩怨。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_680_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">低俗小说</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Pulp Fiction</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：惊悚 / 犯罪 / 喜剧<br>导演：昆汀·塔伦蒂诺<br>主演：约翰·特拉沃尔塔 / 塞缪尔·杰克逊 / 乌玛·瑟曼 / 布鲁斯·威利斯<br>日期：1994-09-10</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">由序幕、尾声及三个独立又环环相扣的故事构成。早餐店两名劫匪打劫时，偶遇黑道打手朱尔斯与文森特；文森特奉命陪伴老大马沙的妻子，深陷诱惑困境；拳击手布奇因祖传金表，和马沙结下恩怨。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 278573,
+    "title": "21世纪大君夫人",
+    "original_title": "21세기 대군부인",
+    "type": "剧集",
+    "rating": 8.9,
+    "date": "2026-04-10",
+    "genres": [
+      "喜剧",
+      "剧情"
+    ],
+    "director": [
+      "朴峻华"
+    ],
+    "actors": [
+      "李知恩",
+      "边佑锡",
+      "鲁常泫",
+      "孔升妍"
+    ],
+    "overview": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
     "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_77696_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_77696_p.jpg",
-    "update_date": "2026-06-20",
-    "backdrop_path": "images/tv_77696_b.jpg",
-    "wx_title": "从顶流到综艺人：为什么说《奔跑吧，防弹！》是当之无愧的下饭神作",
-    "summary": "BTS粉丝必修课！《奔跑吧，防弹！》以硬核游戏与爆笑挑战，展现成员最真实的深厚情谊。这档口碑极佳的真人秀不仅是粉丝的快乐源泉，更是每个人解压必备的综艺佳作，不容错过。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_77696_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">奔跑吧，防弹！</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">달려라 방탄!</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.6</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">真人秀</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2015-08-01</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">RM / 진 / 슈가 / 제이홉</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当舞台上的光芒褪去，聚光灯打在这些年轻人脸上时，他们会变成什么样？《奔跑吧，防弹！》给出了一个最鲜活的答案。这档综艺没有剧本里的刻意经营，也没有明星偶像包袱的负担。七个性格迥异的成员，在各种奇奇怪怪的任务中，展现出最接地气的真实一面。看着他们为了一个游戏道具争得面红耳赤，或者因为一个荒唐的任务笑到瘫倒在地上，你会发现，所谓的“顶流”不过是这群爱闹腾的少年，在忙碌的巡演间隙，试图找回的一份少年意气。对于从未了解过他们的观众来说，这档节目就像是一扇窗，不需要深厚的背景知识，只要你正处于疲惫的深夜，需要一点无压力的欢笑，它就是最好的解药。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">它最迷人的地方，在于那份“松弛感”。在很多综艺试图通过冲突制造话题时，这档节目却把重心放在了“陪伴”上。你几乎能从每一个挑战里，看到这七个人之间深厚的默契。这种默契不是演出来的，而是在共同度过无数个日夜后，那种只需要一个眼神就能懂对方在想什么的自然状态。哪怕是一个简单的做饭环节，或者是集体出游的漫长旅途，每一个细碎的互动都填满了温情。节目组的策划也异常硬核，从校园剧场到职场体验，从高难度的运动竞技到令人捧腹的心理博弈，每一期的创意都充满惊喜。这种高密度的笑点叠加，却又恰到好处地留住了情感的温润，让观众在笑过之后，依然能感受到一种被治愈的踏实感。这不仅是一场属于粉丝的狂欢，更像是一个关于友谊的样本，记录着一群人在奔向顶峰的过程中，依然能保持初心的珍贵瞬间。这种真实且滚烫的生命力，才是让这档节目在豆瓣上拿高分的底气所在，因为它懂得，最好的娱乐，就是把真诚交付给屏幕前的每一个观众。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">《奔跑吧，防弹！》证明了顶级偶像卸下光环后的生命力，远比舞台上更迷人。它不只是粉丝的快乐源泉，也是真人秀里少有的，能把“真诚”二字落实到每一分钟的诚意之作。不需要滤镜和台本，他们彼此间的互动本身就是最动人的叙事。如果你在寻找一份无门槛的快乐，这绝对是最佳选择。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“最动人的不是顶峰的荣耀，而是少年们并肩奔跑的瞬间。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_278573_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_278573_p.jpg",
+    "update_date": "2026-06-21",
+    "backdrop_path": "images/tv_278573_b.jpg",
+    "wx_title": "当财阀女强人遇上落魄大君：这部剧，把传统与现代的博弈玩明白了",
+    "summary": "李知恩与边佑锡联手主演《现代王室》，演绎财阀CEO与落魄大君的契约婚姻。这部融合喜剧与现实反思的口碑黑马，带你走进一场华丽又深刻的阶级反叛童话，不容错过。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_278573_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">21世纪大君夫人</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">21세기 대군부인</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.9</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">喜剧 / 剧情</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-04-10</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">朴峻华</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">李知恩 / 边佑锡 / 鲁常泫 / 孔升妍</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当现代首尔的高耸写字楼与古老王宫的朱红大门在同一镜头内重叠，这种错位感正是《21世纪大君夫人》最引人入胜的切入点。在这个架空的君主立宪制国家，阶级不再仅仅是财富的多寡，更是血统与权力的隐形枷锁。故事的女主角成熙周，作为财阀继承人，她拥有足以操控市场的金钱，却在那些所谓贵族眼中，始终不过是个没有底蕴的“外来者”。而与她陷入契约婚姻的理安大君，表面上是王室尊贵的象征，内里却是早已被权力边缘化的空壳。一个有钱无名，一个有名无实，两人的相遇与其说是爱情的萌发，不如说是一场针对社会壁垒的联合反叛。初看之下，这似乎又是一个老套的豪门恋曲，但朴峻华导演处理得极为克制，他没有让剧情落入工业糖精的窠臼，反而将大量的笔墨花在了两人如何在那张巨大的权力网中寻找缝隙。那些华丽的宴会背后，是无数次试探与博弈，每一句对话都像是推开那扇沉重宫门的试金石，让观众在轻快跳脱的喜剧节奏中，冷不丁感受到那份冰冷的阶级重压。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部剧真正迷人的地方，在于它对“身份”的消解。李知恩饰演的成熙周，那种骨子里透出的冷静与坚韧，与边佑锡诠释的大君那种带着忧郁的落魄感，形成了一种奇妙的化学反应。他们不是为了爱情而盲目冲动，而是因为在各自的阶层里都活得太累、太窒息，所以才决定握住对方的手。这种基于共同困境的情感联结，比单纯的甜宠更具厚度。导演在视觉风格上做足了功夫，现代极简主义的冷硬线条与传统建筑的繁复雕花穿插交替，不仅是视觉上的美学享受，更隐喻了两人内心世界冲突的常态。剧集没有一味地批判阶级，而是细腻地捕捉了那些在阶级夹缝中求生的人们的尊严。当成熙周在董事会用数据回击质疑，而理安大君在深夜的御书房凝视着过往的荣光，你会发现，他们两人其实都在试图回答同一个问题：在被既定规则包裹的世界里，人该如何掌握自己的命运？这种对个人意志的探讨，让整部剧在诙谐的情节背后，透出了一股令人深思的底色。你不会觉得他们是童话里的王子公主，反而像是在这个荒诞时代里，两个努力想要活得像个人的普通人。那种在夹缝中开出的花，即便带刺，却也格外真实，让人在落幕之后，依然会被那种清醒的孤独感所触动。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">《21世纪大君夫人》是一部很难被归类的剧，它有着轻喜剧的明快节奏，却深藏着对社会阶级最冷峻的剖析。李知恩的表演极具层次感，那种在财阀高管的冷漠与内心渴望被理解的脆弱间游走的掌控力，让这个角色立住了。而这部剧的成功，在于它没有让“契约婚姻”沦为烂俗的噱头，而是将其变为了两人反抗宿命的武器。它告诉我们，最高级的尊严，永远不是来自血统，而是当你面对权势的倾轧时，依然敢于说“不”。如果你厌倦了那些千篇一律的爽剧，这杯混合了苦涩与回甘的清茶，值得你在某个安静的夜晚，细细品味。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“比起王冠的重量，我更想拥有在这个时代自由呼吸的权利。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 229480,
+    "title": "因为不想吃亏",
+    "original_title": "손해 보기 싫어서",
+    "type": "剧集",
+    "rating": 8.5,
+    "date": "2024-08-26",
+    "genres": [
+      "剧情",
+      "喜剧"
+    ],
+    "director": [
+      "金政植"
+    ],
+    "actors": [
+      "申敏儿",
+      "金永大",
+      "李相二",
+      "韩智贤"
+    ],
+    "overview": "剧情讲述因为不想吃亏而举行假婚礼的女人孙海英与因不想伤害别人而成为假新郎的男人金志旭之间零损益的职场爱情故事。",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_229480_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_229480_p.jpg",
+    "update_date": "2026-06-21",
+    "backdrop_path": "images/tv_229480_b.jpg",
+    "wx_title": "今日精选：因为不想吃亏",
+    "summary": "剧情讲述因为不想吃亏而举行假婚礼的女人孙海英与因不想伤害别人而成为假新郎的男人金志旭之间零损益的职场爱情故事。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_229480_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">因为不想吃亏</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">손해 보기 싫어서</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：剧情 / 喜剧<br>导演：金政植<br>主演：申敏儿 / 金永大 / 李相二 / 韩智贤<br>日期：2024-08-26</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">剧情讲述因为不想吃亏而举行假婚礼的女人孙海英与因不想伤害别人而成为假新郎的男人金志旭之间零损益的职场爱情故事。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   }
 ]
