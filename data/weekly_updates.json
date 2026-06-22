@@ -1,131 +1,65 @@
 [
   {
-    "id": 1084244,
-    "title": "玩具总动员5",
-    "original_title": "Toy Story 5",
+    "id": 402431,
+    "title": "魔法坏女巫",
+    "original_title": "Wicked",
     "type": "电影",
-    "rating": 7.5,
-    "date": "2026-06-17",
-    "genres": [
-      "动画",
-      "家庭",
-      "喜剧",
-      "冒险"
-    ],
-    "director": [
-      "安德鲁·斯坦顿"
-    ],
-    "actors": [
-      "汤姆·汉克斯",
-      "蒂姆·艾伦",
-      "琼·库萨克",
-      "格蕾塔·李"
-    ],
-    "overview": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
-    "reviews": [
-      "Toy Story 5 is a heartwarming return to the beloved franchise that combines nostalgia with fresh storytelling. The animation is stunning, the voice cast delivers exceptional performances, and the emotional depth rivals even the original fil"
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1084244_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1084244_p.jpg",
-    "update_date": "2026-06-21",
-    "backdrop_path": "images/movie_1084244_b.jpg",
-    "wx_title": "当玩具遇见屏幕：胡迪与巴斯光年的时代困局与回归",
-    "summary": "《玩具总动员5》带着熟悉的伙伴归来，在数字浪潮下探讨童年的本质。面对科技产品的冲击，玩具们如何守护纯粹的陪伴？这是一场关于成长与告别的温暖冒险，值得所有大朋友重温那份最初的感动。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1084244_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">玩具总动员5</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Toy Story 5</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">7.5</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">动画 / 家庭 / 喜剧 / 冒险</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-06-17</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">安德鲁·斯坦顿</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">汤姆·汉克斯 / 蒂姆·艾伦 / 琼·库萨克 / 格蕾塔·李</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">我们第一次见到胡迪和巴斯光年时，世界还没被屏幕完全占领。那时，一个牛仔玩偶就能支撑起整个童年的想象力。而到了这一部，当邦妮房间里的空气开始充斥着发光屏幕和电子音效，这群“元老级”的老朋友们，第一次感受到了什么叫作“被时代边缘化”。电影不仅是在讲述玩偶的故事，更像是在问我们所有人：当科技取代了触感，我们还剩下什么？胡迪依然是那个操心的牛仔，巴斯光年依然挺拔，但面对智能平板小荷这些新面孔，他们显得有些手足无措。这不是那种充满敌意的对抗，而是关于“存在感”的焦虑。导演安德鲁·斯坦顿这次把镜头对准了一个极其现实的命题：在数字化生存的今天，实体玩具是否还有存在的必要？这不仅是一场关于生存危机的冒险，更是一次对童年意义的重新确认。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">《玩具总动员》系列最迷人的地方，永远不在于技术更新了多少，而在于它始终在探讨“陪伴的终点”。这一部最触动我的，是那种温和的妥协。胡迪他们没有试图去摧毁科技，而是在思考如何与这个新世界共存。这种挣扎极具代入感，就像我们看着自己曾经热爱的东西渐渐变成老古董，那种失落与无奈，被精准地捕捉到了。表演方面，汤姆·汉克斯赋予了胡迪一种超越金属与塑料的灵魂，那是几十年的沉淀，只要他开口，你就能感觉到那种为了使命而燃烧的义气。新加入的科技玩具们并非单纯的反派，它们同样渴望被爱，这种多视角的叙事，让本就温情的基调多了一层深刻的哲思。叙事节奏非常克制，没有刻意的煽情，却在每一个细节里都藏着对往昔的致敬。它没有要求观众去否定进步，而是提醒我们，无论世界如何演变，那种无需Wi-Fi、无需充电，仅仅是拥抱就能带来的安全感，是任何高科技产品都无法替代的。这种后劲，会在电影散场后，让你想回到那个塞满旧玩具的角落，摸摸那些沉默的老朋友。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部关于“告别”的练习册。它并没有沉溺在怀旧中不可自拔，而是站在时代的转角，审视着那些被我们遗忘的童年信物。画面依旧保持着顶级水准，但最珍贵的是那份不被时代磨损的情感内核。看完你会明白，玩具不会真正消失，它们只是在等待，等待某一天你再次想起它们，等待再次被握在手心的那一刻。如果你也曾有过一个视若珍宝的玩偶，这部电影就是为你准备的。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“无论屏幕有多闪亮，都无法取代旧日暖阳下，紧握手中玩具时的那份温度。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 680,
-    "title": "低俗小说",
-    "original_title": "Pulp Fiction",
-    "type": "电影",
-    "rating": 8.5,
-    "date": "1994-09-10",
-    "genres": [
-      "惊悚",
-      "犯罪",
-      "喜剧"
-    ],
-    "director": [
-      "昆汀·塔伦蒂诺"
-    ],
-    "actors": [
-      "约翰·特拉沃尔塔",
-      "塞缪尔·杰克逊",
-      "乌玛·瑟曼",
-      "布鲁斯·威利斯"
-    ],
-    "overview": "由序幕、尾声及三个独立又环环相扣的故事构成。早餐店两名劫匪打劫时，偶遇黑道打手朱尔斯与文森特；文森特奉命陪伴老大马沙的妻子，深陷诱惑困境；拳击手布奇因祖传金表，和马沙结下恩怨。",
-    "reviews": [
-      "***The cream of the crop of quirky crime thrillers*** RELEASED IN 1994 and written & directed by Quentin Tarantino, \"Pulp Fiction\" is a drama/thriller/black comedy about two hit men in Los Angeles (John Travolta and Samuel L. Jackson), t",
-      "Insane movie! One of the bests(if not the best) Tarantino's movies!",
-      "Ving Rhames (\"Wallace\") is the kingpin who provides the loosest of templates for a couple of inter-twining tales that are amusing, bizarre and sometimes down right dangerous before we get a sort of alignment at the conclusion. \"Winnfield\" ("
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_680_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_680_p.jpg",
-    "update_date": "2026-06-21",
-    "backdrop_path": "images/movie_680_b.jpg",
-    "wx_title": "今日精选：低俗小说",
-    "summary": "由序幕、尾声及三个独立又环环相扣的故事构成。早餐店两名劫匪打劫时，偶遇黑道打手朱尔斯与文森特；文森特奉命陪伴老大马沙的妻子，深陷诱惑困境；拳击手布奇因祖传金表，和马沙结下恩怨。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_680_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">低俗小说</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Pulp Fiction</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：惊悚 / 犯罪 / 喜剧<br>导演：昆汀·塔伦蒂诺<br>主演：约翰·特拉沃尔塔 / 塞缪尔·杰克逊 / 乌玛·瑟曼 / 布鲁斯·威利斯<br>日期：1994-09-10</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">由序幕、尾声及三个独立又环环相扣的故事构成。早餐店两名劫匪打劫时，偶遇黑道打手朱尔斯与文森特；文森特奉命陪伴老大马沙的妻子，深陷诱惑困境；拳击手布奇因祖传金表，和马沙结下恩怨。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 278573,
-    "title": "21世纪大君夫人",
-    "original_title": "21세기 대군부인",
-    "type": "剧集",
-    "rating": 8.9,
-    "date": "2026-04-10",
-    "genres": [
-      "喜剧",
-      "剧情"
-    ],
-    "director": [
-      "朴峻华"
-    ],
-    "actors": [
-      "李知恩",
-      "边佑锡",
-      "鲁常泫",
-      "孔升妍"
-    ],
-    "overview": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
-    "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_278573_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_278573_p.jpg",
-    "update_date": "2026-06-21",
-    "backdrop_path": "images/tv_278573_b.jpg",
-    "wx_title": "当财阀女强人遇上落魄大君：这部剧，把传统与现代的博弈玩明白了",
-    "summary": "李知恩与边佑锡联手主演《现代王室》，演绎财阀CEO与落魄大君的契约婚姻。这部融合喜剧与现实反思的口碑黑马，带你走进一场华丽又深刻的阶级反叛童话，不容错过。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_278573_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">21世纪大君夫人</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">21세기 대군부인</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.9</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">喜剧 / 剧情</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-04-10</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">朴峻华</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">李知恩 / 边佑锡 / 鲁常泫 / 孔升妍</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当现代首尔的高耸写字楼与古老王宫的朱红大门在同一镜头内重叠，这种错位感正是《21世纪大君夫人》最引人入胜的切入点。在这个架空的君主立宪制国家，阶级不再仅仅是财富的多寡，更是血统与权力的隐形枷锁。故事的女主角成熙周，作为财阀继承人，她拥有足以操控市场的金钱，却在那些所谓贵族眼中，始终不过是个没有底蕴的“外来者”。而与她陷入契约婚姻的理安大君，表面上是王室尊贵的象征，内里却是早已被权力边缘化的空壳。一个有钱无名，一个有名无实，两人的相遇与其说是爱情的萌发，不如说是一场针对社会壁垒的联合反叛。初看之下，这似乎又是一个老套的豪门恋曲，但朴峻华导演处理得极为克制，他没有让剧情落入工业糖精的窠臼，反而将大量的笔墨花在了两人如何在那张巨大的权力网中寻找缝隙。那些华丽的宴会背后，是无数次试探与博弈，每一句对话都像是推开那扇沉重宫门的试金石，让观众在轻快跳脱的喜剧节奏中，冷不丁感受到那份冰冷的阶级重压。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部剧真正迷人的地方，在于它对“身份”的消解。李知恩饰演的成熙周，那种骨子里透出的冷静与坚韧，与边佑锡诠释的大君那种带着忧郁的落魄感，形成了一种奇妙的化学反应。他们不是为了爱情而盲目冲动，而是因为在各自的阶层里都活得太累、太窒息，所以才决定握住对方的手。这种基于共同困境的情感联结，比单纯的甜宠更具厚度。导演在视觉风格上做足了功夫，现代极简主义的冷硬线条与传统建筑的繁复雕花穿插交替，不仅是视觉上的美学享受，更隐喻了两人内心世界冲突的常态。剧集没有一味地批判阶级，而是细腻地捕捉了那些在阶级夹缝中求生的人们的尊严。当成熙周在董事会用数据回击质疑，而理安大君在深夜的御书房凝视着过往的荣光，你会发现，他们两人其实都在试图回答同一个问题：在被既定规则包裹的世界里，人该如何掌握自己的命运？这种对个人意志的探讨，让整部剧在诙谐的情节背后，透出了一股令人深思的底色。你不会觉得他们是童话里的王子公主，反而像是在这个荒诞时代里，两个努力想要活得像个人的普通人。那种在夹缝中开出的花，即便带刺，却也格外真实，让人在落幕之后，依然会被那种清醒的孤独感所触动。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">《21世纪大君夫人》是一部很难被归类的剧，它有着轻喜剧的明快节奏，却深藏着对社会阶级最冷峻的剖析。李知恩的表演极具层次感，那种在财阀高管的冷漠与内心渴望被理解的脆弱间游走的掌控力，让这个角色立住了。而这部剧的成功，在于它没有让“契约婚姻”沦为烂俗的噱头，而是将其变为了两人反抗宿命的武器。它告诉我们，最高级的尊严，永远不是来自血统，而是当你面对权势的倾轧时，依然敢于说“不”。如果你厌倦了那些千篇一律的爽剧，这杯混合了苦涩与回甘的清茶，值得你在某个安静的夜晚，细细品味。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“比起王冠的重量，我更想拥有在这个时代自由呼吸的权利。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 229480,
-    "title": "因为不想吃亏",
-    "original_title": "손해 보기 싫어서",
-    "type": "剧集",
-    "rating": 8.5,
-    "date": "2024-08-26",
+    "rating": 6.9,
+    "date": "2024-10-16",
     "genres": [
       "剧情",
-      "喜剧"
+      "爱情",
+      "奇幻"
     ],
     "director": [
-      "金政植"
+      "朱浩伟"
     ],
     "actors": [
-      "申敏儿",
-      "金永大",
-      "李相二",
-      "韩智贤"
+      "辛西娅·埃里沃",
+      "爱莉安娜·格兰德",
+      "杨紫琼",
+      "乔纳森·贝利"
     ],
-    "overview": "剧情讲述因为不想吃亏而举行假婚礼的女人孙海英与因不想伤害别人而成为假新郎的男人金志旭之间零损益的职场爱情故事。",
+    "overview": "因绿色皮肤而备受误解的艾芙芭与光彩夺目、野心勃勃的格琳达在西兹大学结识，性格迥异的二人却建立起了深厚的友谊。然而，随着与奥兹国大巫师的邂逅，她们的友谊走向十字路口，二人面临着截然不同的命运之路。",
+    "reviews": [
+      "The film adaptation of Wicked is based on the Broadway musical, which is a loose adaptation of the 1995 novel Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire. Both Maguire’s novel and the musical are expansions",
+      "*THIS REVIEW CONTAINS SPOILERS* I've been a Wicked fan since 2010. My expectations for this film were extremely high! And I was blown away by how Jon M. Chu was able to bring this story a new life. Everyone involved did an excellent job!",
+      "OK, so I'm going to be swimming against the tide a bit with this, but I didn't love it. We start where the \"Wizard of Oz\" story finishes off, only without the catchy \"Ding Dong the Witch is...\". Instead we get an ensemble dance number that"
+    ],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_402431_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_402431_p.jpg",
+    "update_date": "2026-06-22",
+    "backdrop_path": "images/movie_402431_b.jpg",
+    "wx_title": "当童话滤镜碎裂：深度解读《魔法坏女巫》背后的权力与友谊",
+    "summary": "作为百老汇经典改编的电影《魔法坏女巫》，朱浩伟执导，辛西娅·埃里沃与爱莉安娜·格兰德联袂出演。影片剥离了奥兹国表面的童话糖衣，呈现了关于权力、误解与成长阵痛的深刻寓言，是近期不可错过的奇幻口碑之作。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_402431_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">魔法坏女巫</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Wicked</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">6.9</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">剧情 / 爱情 / 奇幻</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2024-10-16</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">朱浩伟</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">辛西娅·埃里沃 / 爱莉安娜·格兰德 / 杨紫琼 / 乔纳森·贝利</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当我们谈论《绿野仙踪》，脑海里浮现的总是那个穿着红舞鞋的女孩。但在《魔法坏女巫》的世界里，镜头调转，对准了那个被贴上“邪恶”标签的绿色皮肤女孩——艾芙芭。电影开篇，并未急于铺陈宏大奇幻观，而是将视角缩微至西兹大学的一间宿舍。艾芙芭与格琳达，一个是边缘化的局外人，一个是众星捧月的社交宠儿，两人从最初的剑拔弩张到建立起跨越阶层的友谊，过程既细腻又扎实。这种叙事钩子在于：它剥开了“坏女巫”的伪装，让你看到一个因为天赋异禀而备受孤立的灵魂。对于观众而言，这部电影不仅是华丽的视听奇观，更是一场关于社会偏见与自我觉醒的博弈。当她们步入奥兹国的政治漩涡，曾经坚固的友谊在权力的压榨下开始产生裂纹，这种成长的痛感，正是影片最引人入胜的门槛。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部电影最迷人的地方，在于它对“反派起源”的深层解构。它没有简单地将艾芙芭塑造成受害者，而是展示了她如何从试图融入主流，到逐渐看清奥兹国光鲜外表下流淌的腐朽本质。朱浩伟导演在色彩运用上极具匠心，那抹标志性的绿色皮肤不仅是异类的外壳，更成了她坚守真理的底色。辛西娅·埃里沃与爱莉安娜·格兰德的化学反应是全片的灵魂，前者用极具张力的表演赋予了艾芙芭力量感，后者则在格琳达的浮夸与真诚间找到了完美的平衡。叙事上，影片并未急于给角色定性，而是将选择权留给观众。随着剧情推进，那些原本看似坚不可摧的“正义”开始动摇。这种后劲并非源于特效的堆砌，而是那种“在众人的喧嚣中选择孤独，在既定的童话里撕开真相”的勇气。它探讨的主题关于权力如何异化人心，关于如何在复杂的成人世界中守住那个最初的自己。这种情绪的后劲，会在观影后的深夜里，让你重新审视那些被定义为“正确”或“邪恶”的事物，这或许才是这部奇幻作品在绚丽外表下真正想要留给观众的思考。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">《魔法坏女巫》是一次漂亮的翻盘，它不仅是对经典奥兹故事的致敬，更是一次对立场的重新审视。朱浩伟将百老汇的舞台美学转化为电影语言，每一帧都透着精雕细琢。与其说是奇幻大片，不如说它是一首关于“被误解者”的史诗。辛西娅·埃里沃的演唱和表演完全撑住了角色，那份隐忍与爆发，让艾芙芭成了近年来大银幕上最立体的人物之一。这不是一部单纯的爆米花电影，它有厚度、有温度，更有让观众反复咀嚼的价值。如果你渴望看到一个关于勇气和友谊的复杂叙事，它绝对不会让你失望。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“谁说被写进童话里的，才是最终的真相。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 83100,
+    "title": "多罗罗",
+    "original_title": "どろろ",
+    "type": "剧集",
+    "rating": 8.5,
+    "date": "2019-01-07",
+    "genres": [
+      "动画",
+      "动作冒险"
+    ],
+    "director": [],
+    "actors": [
+      "铃木梨央",
+      "铃木扩树",
+      "内田直哉",
+      "大冢明夫"
+    ],
+    "overview": "时为战国。醍醐之国主景光，在某所寺院的大堂中，向12尊鬼神像许愿领土繁荣。作为交换而诞生的景光之后嗣，身体各处都有所欠缺，被视作不祥之子而抛弃到河川之中。时光流逝，鬼神实现了与景光的约定，国家迎来了平安。这样的某天，名为“多罗罗”的年幼盗贼，与某个男人相遇。 那是鬼，还是人——两臂装有刀剑，全身皆为人造的男人“百鬼丸”，其无光之瞳紧紧盯着袭来的妖魔。",
     "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_229480_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_229480_p.jpg",
-    "update_date": "2026-06-21",
-    "backdrop_path": "images/tv_229480_b.jpg",
-    "wx_title": "今日精选：因为不想吃亏",
-    "summary": "剧情讲述因为不想吃亏而举行假婚礼的女人孙海英与因不想伤害别人而成为假新郎的男人金志旭之间零损益的职场爱情故事。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_229480_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">因为不想吃亏</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">손해 보기 싫어서</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：剧情 / 喜剧<br>导演：金政植<br>主演：申敏儿 / 金永大 / 李相二 / 韩智贤<br>日期：2024-08-26</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">剧情讲述因为不想吃亏而举行假婚礼的女人孙海英与因不想伤害别人而成为假新郎的男人金志旭之间零损益的职场爱情故事。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_83100_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_83100_p.jpg",
+    "update_date": "2026-06-22",
+    "backdrop_path": "images/tv_83100_b.jpg",
+    "wx_title": "战国乱世，少年斩鬼寻回残缺的身体：这部重制版动画为何让人泪目？",
+    "summary": "重温手冢治虫经典动画《多罗罗》，讲述少年百鬼丸在乱世中夺回身体的残酷救赎之旅。作品深度探讨人性与权欲代价，画面精良，情感动人，是不可错过的暗黑奇幻佳作。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_83100_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">多罗罗</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">どろろ</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.5</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">动画 / 动作冒险</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2019-01-07</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">铃木梨央 / 铃木扩树 / 内田直哉 / 大冢明夫</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当那个浑身由木头与刀刃拼凑的男人，第一次用那双空洞的眼睛看向这个世界时，你很难不感到一种彻骨的战栗。百鬼丸的一生，是一场关于「被剥夺」的残酷开局。他在战国乱世的冰冷河水中被遗弃，仅仅因为父亲为了那虚妄的领土繁荣，将他作为贡品献给了鬼神。他出生时便是一个残缺的生命，四肢、五官、皮肤，甚至连痛觉都被神明瓜分殆尽。然而，命运的齿轮在少年多罗罗出现时转动了。这个机敏、顽强又带着几分市井气的孤儿，成了百鬼丸在这暗无天日的旅途中唯一的锚点。这不是一个简单的打怪升级故事，而是一个关于「寻回自我」的哲学命题。百鬼丸每斩杀一只鬼神，就会夺回自己身体的一部分，可随之而来的，是这世间真实存在的疼痛、寒冷与喧嚣。对于这样一个原本感知不到痛苦的生物而言，重获感官是否就是幸福？这种独特的设定，让整部作品从一出黑暗奇幻的冒险剧，升华为对生存意义的深度拷问。对于习惯了爽剧节奏的观众，这部动画或许需要一点耐心去沉淀，但当你看到百鬼丸在那片尸横遍野的荒原上，与多罗罗并肩而行时，那种孤独而炽热的羁绊，足以击穿最坚硬的防线。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">《多罗罗》最动人的地方，在于它从未试图给出一个简单的是非答案。在百鬼丸与鬼神的对抗中，我们看到的不是正义对邪恶的碾压，而是「因」与「果」的纠缠。父亲景光为了家国安宁出卖儿子，这是一个极度自私的政治决定，但在那个民不聊生的年代，又有多少人会暗自庆幸自己活在了这份「安宁」之中？这种模糊的道德边界，赋予了作品厚重的历史质感。百鬼丸在寻回感官的过程中，逐渐从一个沉默的杀戮机器，蜕变成了一个有血有肉的人，他开始感受到了对他人的温存，也开始被迫直面那份难以承受的悲伤。多罗罗这个角色则像是乱世中的一道微光，她天真却不幼稚，坚韧且充满生命力，她用一种近乎天性的善良，一点点融化了百鬼丸内心的坚冰。动画在叙事上保留了手冢治虫原作那种沉稳的史诗感，又在视觉表现上赋予了它现代的张力。那种冷峻的色调与偶尔闪现的温情时刻，形成了一种微妙的平衡，让观众在每一次战斗结束后，都能陷入长久的沉思：当我们追求所谓的完整与繁荣时，究竟付出了多少人性作为代价？这不仅是百鬼丸的成长史，更是每一个在现实洪流中感到迷茫的人，对自我的寻找与确认。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部披着奇幻外衣的人性寓言。它没有廉价的煽情，只有在残酷命运中缓缓生长出的温情。百鬼丸的每一次感官恢复都像是一次新生，痛觉与快乐并存，才是真正活着的感觉。如果你厌倦了快节奏的套路化叙事，不妨走进这个战国乱世，去感受那个关于「寻找自己」的古老而动人的答案。它会让你在看完后的很长一段时间里，依然会对那双曾经无光的眼睛念念不忘。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“纵使身体残缺，也要在乱世中拼凑出灵魂的形状。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   }
 ]
