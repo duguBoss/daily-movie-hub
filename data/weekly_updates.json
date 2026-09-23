@@ -1,99 +1,70 @@
 [
   {
-    "id": 980431,
-    "title": "安昂传奇：最后的气宗",
-    "original_title": "Avatar Aang: The Last Airbender",
+    "id": 1698863,
+    "title": "奥德赛",
+    "original_title": "The Odyssey",
     "type": "电影",
-    "rating": 9.1,
-    "date": "2026-07-24",
+    "rating": 4.1,
+    "date": "2026-07-03",
     "genres": [
-      "动画",
       "冒险",
       "奇幻",
       "动作"
     ],
     "director": [
-      "劳伦·蒙哥马利"
+      "Marcel Walz"
     ],
     "actors": [
-      "에릭 남",
-      "戴夫·巴蒂斯塔",
-      "杰西卡·马滕",
-      "Román Zaragoza"
+      "Myrom Kingery",
+      "Morgan Flanagan",
+      "Patrick Byrnes",
+      "多米尼克·基廷"
     ],
-    "overview": "派拉蒙和尼克宣布“降世神通”系列开发三部新的电影，仍是动画形式。第一部由《降世神通：最后的气宗》导演Lauren Montgomery执导，《最后的气宗》主创Bryan Konietzko和Michael DiMartino担任制片人。",
-    "reviews": [
-      "I love that they gave them anime eyes... and made them hot. There was also a great plot :3 I love that they kept with the lore of the shows and built off of the comics!"
-    ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_980431_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_980431_p.jpg",
-    "update_date": "2026-09-22",
-    "backdrop_path": "images/movie_980431_b.jpg",
-    "wx_title": "今日精选：安昂传奇：最后的气宗",
-    "summary": "派拉蒙和尼克宣布“降世神通”系列开发三部新的电影，仍是动画形式。第一部由《降世神通：最后的气宗》导演Lauren Montgomery执导，《最后的气宗》主创Bryan Konietzko和Micha",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_980431_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">安昂传奇：最后的气宗</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Avatar Aang: The Last Airbender</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动画 / 冒险 / 奇幻 / 动作<br>导演：劳伦·蒙哥马利<br>主演：에릭 남 / 戴夫·巴蒂斯塔 / 杰西卡·马滕 / Román Zaragoza<br>日期：2026-07-24</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">派拉蒙和尼克宣布“降世神通”系列开发三部新的电影，仍是动画形式。第一部由《降世神通：最后的气宗》导演Lauren Montgomery执导，《最后的气宗》主创Bryan Konietzko和Michael DiMartino担任制片人。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "overview": "本片取材自古希腊史诗。历经十年战乱，奥德修斯王启程返回伊萨卡，渴望与爱人重逢。然而，归途凶险远胜战场，他必须直面致命的怪物与心怀怨恨的众神，方能幸存。",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1698863_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1698863_p.jpg",
+    "update_date": "2026-09-23",
+    "backdrop_path": "images/movie_1698863_b.jpg",
+    "wx_title": "今日精选：奥德赛",
+    "summary": "本片取材自古希腊史诗。历经十年战乱，奥德修斯王启程返回伊萨卡，渴望与爱人重逢。然而，归途凶险远胜战场，他必须直面致命的怪物与心怀怨恨的众神，方能幸存。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1698863_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">奥德赛</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">The Odyssey</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：冒险 / 奇幻 / 动作<br>导演：Marcel Walz<br>主演：Myrom Kingery / Morgan Flanagan / Patrick Byrnes / 多米尼克·基廷<br>日期：2026-07-03</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">本片取材自古希腊史诗。历经十年战乱，奥德修斯王启程返回伊萨卡，渴望与爱人重逢。然而，归途凶险远胜战场，他必须直面致命的怪物与心怀怨恨的众神，方能幸存。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   },
   {
-    "id": 56292,
-    "title": "碟中谍4：幽灵协议",
-    "original_title": "Mission: Impossible - Ghost Protocol",
+    "id": 808,
+    "title": "怪物史瑞克",
+    "original_title": "Shrek",
     "type": "电影",
-    "rating": 7.1,
-    "date": "2011-12-07",
+    "rating": 7.8,
+    "date": "2001-05-18",
     "genres": [
-      "动作",
-      "惊悚",
-      "冒险"
+      "动画",
+      "喜剧",
+      "奇幻",
+      "冒险",
+      "家庭"
     ],
     "director": [
-      "布拉德·伯德"
+      "安德鲁·亚当森"
     ],
     "actors": [
-      "汤姆·克鲁斯",
-      "宝拉·巴顿",
-      "西蒙·佩吉",
-      "杰瑞米·雷纳"
+      "麦克·梅尔斯",
+      "艾迪·墨菲",
+      "卡梅隆·迪亚兹",
+      "约翰·利思戈"
     ],
-    "overview": "特工汉纳威执行任务时遇害，核机密文件被女杀手莫洛（蕾雅·赛杜 Léa Seydoux 饰）截获。为了找回文件，特工班吉（西蒙·佩吉 Simon Pegg 饰）和特工简（宝拉·巴顿 Paula Patton 饰）从俄罗斯监狱救出了伊桑·亨特（汤姆·克鲁斯 Tom Cruise 饰）。他们接受的幽灵协议任务便是从克林姆林宫盗取核军事密码。然而，当他们接近目标时，却发现被恐怖分子亨德里克斯（迈克尔·恩奎斯特 Michael Nyqvist 饰）捷足先登，抢走了核军事密码。在爆炸中，亨特受困医院，遭俄特工的追捕，幸好他身手矫捷，才化险为夷。不过，亨特的上司也在混乱中丧生，只剩下其助手布兰德（杰瑞米·雷纳 Jeremy Renner 饰）与亨特死里逃生，加上班吉和简，逼上绝境的四人开始了最后一搏，从迪拜到印度，他们出生入死，与恐怖分子斗智斗勇……",
+    "overview": "从前，在一片遥远的沼泽里，住着一个脾气暴躁的怪物史莱克（迈克·迈尔斯 配音）。他珍贵的独居生活，突然被一群恼人的童话人物入侵而彻底打乱。[梦工厂]",
     "reviews": [
-      "Perhaps what I'm missing with _Mission: Impossible_ is the big screen experience. Because I'm just not really feeling the love with this franchise. 15 years down the road since the first film and it still all feels a little unfocussed and s",
-      "This is almost as good as the first outing - almost 20 years ago - for \"Ethan\" (Tom Cruise) and he finds himself on the wrong end of an evaluation from the US Government - led by \"Hunley\" (Alec Baldwin) that wants to dissolve the IMF. He an",
-      "**Mission Impossible: Ghost Protocol takes an already great formula and upgrades it with bigger stunts, more character development, and an expanded universe.** Ghost Protocol tops the list of best Mission Impossible movies and sits near"
+      "Shrek is a masterpiece! It helped subvert the Disney Renaissance formula with great humor and heart. Myers, Murphy, Diaz and Lithgow did a great job voicing the characters. Now that this film is 20 years old, I am glad it existed.",
+      "Eddie Murphy was actually funny in this. I mean he was 1980s Eddie Murphy style funny in this. It was like he was at the top of his game again. It makes you miss Eddie. What we have today is not the glory that he once was. But, beyond",
+      "It was so fun and a new try. 하하"
     ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_56292_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_56292_p.jpg",
-    "update_date": "2026-09-22",
-    "backdrop_path": "images/movie_56292_b.jpg",
-    "wx_title": "今日精选：碟中谍4：幽灵协议",
-    "summary": "特工汉纳威执行任务时遇害，核机密文件被女杀手莫洛（蕾雅·赛杜 Léa Seydoux 饰）截获。为了找回文件，特工班吉（西蒙·佩吉 Simon Pegg 饰）和特工简（宝拉·巴顿 Paula Patt",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_56292_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">碟中谍4：幽灵协议</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Mission: Impossible - Ghost Protocol</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动作 / 惊悚 / 冒险<br>导演：布拉德·伯德<br>主演：汤姆·克鲁斯 / 宝拉·巴顿 / 西蒙·佩吉 / 杰瑞米·雷纳<br>日期：2011-12-07</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">特工汉纳威执行任务时遇害，核机密文件被女杀手莫洛（蕾雅·赛杜 Léa Seydoux 饰）截获。为了找回文件，特工班吉（西蒙·佩吉 Simon Pegg 饰）和特工简（宝拉·巴顿 Paula Patton 饰）从俄罗斯监狱救出了伊桑·亨特（汤姆·克鲁斯 Tom Cruise 饰）。他们接受的幽灵协议任务便是从克林姆林宫盗取核军事密码。然而，当他们接近目标时，却发现被恐怖分子亨德里克斯（迈克尔·恩奎斯特 Michael Nyqvist 饰）捷足先登，抢走了核军事密码。在爆炸中，亨特受困医院，遭俄特工的追捕，幸好他身手矫捷，才化险为夷。不过，亨特的上司也在混乱中丧生，只剩下其助手布兰德（杰瑞米·雷纳 Jeremy Renner 饰）与亨特死里逃生，加上班吉和简，逼上绝境的四人开始了最后一搏，从迪拜到印度，他们出生入死，与恐怖分子斗智斗勇……</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 80539,
-    "title": "来玩游戏吧",
-    "original_title": "あそびあそばせ",
-    "type": "剧集",
-    "rating": 8.5,
-    "date": "2018-07-08",
-    "genres": [
-      "喜剧",
-      "动画"
-    ],
-    "director": [],
-    "actors": [
-      "小原好美",
-      "长江里加",
-      "木野日菜",
-      "伊泽磨纪"
-    ],
-    "overview": "生在日本长在日本、完全不会说英语的金发美少女·奥莉薇，性格认真、知性洋溢、完全不会说英语的短发眼镜娘·香纯，以及虽然性格开朗却无法成为现充的下双马尾少女·华子，三名初中女生创造出来的是“游戏研究会”！？超级可爱有趣、令人捧腹绝倒的JC女生喜剧现在开幕！",
-    "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_80539_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_80539_p.jpg",
-    "update_date": "2026-09-22",
-    "backdrop_path": "images/tv_80539_b.jpg",
-    "wx_title": "今日精选：来玩游戏吧",
-    "summary": "生在日本长在日本、完全不会说英语的金发美少女·奥莉薇，性格认真、知性洋溢、完全不会说英语的短发眼镜娘·香纯，以及虽然性格开朗却无法成为现充的下双马尾少女·华子，三名初中女生创造出来的是“游戏研究会”！",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_80539_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">来玩游戏吧</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">あそびあそばせ</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：喜剧 / 动画<br>导演：暂无<br>主演：小原好美 / 长江里加 / 木野日菜 / 伊泽磨纪<br>日期：2018-07-08</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">生在日本长在日本、完全不会说英语的金发美少女·奥莉薇，性格认真、知性洋溢、完全不会说英语的短发眼镜娘·香纯，以及虽然性格开朗却无法成为现充的下双马尾少女·华子，三名初中女生创造出来的是“游戏研究会”！？超级可爱有趣、令人捧腹绝倒的JC女生喜剧现在开幕！</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_808_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_808_p.jpg",
+    "update_date": "2026-09-23",
+    "backdrop_path": "images/movie_808_b.jpg",
+    "wx_title": "今日精选：怪物史瑞克",
+    "summary": "从前，在一片遥远的沼泽里，住着一个脾气暴躁的怪物史莱克（迈克·迈尔斯 配音）。他珍贵的独居生活，突然被一群恼人的童话人物入侵而彻底打乱。[梦工厂]",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_808_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">怪物史瑞克</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Shrek</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动画 / 喜剧 / 奇幻 / 冒险 / 家庭<br>导演：安德鲁·亚当森<br>主演：麦克·梅尔斯 / 艾迪·墨菲 / 卡梅隆·迪亚兹 / 约翰·利思戈<br>日期：2001-05-18</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">从前，在一片遥远的沼泽里，住着一个脾气暴躁的怪物史莱克（迈克·迈尔斯 配音）。他珍贵的独居生活，突然被一群恼人的童话人物入侵而彻底打乱。[梦工厂]</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   }
 ]
