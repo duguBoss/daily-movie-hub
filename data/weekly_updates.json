@@ -1,70 +1,37 @@
 [
   {
-    "id": 1698863,
-    "title": "奥德赛",
-    "original_title": "The Odyssey",
+    "id": 181808,
+    "title": "星球大战8：最后的绝地武士",
+    "original_title": "Star Wars: The Last Jedi",
     "type": "电影",
-    "rating": 4.1,
-    "date": "2026-07-03",
+    "rating": 6.7,
+    "date": "2017-12-13",
     "genres": [
       "冒险",
-      "奇幻",
-      "动作"
+      "动作",
+      "科幻"
     ],
     "director": [
-      "Marcel Walz"
+      "莱恩·约翰逊"
     ],
     "actors": [
-      "Myrom Kingery",
-      "Morgan Flanagan",
-      "Patrick Byrnes",
-      "多米尼克·基廷"
+      "马克·哈米尔",
+      "凯丽·费雪",
+      "亚当·德赖弗",
+      "黛西·雷德利"
     ],
-    "overview": "本片取材自古希腊史诗。历经十年战乱，奥德修斯王启程返回伊萨卡，渴望与爱人重逢。然而，归途凶险远胜战场，他必须直面致命的怪物与心怀怨恨的众神，方能幸存。",
-    "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1698863_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1698863_p.jpg",
-    "update_date": "2026-09-23",
-    "backdrop_path": "images/movie_1698863_b.jpg",
-    "wx_title": "今日精选：奥德赛",
-    "summary": "本片取材自古希腊史诗。历经十年战乱，奥德修斯王启程返回伊萨卡，渴望与爱人重逢。然而，归途凶险远胜战场，他必须直面致命的怪物与心怀怨恨的众神，方能幸存。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1698863_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">奥德赛</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">The Odyssey</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：冒险 / 奇幻 / 动作<br>导演：Marcel Walz<br>主演：Myrom Kingery / Morgan Flanagan / Patrick Byrnes / 多米尼克·基廷<br>日期：2026-07-03</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">本片取材自古希腊史诗。历经十年战乱，奥德修斯王启程返回伊萨卡，渴望与爱人重逢。然而，归途凶险远胜战场，他必须直面致命的怪物与心怀怨恨的众神，方能幸存。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
-  },
-  {
-    "id": 808,
-    "title": "怪物史瑞克",
-    "original_title": "Shrek",
-    "type": "电影",
-    "rating": 7.8,
-    "date": "2001-05-18",
-    "genres": [
-      "动画",
-      "喜剧",
-      "奇幻",
-      "冒险",
-      "家庭"
-    ],
-    "director": [
-      "安德鲁·亚当森"
-    ],
-    "actors": [
-      "麦克·梅尔斯",
-      "艾迪·墨菲",
-      "卡梅隆·迪亚兹",
-      "约翰·利思戈"
-    ],
-    "overview": "从前，在一片遥远的沼泽里，住着一个脾气暴躁的怪物史莱克（迈克·迈尔斯 配音）。他珍贵的独居生活，突然被一群恼人的童话人物入侵而彻底打乱。[梦工厂]",
+    "overview": "蕾伊在卢克·天行者的指导下锤炼她新发现的能力，而后者却对她的力量感到不安。与此同时，抵抗组织正准备与第一秩序展开对决。",
     "reviews": [
-      "Shrek is a masterpiece! It helped subvert the Disney Renaissance formula with great humor and heart. Myers, Murphy, Diaz and Lithgow did a great job voicing the characters. Now that this film is 20 years old, I am glad it existed.",
-      "Eddie Murphy was actually funny in this. I mean he was 1980s Eddie Murphy style funny in this. It was like he was at the top of his game again. It makes you miss Eddie. What we have today is not the glory that he once was. But, beyond",
-      "It was so fun and a new try. 하하"
+      "I got so high before going in to see \"The Last Jedi\" it's a wonder I figured out how to get into the theater. We started rocking the shatter bong hardcore, just pump it, pump it, till you can actually feel your brain melting, then hit that",
+      "My oldest son, as well as myself of course, wanted to watch this movie already before Christmas when it went up Geneva but it was pretty much sold out (unless you wanted to sit at the very edge of the theatre). I manage to book tickets for",
+      "There is so much to love about _The Last Jedi_. I was very entertained watching this 8th _Star Wars_ saga film, I'll see it again, there's some truly beautiful scenes, all that jazz. But I am not fully on board with _The Last Jedi_. The fil"
     ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_808_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_808_p.jpg",
-    "update_date": "2026-09-23",
-    "backdrop_path": "images/movie_808_b.jpg",
-    "wx_title": "今日精选：怪物史瑞克",
-    "summary": "从前，在一片遥远的沼泽里，住着一个脾气暴躁的怪物史莱克（迈克·迈尔斯 配音）。他珍贵的独居生活，突然被一群恼人的童话人物入侵而彻底打乱。[梦工厂]",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_808_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">怪物史瑞克</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Shrek</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：动画 / 喜剧 / 奇幻 / 冒险 / 家庭<br>导演：安德鲁·亚当森<br>主演：麦克·梅尔斯 / 艾迪·墨菲 / 卡梅隆·迪亚兹 / 约翰·利思戈<br>日期：2001-05-18</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">从前，在一片遥远的沼泽里，住着一个脾气暴躁的怪物史莱克（迈克·迈尔斯 配音）。他珍贵的独居生活，突然被一群恼人的童话人物入侵而彻底打乱。[梦工厂]</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_181808_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_181808_p.jpg",
+    "update_date": "2026-09-24",
+    "backdrop_path": "images/movie_181808_b.jpg",
+    "wx_title": "今日精选：星球大战8：最后的绝地武士",
+    "summary": "蕾伊在卢克·天行者的指导下锤炼她新发现的能力，而后者却对她的力量感到不安。与此同时，抵抗组织正准备与第一秩序展开对决。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_181808_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">星球大战8：最后的绝地武士</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Star Wars: The Last Jedi</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：冒险 / 动作 / 科幻<br>导演：莱恩·约翰逊<br>主演：马克·哈米尔 / 凯丽·费雪 / 亚当·德赖弗 / 黛西·雷德利<br>日期：2017-12-13</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">蕾伊在卢克·天行者的指导下锤炼她新发现的能力，而后者却对她的力量感到不安。与此同时，抵抗组织正准备与第一秩序展开对决。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   }
 ]
