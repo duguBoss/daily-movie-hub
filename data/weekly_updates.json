@@ -1,37 +1,129 @@
 [
   {
-    "id": 181808,
-    "title": "星球大战8：最后的绝地武士",
-    "original_title": "Star Wars: The Last Jedi",
+    "id": 1471168,
+    "title": "巴雷达：灭门凶案",
+    "original_title": "Barreda",
     "type": "电影",
-    "rating": 6.7,
-    "date": "2017-12-13",
+    "rating": 7.2,
+    "date": "2026-08-28",
     "genres": [
-      "冒险",
-      "动作",
-      "科幻"
+      "剧情",
+      "犯罪",
+      "历史"
     ],
     "director": [
-      "莱恩·约翰逊"
+      "Daniela Goggi"
     ],
     "actors": [
-      "马克·哈米尔",
-      "凯丽·费雪",
-      "亚当·德赖弗",
-      "黛西·雷德利"
+      "路易斯·马钦",
+      "Carla Peterson",
+      "梅赛黛斯·莫朗",
+      "Maite Lanata"
     ],
-    "overview": "蕾伊在卢克·天行者的指导下锤炼她新发现的能力，而后者却对她的力量感到不安。与此同时，抵抗组织正准备与第一秩序展开对决。",
+    "overview": "本片改编自阿根廷史上轰动一时的重大刑事案件，还原 1992 年里卡多・巴雷达制造的四口灭门惨案，叙事视角侧重于受害者。",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1471168_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1471168_p.jpg",
+    "update_date": "2026-09-25",
+    "backdrop_path": "images/movie_1471168_b.jpg",
+    "wx_title": "今日精选：巴雷达：灭门凶案",
+    "summary": "本片改编自阿根廷史上轰动一时的重大刑事案件，还原 1992 年里卡多・巴雷达制造的四口灭门惨案，叙事视角侧重于受害者。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1471168_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">巴雷达：灭门凶案</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Barreda</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：剧情 / 犯罪 / 历史<br>导演：Daniela Goggi<br>主演：路易斯·马钦 / Carla Peterson / 梅赛黛斯·莫朗 / Maite Lanata<br>日期：2026-08-28</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">本片改编自阿根廷史上轰动一时的重大刑事案件，还原 1992 年里卡多・巴雷达制造的四口灭门惨案，叙事视角侧重于受害者。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 119450,
+    "title": "猩球崛起2：黎明之战",
+    "original_title": "Dawn of the Planet of the Apes",
+    "type": "电影",
+    "rating": 7.3,
+    "date": "2014-07-08",
+    "genres": [
+      "科幻",
+      "动作",
+      "剧情",
+      "惊悚"
+    ],
+    "director": [
+      "马特·里夫斯"
+    ],
+    "actors": [
+      "安迪·瑟金斯",
+      "杰森·克拉克",
+      "托比·凯贝尔",
+      "加里·奥德曼"
+    ],
+    "overview": "十年前，人类为自己的愚蠢付出惨痛代价，凶险致命的猿流感病毒蔓延全球，世界毁灭殆尽。而在毗邻旧金山的原始丛林，凯撒（安迪·瑟金斯 Andy Serkis 饰）带领猩猩伙伴们建立起无忧无虑的王国，直到某一天，猩猩的家园的宁静再度被人类打破。在旧城苟延残喘的人类面临能源危机，他们试图利用森林腹地大坝的发电站提供能源。青年科学家马尔科姆（杰森·克拉科 Jason Clarke 饰）试图说服聚集地负责人德里弗斯（加里·奥德曼 Gary Oldman 饰），希望通过和平手段取得猩猩部落的信任和同意。然而凯撒的好盟友科巴（托比·凯贝尔 Toby Kebbell 饰）却无法摒除对人类的憎恨，他尝试着挑战者凯撒的权威。人类和猩猩，双方小心翼翼试探，而战争在所难免……",
     "reviews": [
-      "I got so high before going in to see \"The Last Jedi\" it's a wonder I figured out how to get into the theater. We started rocking the shatter bong hardcore, just pump it, pump it, till you can actually feel your brain melting, then hit that",
-      "My oldest son, as well as myself of course, wanted to watch this movie already before Christmas when it went up Geneva but it was pretty much sold out (unless you wanted to sit at the very edge of the theatre). I manage to book tickets for",
-      "There is so much to love about _The Last Jedi_. I was very entertained watching this 8th _Star Wars_ saga film, I'll see it again, there's some truly beautiful scenes, all that jazz. But I am not fully on board with _The Last Jedi_. The fil"
+      "Very epic movie, strong storyline and also stunning graphics.. This is very recommended movie to watch with entire family.",
+      "The story may not be the most original, with its Shakespearean turn overs, but it is well shaped and Serkis performance is remarkable. The animation of the apes, which was already superb in the previous movie, finally reaches a level in",
+      "Following the outbreak of \"Simian Flu\" that has all but wiped out human civilisation, an exploration into the jungle to inspect the remnants of an old dam introduces \"Malcolm\" (Jason Clarke) - rather aggressively - to the apes that occupy t"
     ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_181808_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_181808_p.jpg",
-    "update_date": "2026-09-24",
-    "backdrop_path": "images/movie_181808_b.jpg",
-    "wx_title": "今日精选：星球大战8：最后的绝地武士",
-    "summary": "蕾伊在卢克·天行者的指导下锤炼她新发现的能力，而后者却对她的力量感到不安。与此同时，抵抗组织正准备与第一秩序展开对决。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_181808_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">星球大战8：最后的绝地武士</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Star Wars: The Last Jedi</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：冒险 / 动作 / 科幻<br>导演：莱恩·约翰逊<br>主演：马克·哈米尔 / 凯丽·费雪 / 亚当·德赖弗 / 黛西·雷德利<br>日期：2017-12-13</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">蕾伊在卢克·天行者的指导下锤炼她新发现的能力，而后者却对她的力量感到不安。与此同时，抵抗组织正准备与第一秩序展开对决。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_119450_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_119450_p.jpg",
+    "update_date": "2026-09-25",
+    "backdrop_path": "images/movie_119450_b.jpg",
+    "wx_title": "今日精选：猩球崛起2：黎明之战",
+    "summary": "十年前，人类为自己的愚蠢付出惨痛代价，凶险致命的猿流感病毒蔓延全球，世界毁灭殆尽。而在毗邻旧金山的原始丛林，凯撒（安迪·瑟金斯 Andy Serkis 饰）带领猩猩伙伴们建立起无忧无虑的王国，直到某一",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_119450_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">猩球崛起2：黎明之战</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Dawn of the Planet of the Apes</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：科幻 / 动作 / 剧情 / 惊悚<br>导演：马特·里夫斯<br>主演：安迪·瑟金斯 / 杰森·克拉克 / 托比·凯贝尔 / 加里·奥德曼<br>日期：2014-07-08</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">十年前，人类为自己的愚蠢付出惨痛代价，凶险致命的猿流感病毒蔓延全球，世界毁灭殆尽。而在毗邻旧金山的原始丛林，凯撒（安迪·瑟金斯 Andy Serkis 饰）带领猩猩伙伴们建立起无忧无虑的王国，直到某一天，猩猩的家园的宁静再度被人类打破。在旧城苟延残喘的人类面临能源危机，他们试图利用森林腹地大坝的发电站提供能源。青年科学家马尔科姆（杰森·克拉科 Jason Clarke 饰）试图说服聚集地负责人德里弗斯（加里·奥德曼 Gary Oldman 饰），希望通过和平手段取得猩猩部落的信任和同意。然而凯撒的好盟友科巴（托比·凯贝尔 Toby Kebbell 饰）却无法摒除对人类的憎恨，他尝试着挑战者凯撒的权威。人类和猩猩，双方小心翼翼试探，而战争在所难免……</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 290232,
+    "title": "有你，我不怕",
+    "original_title": "No tengo miedo",
+    "type": "剧集",
+    "rating": 8.8,
+    "date": "2026-07-08",
+    "genres": [
+      "剧情"
+    ],
+    "director": [
+      "Alejandro Zuno"
+    ],
+    "actors": [
+      "路易斯·阿伯提",
+      "Fátima Molina",
+      "Yoshira Escárrega",
+      "温贝托·布斯托"
+    ],
+    "overview": "一个 10 岁的男孩偶然撞见了骇人的一幕，随后他认识到在一个濒临崩溃的小镇上生活、生存并陷入绝望是多么残酷的现实。",
+    "reviews": [],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_290232_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_290232_p.jpg",
+    "update_date": "2026-09-25",
+    "backdrop_path": "images/tv_290232_b.jpg",
+    "wx_title": "撞见那个秘密后，男孩眼里的世界开始崩塌：一部被低估的硬核佳作",
+    "summary": "10岁男孩窥见小镇残酷真相，这部口碑佳作以细腻视角洞察人性极限。在绝望生存中守住微光，一场关于童年与救赎的深度探寻，值得细细品味。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_290232_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">有你，我不怕</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">No tengo miedo</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.8</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">剧情</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-07-08</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">Alejandro Zuno</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">路易斯·阿伯提 / Fátima Molina / Yoshira Escárrega / 温贝托·布斯托</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">那</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">是夏日午后的蝉鸣，还是空气中沉闷的灰尘？10岁的男孩米歇尔，在那场无意间的奔跑中，撞见了一个他不该看见的秘密。那个被深埋在荒原尽头的真相，就像一颗坠入平静湖面的巨石，彻底搅碎了他原本平庸的童年。在那个濒临崩溃的小镇上，空气仿佛永远凝固在燥热与不安里。大人们行色匆匆，眼神闪躲，每个人似乎都背负着不可言说的负重。米歇尔的眼睛成为了我们的窗口，他看到的不仅是暴力与冷漠，还有在废墟之上试图生长的某种纯真。故事的钩子极稳，导演Alejandro Zuno并没有直接将镜头对准冲突，而是通过男孩的视角，将那种“不可名状的恐惧”渗透进每一帧画面。这并不是一部适合在热闹聚会时观看的剧集，它需要你在安静的深夜，留给内心一点点空间去感知那种沉重的压抑感。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">很多人问，为什么一部关于小镇故事的剧集，能让人久久难以平复？答案藏在那种“真实到骨子里”的困境里。它没有那种廉价的戏剧反转，而是用一种极度克制的叙事，去描绘人性在绝望缝隙里的挣扎。主演路易斯·阿伯提等人的表演，几乎隐匿了所谓的“演”痕迹，他们就是那片土地上生长出来的人，被生活磨损，被秘密困住。这种真实感带来的后劲，在于它强迫你直面那种人生选择的残酷：当一个孩子发现周围的世界全是谎言，他还能选择善良吗？那些看似波澜不惊的对话，实则藏着刀锋，每一句温存背后，都是对残酷现实的妥协或抵抗。它探讨的主题很大，关于恐惧、关于守护、关于成长的阵痛，但它又极小，小到只关乎一个男孩的一双眼睛。它不试图教你什么大道理，只是安静地把那段记忆摊开在你面前，让你看着他如何一步步走向那个注定的转折点。观看的过程，就像是与一个沉重的灵魂对话，你会被那种温柔的力量紧紧裹挟，直到最后，你甚至分不清那种心颤，是因为剧情的走向，还是因为在那片荒原上，我们都曾有过那种无力保护什么的时刻。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部带有灰调质感的作品，它不仅是在讲故事，更是在构建一种氛围。导演对节奏的把控堪称老道，那种层层递进的压抑感，并没有让观众产生逃避的念头，反而因为主角身上那股顽强的生命力而感到揪心。它没有刻意卖弄悲剧色彩，而是把那种“在绝望中看见微光”的状态演绎到了极致。如果你近期想看点有深度、能触动内心褶皱的东西，那么《有你，我不怕》绝对是今年不可多得的遗珠。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“最深沉的恐惧，往往源于我们终于看清了这世界的真相。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 215072,
+    "title": "杀人者的购物中心",
+    "original_title": "킬러들의 쇼핑몰",
+    "type": "剧集",
+    "rating": 8.5,
+    "date": "2024-01-17",
+    "genres": [
+      "剧情",
+      "动作冒险",
+      "悬疑"
+    ],
+    "director": [],
+    "actors": [
+      "李栋旭",
+      "金慧埈",
+      "金海娜",
+      "金敏"
+    ],
+    "overview": "叔叔郑进湾突然离世后，郑智安继承了神秘购物中心，却发现这里竟是杀手们交易武器与装备的地下商城。随着杀手接连袭来，她被迫面对叔叔隐藏的过去。",
+    "reviews": [
+      "A shop for Killers offers up an interesting take on the assassin genre. A main character who inherits a dark web weapons shop from her uncle for assassins and mercenaries, is an interesting premise. It builds well, with the main charact"
+    ],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_215072_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_215072_p.jpg",
+    "update_date": "2026-09-25",
+    "backdrop_path": "images/tv_215072_b.jpg",
+    "wx_title": "李栋旭这部新剧，把“杀手超市”拍出了硬核叙事的爽感",
+    "summary": "平凡少女意外继承神秘购物中心，卷入血腥杀手世界。韩剧《杀人者的购物中心》融合动作悬疑与家族秘密，李栋旭演绎冷峻杀手，带你开启一场惊心动魄的生存博弈，剧情反转不断，全程高能。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_215072_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">杀人者的购物中心</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">킬러들의 쇼핑몰</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.5</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">剧情 / 动作冒险 / 悬疑</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2024-01-17</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">李栋旭 / 金慧埈 / 金海娜 / 金敏</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当郑智安接到那通预示着噩耗的电话时，她还只是个普通大学生。叔叔郑进湾的意外离世，不仅留下了巨额债务的传闻，还让她被迫接手了一家看似荒废的、名为“购物中心”的诡异网站。直到无数职业杀手如潮水般涌向她的住所，她才意识到，自己从小到大那个沉默寡言的叔叔，背后藏着一个足以颠覆她整个世界的秘密。这部剧最大的钩子在于“揭秘”，它没有落入常规动作剧的套路，而是通过不断穿插的回忆，拼凑出叔叔与侄女之间那段既冰冷又温情的往事。对于观众而言，最大的门槛或许是其独特的叙事结构，因为它不按时间线叙事，每一个闪回都在补充杀手世界的规则。但这正是它迷人的地方——当所有的碎片拼凑完成，你会发现这不仅仅是一个关于生存的逃杀游戏，更是一次关于成长与代价的深度剖析。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部剧的后劲，源于它将“平凡”与“残酷”做出了极致的对比。李栋旭饰演的叔叔，不同于以往那种高光加身的特工，他在大部分时间里显得冷漠、克制，甚至有些不近人情，他教导侄女的方式是近乎残忍的生存训练，但这份残酷背后，藏着他无法宣之于口的深沉守护。镜头语言极其考究，每一场打斗戏都不是单纯的感官刺激，而是在极小的空间内利用道具与环境构建出的博弈感。它没有依赖廉价的特效，而是靠密集的战术配合与人物动作细节，让你感受到什么是真正的职业素养。更难得的是，剧集没有将叙事重点仅仅停留在“谁是杀手”的表层悬疑上，而是花了大量笔墨去探讨“选择”。当被卷入那个暗网世界后，人是否还有资格保持纯粹？当暴力成为日常，人性中的那点微光该如何保存？这种对人物内心冲突的挖掘，使得剧情在快节奏的生死追逐下，依然保持着一份厚重的底色。每当你以为看透了剧情走向时，下一次回溯又会推翻之前的猜测，这种推拉感极大提升了观影的沉浸感。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部把“规则感”玩得非常透彻的动作片。它没有把观众当傻瓜，每一个杀手的出场都有对应的技能设定与背景逻辑，这种严谨的设定让打斗场景显得无比真实且具有说服力。李栋旭的表现尤其出色，他用一种内敛、压抑的方式演活了一个处于灰色地带的守护者。剧情节奏紧凑，没有多余的抒情废话，每一场危机都在逼迫主角完成蜕变。如果你看腻了传统的动作爽片，那么这部剧会是一个极佳的平衡点。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“在这个危机四伏的世界里，活下去本身就是一种对抗。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   }
 ]
