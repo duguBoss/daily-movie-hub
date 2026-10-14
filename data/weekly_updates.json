@@ -1,99 +1,127 @@
 [
   {
-    "id": 977942,
-    "title": "起义",
-    "original_title": "The Uprising",
+    "id": 1341138,
+    "title": "水疗周末",
+    "original_title": "Spa Weekend",
     "type": "电影",
-    "rating": 8.0,
-    "date": "2026-09-10",
+    "rating": 6.6,
+    "date": "2026-08-20",
     "genres": [
-      "历史",
-      "剧情",
-      "动作"
+      "喜剧"
     ],
     "director": [
-      "保罗·格林格拉斯"
+      "乔恩·卢卡斯"
     ],
     "actors": [
-      "安德鲁·加菲尔德",
-      "杰米·贝尔",
-      "斯蒂芬·迪兰",
-      "伍迪·诺曼"
+      "莱斯利·曼恩",
+      "Michelle Buteau",
+      "安娜·法瑞丝",
+      "艾拉·菲舍尔"
     ],
-    "overview": "在中世纪的英格兰，一位无畏的勇士召集平民发动了一场激烈的起义，反抗国王理查德二世的高压统治。随着国家陷入混乱，他的起义军与王室军队展开了一场绝望的自由之战。",
+    "overview": "四位相伴多年的闺蜜恍然发觉，在奔波于事业、感情、家庭与日常琐事的过程中，她们早已忘了该善待自己，也忽略了彼此。身心俱疲、迫切需要喘息的四人，一同前往一处高端温泉度假庄园，度过了一场难忘的周末。这段时光满是欢声笑语，也闹出不少荒唐出格的糗事。",
     "reviews": [
-      "Hot on the heels of the 14th century great plague that killed almost half of the English population, the young and troubled King Richard II (Woody Norman) is being governed by his greedy nobles and clergy. Their actions result in his people"
+      "Hallmark meets chaos / Isla Fisher carries it / rickety, but fun #filmreviewhaiku It's like Hallmark was asked to make Bridesmaids.",
+      "With their professional and family lives having seen them drift apart over the years, the recently divorced \"Coco\" (Michele Buteau) suggests to her friend \"Sophie\" (Anna Faris) that they take birthday girl \"Jane\" (Leslie Mann) for a spa wee"
     ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_977942_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_977942_p.jpg",
-    "update_date": "2026-10-13",
-    "backdrop_path": "images/movie_977942_b.jpg",
-    "wx_title": "保罗·格林格拉斯新作《起义》：在绝望的灰烬中，重燃被压迫者的自由之火",
-    "summary": "由保罗·格林格拉斯执导，安德鲁·加菲尔德主演的《起义》今日推荐。影片重现了中世纪英格兰那场被压迫者发起的自由之战，以冷峻写实的镜头探讨王权下的民生困境。如果你喜欢宏大叙事中的人性挣扎，这部影片扎实的质",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_977942_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">起义</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">The Uprising</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.0</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">历史 / 剧情 / 动作</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-09-10</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">保罗·格林格拉斯</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">安德鲁·加菲尔德 / 杰米·贝尔 / 斯蒂芬·迪兰 / 伍迪·诺曼</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">史</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当黑死病的阴霾刚刚散去，中世纪的英格兰却并未迎来新生，反而深陷于王权与贵族的贪婪泥沼之中。理查德二世的统治下，土地干裂，饥馑遍地，平民在繁重的赋税中苟延残喘。保罗·格林格拉斯此次将镜头对准了这段沉重的历史，通过一个无名勇士的视角，撕开了封建王权华丽袍子下的腐烂疮疤。影片并没有试图去刻画一个完美的英雄，安德鲁·加菲尔德饰演的主角，身上有着一种被生活反复碾压后的粗粝感。他不是为了某种高远的理想而去战斗，更多是因为被逼到墙角后，不得不发出的生存怒吼。看着他召集那些面黄肌瘦的农民，从铁匠铺捡起生锈的镰刀，你很难不为那种绝望中迸发出的生命力感到战栗。导演非常擅长捕捉这种压抑下的爆发，没有好莱坞式的宏大英雄叙事，只有泥土的腥味和冷兵器碰撞的沉重回响，这种历史的真实感，正是这部电影最抓人的钩子。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">《起义》最迷人之处，在于它对“无望之战”的处理。在格林格拉斯的视线下，战争不再是旌旗蔽日的壮举，而是无数个人在绝境中的选择。影片将极大的篇幅留给了那些无名的反抗者，透过那一张张被风霜摧残的脸庞，我们看到的不仅是仇恨，还有对尊严的极度渴望。那种后劲，来自于对个体在时代洪流前卑微却倔强的刻画。没有一个人是全然无畏的，大家都在颤抖，但他们依旧选择了举起武器，这种人性的共鸣超越了中世纪的背景。格林格拉斯标志性的手持摄影，将观众拖入了一场又一场混战，你甚至能感受到铠甲摩擦产生的沉重摩擦声，以及雨水混着泥土渗进靴子的冰冷感。整部影片在叙事上保持着极高的克制，没有廉价的煽情，只有冷静的观察。当冲突最终推向顶峰，那种关于“自由”的追问，被包裹在冷冽的金属与粗布中，直接击中人心。它告诉我们，历史上很多伟大的转折，最初往往只是一群普通人在绝路上的最后一搏。这种叙事力度，会让每个坐在银幕前的观众，在散场后依旧久久回味那种压抑与释放交织的余温。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">这是一部拒绝浪漫化的硬核历史剧。格林格拉斯用极度写实的笔触，将中世纪的残酷与反抗者的坚韧完美融合。安德鲁·加菲尔德的表演极其克制，他把那种被生活压到极致却又在瞬间燃起怒火的层次感拿捏得非常到位。影片的节奏并不快，但每一场戏的张力都拉得很满，看完后你会发现，历史书上的一行字，背后竟是如此沉重的血肉博弈。它不会让你感到热血沸腾，却会让你在冷风中沉默良久。这是一部真正懂得何为“人性之重”的作品，值得每一个沉下心来去感受历史呼吸的影迷细细品味。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“在窒息的王权阴影下，反抗从来不是为了胜利，而是为了证明自己依然活着。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1341138_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1341138_p.jpg",
+    "update_date": "2026-10-14",
+    "backdrop_path": "images/movie_1341138_b.jpg",
+    "wx_title": "今日精选：水疗周末",
+    "summary": "四位相伴多年的闺蜜恍然发觉，在奔波于事业、感情、家庭与日常琐事的过程中，她们早已忘了该善待自己，也忽略了彼此。身心俱疲、迫切需要喘息的四人，一同前往一处高端温泉度假庄园，度过了一场难忘的周末。这段时光",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_1341138_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">水疗周末</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Spa Weekend</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：喜剧<br>导演：乔恩·卢卡斯<br>主演：莱斯利·曼恩 / Michelle Buteau / 安娜·法瑞丝 / 艾拉·菲舍尔<br>日期：2026-08-20</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">四位相伴多年的闺蜜恍然发觉，在奔波于事业、感情、家庭与日常琐事的过程中，她们早已忘了该善待自己，也忽略了彼此。身心俱疲、迫切需要喘息的四人，一同前往一处高端温泉度假庄园，度过了一场难忘的周末。这段时光满是欢声笑语，也闹出不少荒唐出格的糗事。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   },
   {
-    "id": 640,
-    "title": "猫鼠游戏",
-    "original_title": "Catch Me If You Can",
+    "id": 550,
+    "title": "搏击俱乐部",
+    "original_title": "Fight Club",
     "type": "电影",
-    "rating": 8.0,
-    "date": "2002-12-16",
+    "rating": 8.4,
+    "date": "1999-10-15",
     "genres": [
       "剧情",
-      "犯罪"
+      "惊悚"
     ],
     "director": [
-      "史蒂文·斯皮尔伯格"
+      "大卫·芬奇"
     ],
     "actors": [
-      "莱昂纳多·迪卡普里奥",
-      "汤姆·汉克斯",
-      "克里斯托弗·沃肯",
-      "马丁·辛"
+      "爱德华·诺顿",
+      "布拉德·皮特",
+      "海伦娜·伯翰·卡特",
+      "密特·劳弗"
     ],
-    "overview": "父母婚姻破裂后，尚未成年的弗兰克·阿巴内尔离家出走，并凭借过人的伪装能力和伪造支票的手段四处行骗。他先后冒充飞行员、医生和律师，在不同身份之间游刃有余，并骗取了数百万美元。与此同时，FBI探员卡尔·汉拉蒂逐渐锁定了这个年轻而狡猾的骗子，并对他展开锲而不舍的追捕。一次次逃脱与追踪之间，两人由此展开了一场旷日持久的“猫鼠游戏”……",
+    "overview": "杰克( 爱德华·诺顿 Edward Norton 饰)是一个充满中年危机意识的人，他非常憎恨自己的生活及一切，再加上他患有严重的失眠症，所以他常常参加各种团体咨询会，只为了能接触人群。在某一个团体咨询会上，杰克遇上了一个跟他同样理由来参加的女烟枪，玛拉(海伦娜·邦汉·卡特 Helena Bonham Carter 饰)，在莫名激素的影响下，杰克和玛拉一起逃离了咨询会，两人的情愫因而滋生… 一个偶然的机会，杰克遇到了卖肥皂的商人泰勒(布拉德·皮特 Brad Pitt 饰)，一个浑身充满叛逆、残酷和暴烈的痞子英雄，并因为自己公寓失火而住进了泰勒破旧不堪的家中。两人因缘际会地成为了好朋友，并创立了“搏击俱乐部”：一个让人们不戴护具而徒手搏击，宗旨在于发泄情绪的地下组织。",
     "reviews": [
-      "This was an entertaining and fun piece of film making from the ever-reliable Steven Spielberg. It is a bit of a depart from his usual full-blown and hugely epic pictures, yet this does not detract at all from the fascinating story of Frank",
-      "**Catch Me If You Can is an entertaining and amusing film full of Spielberg, Hanks, and DiCaprio charm.** With Tom Hanks and Leonardo DiCaprio as leads and Steven Spielberg directing, I don't think it's possible not to enjoy this movie.",
-      "Just as great as expected. I'm not quite sure how I've never got around to watching this, for two reasons: Leonardo DiCaprio and Tom Hanks. Literally two of my favourite actors. Well, at least I have now and I can only add to the general"
+      "Pretty awesome movie. It shows what one crazy person can convince other crazy people to do. Everyone needs something to believe in. I recommend Jesus Christ, but they want Tyler Durden.",
+      "In my top 5 of all time favourite movies. Great story line and a movie you can watch over and over again.",
+      "If you enjoy reading my Spoiler-Free reviews, please follow my blog @ https://www.msbreviews.com David Fincher’s new film, Mank, is coming soon on Netflix, released six years after his latest installment, Gone Girl. Therefore, this week"
     ],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_640_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_640_p.jpg",
-    "update_date": "2026-10-13",
-    "backdrop_path": "images/movie_640_b.jpg",
-    "wx_title": "当小李子遇上汤姆·汉克斯，这部跨越几十年的智斗经典，到底有多耐看？",
-    "summary": "斯皮尔伯格执导《猫鼠游戏》，莱昂纳多与汤姆·汉克斯强强联手。这部犯罪剧情片节奏轻快，讲述了一场跨国身份骗局背后的成长与孤独，是不可错过的影史经典。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_640_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">猫鼠游戏</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Catch Me If You Can</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.0</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">剧情 / 犯罪</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2002-12-16</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">史蒂文·斯皮尔伯格</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">莱昂纳多·迪卡普里奥 / 汤姆·汉克斯</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">谎</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">言，是弗兰克构建世界的方式。那个年代的支票骗局，在斯皮尔伯格的镜头下变成了一场华丽的冒险。屏幕上，莱昂纳多饰演的弗兰克换上一套笔挺的飞行员制服，那种少年意气中混杂着的狡黠，让人很难不对这个“天才骗子”产生复杂的情感。他不是为了钱，而是为了填补内心深处的那个空洞。当父母婚姻破裂，他的家庭支离破碎，他便试图通过伪造身份来重新拼凑出一种理想的生活。这是《猫鼠游戏》最抓人的地方：它并非简单的“猫追老鼠”，而是一个天才少年如何在孤独的逃亡中，一次次推倒又重建自己的面具。对于没看过的观众，这部电影的门槛极低，却有着极高的观赏性，不需要沉重的心理负担，你只需跟着这节奏紧凑的节奏，看两个男人如何在智商与情感的博弈中，逐渐产生一种超越了正义与邪恶的羁绊。这不仅是一场骗术表演，更是一场关于寻找归宿的漫长告别。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部电影最迷人的地方，在于它赋予了犯罪类型片一种近乎浪漫的温度。它没有刻意卖弄警匪剧中的暴力与压抑，反而有一种轻盈的爵士乐感。弗兰克与卡尔——那个锲而不舍的FBI探员，两人的互动更像是一场跨越电话线的“心理治疗”。每当圣诞节的铃声响起，弗兰克给卡尔打去电话时，你看到的不再是猎人与猎物，而是两个同样孤独、同样在试图寻找某种联系的灵魂。斯皮尔伯格在这里收敛了他惯常的宏大叙事，转而聚焦于人物的微表情和支票那薄薄的质感，将一种名为“被理解”的渴望，渲染得淋漓尽致。莱昂纳多的表演精准地捕捉到了角色的那种脆弱，那种在光鲜亮丽的谎言背后，随时准备崩塌的少年心性。而汤姆·汉克斯则是整部影片的压舱石，他那种沉稳、执着且带有一丝笨拙的正直，恰到好处地平衡了弗兰克的飞扬跋扈。你会发现，影片的后劲不在于骗术多么高明，而在于那种“世界上最远的路，是我试图通过假象来靠近你”的宿命感。每一个身份的切换，都是一次对过往的逃离；而每一场追捕，似乎又成了两人之间唯一的联结。当灯光亮起，你会忍不住思考：如果那张支票的背后不是谎言，而是一封寻求慰藉的信，那这场游戏，又该如何落幕？</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">《猫鼠游戏》是一部经得起反复回味的优雅佳作。斯皮尔伯格并没有把重点放在犯罪的猎奇上，而是巧妙地勾勒出了一幅关于“缺失”与“伪装”的众生相。莱昂纳多和汤姆·汉克斯的化学反应简直是教科书级别的，前者用满屏的少年感演出了那种令人心碎的天赋，后者则用厚重的沉稳撑起了电影的底色。它节奏极快，画面精致，是一部无论什么时候点开，都能让你迅速入戏的电影。不仅是犯罪题材的佳作，更是一部探讨成长阵痛的心理侧写，值得每个人在平静的午后静心观赏。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“最精明的谎言，往往只是为了换取一点点被爱的可能。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_550_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_550_p.jpg",
+    "update_date": "2026-10-14",
+    "backdrop_path": "images/movie_550_b.jpg",
+    "wx_title": "今日精选：搏击俱乐部",
+    "summary": "杰克( 爱德华·诺顿 Edward Norton 饰)是一个充满中年危机意识的人，他非常憎恨自己的生活及一切，再加上他患有严重的失眠症，所以他常常参加各种团体咨询会，只为了能接触人群。在某一个团体咨询",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/movie_550_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">搏击俱乐部</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Fight Club</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：剧情 / 惊悚<br>导演：大卫·芬奇<br>主演：爱德华·诺顿 / 布拉德·皮特 / 海伦娜·伯翰·卡特 / 密特·劳弗<br>日期：1999-10-15</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">杰克( 爱德华·诺顿 Edward Norton 饰)是一个充满中年危机意识的人，他非常憎恨自己的生活及一切，再加上他患有严重的失眠症，所以他常常参加各种团体咨询会，只为了能接触人群。在某一个团体咨询会上，杰克遇上了一个跟他同样理由来参加的女烟枪，玛拉(海伦娜·邦汉·卡特 Helena Bonham Carter 饰)，在莫名激素的影响下，杰克和玛拉一起逃离了咨询会，两人的情愫因而滋生… 一个偶然的机会，杰克遇到了卖肥皂的商人泰勒(布拉德·皮特 Brad Pitt 饰)，一个浑身充满叛逆、残酷和暴烈的痞子英雄，并因为自己公寓失火而住进了泰勒破旧不堪的家中。两人因缘际会地成为了好朋友，并创立了“搏击俱乐部”：一个让人们不戴护具而徒手搏击，宗旨在于发泄情绪的地下组织。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   },
   {
-    "id": 284833,
-    "title": "降世神通：七净土",
-    "original_title": "Avatar: Seven Havens",
+    "id": 260249,
+    "title": "审判",
+    "original_title": "El juicio",
     "type": "剧集",
-    "rating": 8.7,
-    "date": "2026-10-09",
+    "rating": 9.1,
+    "date": "2026-09-11",
     "genres": [
-      "动画",
-      "动作冒险",
-      "Sci-Fi & Fantasy",
-      "家庭"
+      "剧情"
     ],
     "director": [],
     "actors": [
-      "Saheli Khan",
-      "Aishwarya 'Aishu' Devan",
-      "Major Curda",
-      "阿克夏伊·卡纳"
+      "欧亨尼奥·德伯兹",
+      "佩德罗·阿隆索",
+      "Karla Gaytán",
+      "Íker Sánchez Solano"
     ],
-    "overview": "灾难性的巨变摧毁了世界，一名年轻的土御术师发现自己是科拉之后的新一任神通。然而，在这个危险的时代，人们视神通为人类的毁灭者，而非救世主。遭到人类与灵体追捕的她，必须与失散多年的双胞胎姐妹联手，揭开身世之谜，并在文明最后的避难所彻底崩溃前拯救七净土。",
+    "overview": "当一名富家继承人被指控强奸同学时，两个家庭之间爆发了一场残酷的拉锯战——一方为了正义而战，另一方则挥舞着权势、金钱与恐惧企图掩盖真相。随着这场拉锯战不断升级、秘密层层剥开，双方父母都被迫面对自己为了保护孩子所能做出的骇人举动，并沉痛地意识到：道德从来都不是非黑即白的。",
     "reviews": [],
-    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_284833_b.jpg",
-    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_284833_p.jpg",
-    "update_date": "2026-10-13",
-    "backdrop_path": "images/tv_284833_b.jpg",
-    "wx_title": "神通转世即是灾难？这部硬核奇幻新作，重新定义了拯救世界的代价",
-    "summary": "《降世神通：七净土》重磅来袭！当神通成为文明崩塌的预兆，新任土御术师将如何破局？这部融合东方奇幻与动作冒险的佳作，不仅有震撼的术法对决，更深度探讨人性抉择，是奇幻剧迷今年不容错过的诚意之作。",
-    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;text-align:justify;\"><section style=\"padding:18px 14px 10px;\"><section style=\"background:linear-gradient(135deg,#16181d 0%,#20242c 55%,#3a2e25 100%);border-radius:24px;overflow:hidden;box-shadow:0 12px 36px rgba(36,31,25,0.16);\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_284833_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"display:flex;justify-content:space-between;align-items:flex-start;gap:12px;\"><section style=\"flex:1;min-width:0;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">降世神通：七净土</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Avatar: Seven Havens</section></section><section style=\"min-width:72px;padding:10px 12px;border-radius:16px;background:rgba(255,255,255,0.08);text-align:center;\"><section style=\"font-size:26px;line-height:1;font-weight:800;color:#f5c16c;\">8.7</section><section style=\"margin-top:4px;font-size:10px;letter-spacing:1px;color:rgba(255,255,255,0.5);\">TMDB</section></section></section><section style=\"margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:10px;\"><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">类型</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">动画 / 动作冒险 / Sci-Fi & Fantasy / 家庭</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">上映日期</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">2026-10-09</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">导演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">暂无</section></section><section style=\"padding:12px 12px;border-radius:16px;background:rgba(255,255,255,0.06);\"><section style=\"font-size:11px;color:rgba(255,255,255,0.5);\">主演</section><section style=\"margin-top:4px;font-size:14px;line-height:1.6;color:#fff;\">Saheli Khan / Aishwarya 'Aishu' Devan / Major Curda / 阿克夏伊·卡纳</section></section></section></section></section></section><section style=\"padding:18px 14px 8px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"overflow:hidden;\"><section style=\"float:left;font-size:50px;line-height:0.9;font-weight:800;color:#c45b3c;padding-right:8px;font-family:Georgia,serif;\">当</section><section style=\"font-size:16px;line-height:1.95;color:#2f2a26;\">当世界从繁荣走向崩塌，人们不再渴望英雄，而是恐惧救世主。这便是《降世神通：七净土》带给观众的第一记重锤。故事发生在一个灾难后的破碎时代，曾经的神通传说，如今成了人人喊打的“毁灭者”。我们的主角，一位年轻的土御术师，在觉醒力量的瞬间，并没有迎来加冕，而是陷入了无穷尽的追杀。这不仅仅是一个关于超能力的故事，更是一场关于流亡与寻找自我的逃杀之旅。她必须在人类的排斥与灵体的觊觎之间寻找生存缝隙，而那一线生机，竟然隐藏在失散多年的双胞胎姐妹身上。如果你曾对那个元素平衡的世界感到着迷，那么这部新作将带你走进一个更幽暗、更复杂的维度。它没有将简单的善恶对立摆在明面上，而是将角色置于文明崩溃的残骸中，去拷问什么才是真正的“平衡”。这不是一部纯粹的娱乐作品，它更像是一封写给挣扎者的情书，如果你喜欢那种层层铺垫、在压抑中寻找光亮的剧情，那它绝对不容错过。</section></section></section></section><section style=\"padding:8px 14px;\"><section style=\"background:linear-gradient(180deg,#fff8ef 0%,#f8efe2 100%);border-radius:22px;padding:22px 16px;box-shadow:0 10px 26px rgba(70,58,43,0.08);\"><section style=\"font-size:20px;line-height:1.4;font-weight:800;color:#2c241f;\">为什么它会留下后劲</section><section style=\"margin-top:12px;font-size:16px;line-height:1.95;color:#403630;\">这部剧最迷人的地方，在于它对“力量”这一核心概念的解构。在很多同类题材中，力量往往意味着通向胜利的钥匙，但在《七净土》里，力量是一种枷锁，也是一种原罪。它精准地捕捉到了少年人在面对未知命运时的那种无力感与迷茫。特别是主角与双胞胎姐妹的情感线，叙事并没有走寻常的温情路线，而是通过一系列残酷的现实考验，去淬炼两人的羁绊。你会看到她们如何从互相防备、甚至针锋相对，逐渐走向生死相托。这种情感的递进是非常扎实的，没有任何刻意的煽情，每一段关系的转折都伴随着情节的急转直下。此外，世界观的构建极为考究，七个所谓的“净土”在灾变背景下展现出截然不同的生存哲学，视觉上的差异感与角色内心的压抑形成了微妙的张力。那种明知前方是绝境，却依然要握紧拳头迈出一步的坚定，正是这部剧最打动人的底色。它不断地在提醒观众：英雄不是从天而降的，而是从废墟中爬出来的。这种叙事后劲，会让你在看完之后，依然忍不住回想主角在面对绝望时那个坚毅的眼神。</section></section></section><section style=\"padding:8px 14px 18px;\"><section style=\"background:#1d1f23;border-radius:22px;padding:22px 16px;\"><section style=\"font-size:18px;line-height:1.4;font-weight:800;color:#f7d18a;\">编辑短评</section><section style=\"margin-top:12px;font-size:15px;line-height:1.9;color:rgba(255,255,255,0.82);\">《七净土》证明了老IP依然可以讲出新故事。它没有陷入重塑辉煌的窠臼，而是将笔触深入到文明的缝隙里，探讨了如果“救世”本身成为一种威胁，人类该如何自处。动作场面干净利落，术法不仅是视觉奇观，更是角色心理的外化。这是一部需要静下心来品味的剧，它不提供廉价的爽感，却能给观众带来关于“选择”与“代价”的深刻共鸣。</section><section style=\"margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.08);font-size:18px;line-height:1.8;color:#fff;font-weight:700;text-align:center;\">“当世界视你为灾厄，你依然要在废墟中寻找名为希望的微光。”</section></section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_260249_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_260249_p.jpg",
+    "update_date": "2026-10-14",
+    "backdrop_path": "images/tv_260249_b.jpg",
+    "wx_title": "今日精选：审判",
+    "summary": "当一名富家继承人被指控强奸同学时，两个家庭之间爆发了一场残酷的拉锯战——一方为了正义而战，另一方则挥舞着权势、金钱与恐惧企图掩盖真相。随着这场拉锯战不断升级、秘密层层剥开，双方父母都被迫面对自己为了保",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_260249_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">审判</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">El juicio</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：剧情<br>导演：暂无<br>主演：欧亨尼奥·德伯兹 / 佩德罗·阿隆索 / Karla Gaytán / Íker Sánchez Solano<br>日期：2026-09-11</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">当一名富家继承人被指控强奸同学时，两个家庭之间爆发了一场残酷的拉锯战——一方为了正义而战，另一方则挥舞着权势、金钱与恐惧企图掩盖真相。随着这场拉锯战不断升级、秘密层层剥开，双方父母都被迫面对自己为了保护孩子所能做出的骇人举动，并沉痛地意识到：道德从来都不是非黑即白的。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
+  },
+  {
+    "id": 288673,
+    "title": "魔女嘉莉",
+    "original_title": "Carrie",
+    "type": "剧集",
+    "rating": 8.5,
+    "date": "2026-10-07",
+    "genres": [
+      "悬疑",
+      "剧情",
+      "Sci-Fi & Fantasy"
+    ],
+    "director": [],
+    "actors": [
+      "莎莫·H·豪威尔",
+      "萨曼莎·斯洛扬",
+      "斯艾娜·阿古顿",
+      "Alison Thornton"
+    ],
+    "overview": "父亲的突然离世迫使嘉莉进入到了残酷的公立高中，她不得不面对席卷社区的校园霸凌丑闻、社交媒体时代无情的压力和冷酷无情，以及伴随青春期而觉醒的神秘心灵感应能力。",
+    "reviews": [
+      "Mike Flanagan (Oculus: Origin of Evil, Dr. Sleep, The Exorcist: Martyrs) created this television series on Amazon Prime Video based on the best selling novel by Stephen King. Mary Elizabeth \"Sissy\" Spacek, Emily Bergl, Angela Bettis &amp; C",
+      "The debut season delivers a genuinely good and atmospheric horror drama that successfully breathes new life into an iconic tale. Expanding the story across eight episodes allows the narrative to build a remarkable setup, grounding the tragi"
+    ],
+    "backdrop_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_288673_b.jpg",
+    "poster_url": "https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_288673_p.jpg",
+    "update_date": "2026-10-14",
+    "backdrop_path": "images/tv_288673_b.jpg",
+    "wx_title": "今日精选：魔女嘉莉",
+    "summary": "父亲的突然离世迫使嘉莉进入到了残酷的公立高中，她不得不面对席卷社区的校园霸凌丑闻、社交媒体时代无情的压力和冷酷无情，以及伴随青春期而觉醒的神秘心灵感应能力。",
+    "wx_content": "<section style=\"margin:0;padding:0;background:#ffffff;\"><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzXgUR7FJnf11qGIo8nmKt6RxibXrb5s4RFb9UZ9UOHQy7fqQyI377Licw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"><section style=\"padding:0;margin:0;\"><section style=\"margin:0;padding:0;background:#f5f1e8;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#1f1f1f;\"><section style=\"padding:18px 14px;\"><section style=\"background:#1d1f23;border-radius:24px;overflow:hidden;\"><img src=\"https://cdn.jsdelivr.net/gh/duguBoss/daily-movie-hub@main/data/images/tv_288673_b.jpg\" style=\"width:100%;display:block;vertical-align:top;max-height:360px;object-fit:cover;\"><section style=\"padding:18px 16px 20px;\"><section style=\"font-size:24px;line-height:1.35;font-weight:800;color:#fff;\">魔女嘉莉</section><section style=\"margin-top:6px;font-size:13px;color:rgba(255,255,255,0.64);\">Carrie</section><section style=\"margin-top:14px;font-size:14px;line-height:1.8;color:#fff;\">类型：悬疑 / 剧情 / Sci-Fi & Fantasy<br>导演：暂无<br>主演：莎莫·H·豪威尔 / 萨曼莎·斯洛扬 / 斯艾娜·阿古顿 / Alison Thornton<br>日期：2026-10-07</section></section></section></section><section style=\"padding:0 14px 18px;\"><section style=\"background:#fff;border-radius:22px;padding:20px 16px;font-size:16px;line-height:1.95;color:#2f2a26;\">父亲的突然离世迫使嘉莉进入到了残酷的公立高中，她不得不面对席卷社区的校园霸凌丑闻、社交媒体时代无情的压力和冷酷无情，以及伴随青春期而觉醒的神秘心灵感应能力。</section></section></section></section><img src=\"https://mmbiz.qpic.cn/mmbiz_gif/3hAJnwuyZuicicZkgJBUCCaricdibomDBrTzk57DCmhVC16o9ILH0Tn1YPEiarfLRRQSVFN2mJdeYibGnBPialPIzvojw/0?wx_fmt=gif\" style=\"width:100%;display:block;\"></section>"
   }
 ]
